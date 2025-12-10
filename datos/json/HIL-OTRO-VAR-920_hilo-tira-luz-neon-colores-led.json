@@ -1,0 +1,61 @@
+{
+  "sku": "HIL-OTRO-VAR-920",
+  "nombre": "Hilo Tira Luz Neon Colores Led 12v 5m Auto Moto Rojo",
+  "slug": "hilo-tira-luz-neon-colores-led-12v-5m-auto-moto-rojo",
+  "categoria": "OTROS",
+  "subcategoria": "Varios",
+  "descripcion": {
+    "corta": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+    "completa": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡ muchasgracias!Somos la tienda online más variada del mercado, donde podrás encontrar todo lo que quieras y una enorme variedad de novedades.\n\nTodos nuestros productos se prueban antes del envío para ofrecerte la mejor experiencia de compra. Si tiene alguna pregunta, no dude en escribirnos y estaremos encantados de ayudarle y asesorarle.\nPon"
+  },
+  "multimedia": {
+    "imagenes": [
+      {
+        "url": "https://http2.mlstatic.com/D_Q_NP_2X_903609-MLC83645958553_042025-E.webp",
+        "textoAlternativo": "Hilo Tira Luz Neon Colores Led 12v 5m Auto Moto Rojo",
+        "esPrincipal": true
+      }
+    ]
+  },
+  "estado": true,
+  "tags": [
+    "auto",
+    "colores",
+    "hilo",
+    "led",
+    "luz",
+    "marca",
+    "moto",
+    "neon",
+    "número",
+    "pieza"
+  ],
+  "variantes": [
+    {
+      "nombre": "Estándar",
+      "unidad": "unidades",
+      "precio": 9999,
+      "descuento": 0,
+      "sku": "HIL-OTRO-VAR-920-VAR001",
+      "esPredeterminado": true
+    }
+  ],
+  "atributos": {
+    "Marca": "Raistar racing",
+    "Número de pieza": 1
+  },
+  "seo": {
+    "metaTitulo": "Hilo Tira Luz Neon Colores Led 12v 5m Auto Moto Rojo",
+    "metaDescripcion": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+    "palabrasClave": [
+      "auto",
+      "colores",
+      "hilo",
+      "led",
+      "luz"
+    ]
+  },
+  "marca": "Raistar racing",
+  "requiereRefrigeracion": false,
+  "ratingAverage": 0
+}

@@ -118,19 +118,19 @@ def extraer_tags(titulo: str, caracteristicas: str = "") -> List[str]:
     # Limitar a máximo 10 tags más relevantes
     return sorted(list(tags))[:10]
 
-def extraer_precio(precio_str: str) -> float:
-    """Extrae el precio numérico del string"""
+def extraer_precio(precio_str: str) -> int:
+    """Extrae el precio numérico del string como entero"""
     if pd.isna(precio_str):
-        return 0.0
+        return 0
     
     # Eliminar símbolo $ y puntos de miles, convertir
     precio_limpio = re.sub(r'[^\d,]', '', str(precio_str))
     precio_limpio = precio_limpio.replace(',', '.')
     
     try:
-        return float(precio_limpio)
+        return int(float(precio_limpio))
     except ValueError:
-        return 0.0
+        return 0
 
 def generar_descripcion_corta(descripcion_completa: str, titulo: str) -> str:
     """Genera descripción corta (máx 160 chars)"""
@@ -248,6 +248,118 @@ def convertir_producto_a_json(row: pd.Series, ruta_imagenes: str = "datos/imagen
     # Eliminar campos None para mantener el JSON limpio
     return {k: v for k, v in producto.items() if v is not None and v != ""}
 
+def convertir_csv_a_json_incremental(
+    archivo_csv: str,
+    carpeta_salida: str = "datos/json",
+    archivo_salida: str = "productos_mercadolibre.json",
+    generar_individuales: bool = True
+):
+    """
+    Convierte el CSV a JSON de manera incremental, sin eliminar productos existentes
+    
+    Args:
+        archivo_csv: Ruta al archivo CSV con los datos
+        carpeta_salida: Carpeta donde guardar los JSON
+        archivo_salida: Nombre del archivo JSON con todos los productos
+        generar_individuales: Si True, genera un JSON por cada producto
+    """
+    from datetime import datetime
+    
+    print(f"📂 Leyendo archivo CSV: {archivo_csv}")
+    df = pd.read_csv(archivo_csv)
+    
+    print(f"📊 Total de productos en CSV: {len(df)}")
+    
+    # Crear carpeta de salida si no existe
+    Path(carpeta_salida).mkdir(parents=True, exist_ok=True)
+    
+    # Leer productos existentes
+    ruta_consolidado = Path(carpeta_salida) / archivo_salida
+    productos_existentes = {}
+    productos_anteriores = 0
+    
+    if ruta_consolidado.exists():
+        print(f"📋 Cargando productos existentes...")
+        with open(ruta_consolidado, 'r', encoding='utf-8') as f:
+            productos_list = json.load(f)
+            productos_anteriores = len(productos_list)
+            # Usar el título como clave única para identificar duplicados
+            for p in productos_list:
+                productos_existentes[p['nombre']] = p
+        print(f"  ✅ {productos_anteriores} productos existentes cargados")
+    
+    # Convertir productos nuevos
+    productos_nuevos = []
+    productos_ignorados = []
+    skus_nuevos = []
+    
+    for idx, row in df.iterrows():
+        nombre = limpiar_texto(row.get('Titulo', 'Producto sin nombre'))
+        
+        # Verificar si el producto ya existe
+        if nombre in productos_existentes:
+            productos_ignorados.append(nombre)
+            continue
+        
+        # Producto nuevo - convertir
+        producto = convertir_producto_a_json(row)
+        productos_existentes[nombre] = producto
+        productos_nuevos.append(producto)
+        skus_nuevos.append(producto['sku'])
+        
+        # Generar JSON individual si se solicita
+        if generar_individuales:
+            nombre_archivo = f"{producto['sku']}_{producto['slug'][:30]}.json"
+            ruta_archivo = Path(carpeta_salida) / nombre_archivo
+            
+            with open(ruta_archivo, 'w', encoding='utf-8') as f:
+                json.dump(producto, f, ensure_ascii=False, indent=2)
+        
+        if (idx + 1) % 10 == 0:
+            print(f"  ⏳ Procesados {idx + 1}/{len(df)} productos...")
+    
+    # Guardar archivo consolidado actualizado
+    print(f"\n💾 Actualizando archivo consolidado: {archivo_salida}")
+    todos_productos = list(productos_existentes.values())
+    
+    with open(ruta_consolidado, 'w', encoding='utf-8') as f:
+        json.dump(todos_productos, f, ensure_ascii=False, indent=2)
+    
+    # Generar reporte
+    fecha_hora = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    reporte = {
+        "fecha_actualizacion": fecha_hora,
+        "productos_anteriores": productos_anteriores,
+        "productos_nuevos": len(productos_nuevos),
+        "productos_ignorados": len(productos_ignorados),
+        "total_productos": len(todos_productos),
+        "skus_nuevos": skus_nuevos,
+        "nombres_ignorados": productos_ignorados[:10] if len(productos_ignorados) > 10 else productos_ignorados
+    }
+    
+    # Guardar reporte
+    ruta_reporte = Path(carpeta_salida) / f"reporte_actualizacion_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json"
+    with open(ruta_reporte, 'w', encoding='utf-8') as f:
+        json.dump(reporte, f, ensure_ascii=False, indent=2)
+    
+    print(f"\n✅ Conversión incremental completada!")
+    print(f"\n📊 RESUMEN:")
+    print(f"   • Productos anteriores: {productos_anteriores}")
+    print(f"   • Productos nuevos agregados: {len(productos_nuevos)}")
+    print(f"   • Productos ignorados (duplicados): {len(productos_ignorados)}")
+    print(f"   • Total productos ahora: {len(todos_productos)}")
+    
+    if skus_nuevos:
+        print(f"\n🆕 SKUs de productos nuevos:")
+        for sku in skus_nuevos[:10]:
+            print(f"   • {sku}")
+        if len(skus_nuevos) > 10:
+            print(f"   ... y {len(skus_nuevos) - 10} más")
+    
+    print(f"\n📄 Reporte guardado en: {ruta_reporte.name}")
+    
+    return reporte
+
 def convertir_csv_a_json(
     archivo_csv: str,
     carpeta_salida: str = "datos/json",
@@ -335,7 +447,7 @@ if __name__ == "__main__":
     import sys
     
     print("=" * 70)
-    print("🔄 CONVERSOR DE CSV A JSON - MODELO DE PRODUCTOS")
+    print("🔄 CONVERSOR DE CSV A JSON - MODO INCREMENTAL")
     print("=" * 70)
     print()
     
@@ -357,8 +469,8 @@ if __name__ == "__main__":
     
     print()
     
-    # Convertir
-    productos = convertir_csv_a_json(
+    # Convertir en modo incremental (preserva productos existentes)
+    reporte = convertir_csv_a_json_incremental(
         archivo_csv=archivo_csv,
         carpeta_salida="datos/json",
         archivo_salida="productos_mercadolibre.json",

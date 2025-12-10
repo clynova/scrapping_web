@@ -1,0 +1,62 @@
+{
+  "sku": "CIE-OTRO-VAR-662",
+  "nombre": "Cierre Capórefuerzouniversal Para Autos Tuning Deslizantepro",
+  "slug": "cierre-caporefuerzouniversal-para-autos-tuning-deslizantepro",
+  "categoria": "OTROS",
+  "subcategoria": "Varios",
+  "descripcion": {
+    "corta": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+    "completa": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡ muchasgracias!Somos la tienda online más variada del mercado, donde podrás encontrar todo lo que quieras y una enorme variedad de novedades.\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\nTodos nuestros productos se prueban antes del envío para ofrecerte la mejor experiencia de compra. Si tiene alguna pregunta, no dude en escribirnos y estaremos encantados de ay"
+  },
+  "multimedia": {
+    "imagenes": [
+      {
+        "url": "https://http2.mlstatic.com/D_Q_NP_2X_706416-MLC82876158604_032025-E.webp",
+        "textoAlternativo": "Cierre Capórefuerzouniversal Para Autos Tuning Deslizantepro",
+        "esPrincipal": true
+      }
+    ]
+  },
+  "estado": true,
+  "tags": [
+    "autos",
+    "cierre",
+    "deslizantepro",
+    "genérica",
+    "marca",
+    "número",
+    "pieza",
+    "tipo",
+    "tuning"
+  ],
+  "variantes": [
+    {
+      "nombre": "Estándar",
+      "unidad": "unidades",
+      "precio": 7980,
+      "descuento": 0,
+      "sku": "CIE-OTRO-VAR-662-VAR001",
+      "esPredeterminado": true
+    }
+  ],
+  "atributos": {
+    "Marca": "Genérica",
+    "Número de pieza": 1,
+    "Tipo de vehículo": "Auto/Camioneta",
+    "Color": "Azul"
+  },
+  "seo": {
+    "metaTitulo": "Cierre Capórefuerzouniversal Para Autos Tuning Deslizantepro",
+    "metaDescripcion": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+    "palabrasClave": [
+      "autos",
+      "cierre",
+      "deslizantepro",
+      "genérica",
+      "marca"
+    ]
+  },
+  "marca": "Genérica",
+  "requiereRefrigeracion": false,
+  "ratingAverage": 0
+}

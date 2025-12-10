@@ -1,0 +1,46 @@
+{
+  "sku": "PLU-OTRO-VAR-112",
+  "nombre": "Plumilla Limpiaparabrisa Siliconavehiculouniversal 22pulgad",
+  "slug": "plumilla-limpiaparabrisa-siliconavehiculouniversal-22pulgad",
+  "categoria": "OTROS",
+  "subcategoria": "Varios",
+  "descripcion": {
+    "corta": "Plumilla Limpiaparabrisa Siliconavehiculouniversal 22pulgad",
+    "completa": null
+  },
+  "multimedia": {
+    "imagenes": [
+      {
+        "url": "https://http2.mlstatic.com/D_Q_NP_2X_858624-MLC88810845864_082025-E.webp",
+        "textoAlternativo": "Plumilla Limpiaparabrisa Siliconavehiculouniversal 22pulgad",
+        "esPrincipal": true
+      }
+    ]
+  },
+  "estado": true,
+  "tags": [
+    "limpiaparabrisa",
+    "plumilla"
+  ],
+  "variantes": [
+    {
+      "nombre": "Estándar",
+      "unidad": "unidades",
+      "precio": 4380,
+      "descuento": 0,
+      "sku": "PLU-OTRO-VAR-112-VAR001",
+      "esPredeterminado": true
+    }
+  ],
+  "atributos": {},
+  "seo": {
+    "metaTitulo": "Plumilla Limpiaparabrisa Siliconavehiculouniversal 22pulgad",
+    "metaDescripcion": "Plumilla Limpiaparabrisa Siliconavehiculouniversal 22pulgad",
+    "palabrasClave": [
+      "limpiaparabrisa",
+      "plumilla"
+    ]
+  },
+  "requiereRefrigeracion": false,
+  "ratingAverage": 0
+}

@@ -1,0 +1,53 @@
+{
+  "sku": "LUZ-OTRO-VAR-483",
+  "nombre": "Luz Estroboscópica 8led Luz De Advertencia Para Coche Y Moto Azul",
+  "slug": "luz-estroboscopica-8led-luz-de-advertencia-para-coche-y-moto-azul",
+  "categoria": "OTROS",
+  "subcategoria": "Varios",
+  "descripcion": {
+    "corta": "Luz Estroboscópica 8led Luz De Advertencia Para Coche Y Moto Azul",
+    "completa": null
+  },
+  "multimedia": {
+    "imagenes": [
+      {
+        "url": "https://http2.mlstatic.com/D_Q_NP_2X_970890-MLC93160474292_092025-E.webp",
+        "textoAlternativo": "Luz Estroboscópica 8led Luz De Advertencia Para Coche Y Moto Azul",
+        "esPrincipal": true
+      }
+    ]
+  },
+  "estado": true,
+  "tags": [
+    "advertencia",
+    "azul",
+    "coche",
+    "estroboscópica",
+    "luz",
+    "moto"
+  ],
+  "variantes": [
+    {
+      "nombre": "Estándar",
+      "unidad": "unidades",
+      "precio": 13980,
+      "descuento": 0,
+      "sku": "LUZ-OTRO-VAR-483-VAR001",
+      "esPredeterminado": true
+    }
+  ],
+  "atributos": {},
+  "seo": {
+    "metaTitulo": "Luz Estroboscópica 8led Luz De Advertencia Para Coche Y Moto",
+    "metaDescripcion": "Luz Estroboscópica 8led Luz De Advertencia Para Coche Y Moto Azul",
+    "palabrasClave": [
+      "advertencia",
+      "azul",
+      "coche",
+      "estroboscópica",
+      "luz"
+    ]
+  },
+  "requiereRefrigeracion": false,
+  "ratingAverage": 0
+}

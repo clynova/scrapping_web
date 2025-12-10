@@ -1,0 +1,64 @@
+{
+  "sku": "PAR-OTRO-VAR-140",
+  "nombre": "Parlantes Para Audio Auto 6 1/2 Pulg 4 600w Negro Negro",
+  "slug": "parlantes-para-audio-auto-6-12-pulg-4-600w-negro-negro",
+  "categoria": "OTROS",
+  "subcategoria": "Varios",
+  "descripcion": {
+    "corta": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+    "completa": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡ muchasgracias!Somos la tienda online más variada del mercado, donde podrás encontrar todo lo que quieras y una enorme variedad de novedades.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nTodos nuestros productos se prueban antes del envío para ofrecerte la mejor experiencia de compra. Si tiene alguna pregunta, no dude en escribirnos y estaremos enca"
+  },
+  "multimedia": {
+    "imagenes": [
+      {
+        "url": "https://http2.mlstatic.com/D_Q_NP_2X_899913-MLC93578827045_092025-E.webp",
+        "textoAlternativo": "Parlantes Para Audio Auto 6 1/2 Pulg 4 600w Negro Negro",
+        "esPrincipal": true
+      }
+    ]
+  },
+  "estado": true,
+  "tags": [
+    "audio",
+    "auto",
+    "línea",
+    "marca",
+    "medios",
+    "negro",
+    "parlantes",
+    "pulg",
+    "racing",
+    "raistar"
+  ],
+  "variantes": [
+    {
+      "nombre": "Estándar",
+      "unidad": "unidades",
+      "precio": 34985,
+      "descuento": 0,
+      "sku": "PAR-OTRO-VAR-140-VAR001",
+      "esPredeterminado": true
+    }
+  ],
+  "atributos": {
+    "Marca": "Raistar racing",
+    "Línea": "Medios",
+    "Modelo": 609,
+    "Color": "Negro",
+    "Cantidad de parlantes": 1
+  },
+  "seo": {
+    "metaTitulo": "Parlantes Para Audio Auto 6 1/2 Pulg 4 600w Negro Negro",
+    "metaDescripcion": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+    "palabrasClave": [
+      "audio",
+      "auto",
+      "línea",
+      "marca",
+      "medios"
+    ]
+  },
+  "marca": "Raistar racing",
+  "requiereRefrigeracion": false,
+  "ratingAverage": 0
+}

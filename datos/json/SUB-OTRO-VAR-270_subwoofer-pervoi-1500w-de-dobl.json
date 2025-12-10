@@ -1,5 +1,5 @@
 {
-  "sku": "SUB-OTRO-VAR-773",
+  "sku": "SUB-OTRO-VAR-270",
   "nombre": "Subwoofer Pervoi 1500w De Doble Bobina Gran Potencia Color Negro",
   "slug": "subwoofer-pervoi-1500w-de-doble-bobina-gran-potencia-color-negro",
   "categoria": "OTROS",
@@ -34,9 +34,9 @@
     {
       "nombre": "Estándar",
       "unidad": "unidades",
-      "precio": 52359.0,
+      "precio": 52359,
       "descuento": 0,
-      "sku": "SUB-OTRO-VAR-773-VAR001",
+      "sku": "SUB-OTRO-VAR-270-VAR001",
       "esPredeterminado": true
     }
   ],

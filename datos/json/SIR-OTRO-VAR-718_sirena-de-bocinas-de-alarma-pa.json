@@ -1,0 +1,64 @@
+{
+  "sku": "SIR-OTRO-VAR-718",
+  "nombre": "Sirena De Bocinas De Alarma Para Coches Y Camiones Eléctrico",
+  "slug": "sirena-de-bocinas-de-alarma-para-coches-y-camiones-electrico",
+  "categoria": "OTROS",
+  "subcategoria": "Varios",
+  "descripcion": {
+    "corta": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+    "completa": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡ muchasgracias!Somos la tienda online más variada del mercado, donde podrás encontrar todo lo que quieras y una enorme variedad de novedades.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nTodos nuestros productos se prueban antes del envío para ofrecerte la mejor experiencia de compra. Si tiene alguna pregunta, no dude en escribirnos y"
+  },
+  "multimedia": {
+    "imagenes": [
+      {
+        "url": "https://http2.mlstatic.com/D_Q_NP_2X_971598-MLC81994306919_012025-E.webp",
+        "textoAlternativo": "Sirena De Bocinas De Alarma Para Coches Y Camiones Eléctrico",
+        "esPrincipal": true
+      }
+    ]
+  },
+  "estado": true,
+  "tags": [
+    "alarma",
+    "bocinas",
+    "camiones",
+    "coches",
+    "eléctrico",
+    "genérica",
+    "marca",
+    "modelo",
+    "número",
+    "pieza"
+  ],
+  "variantes": [
+    {
+      "nombre": "Estándar",
+      "unidad": "unidades",
+      "precio": 6480,
+      "descuento": 0,
+      "sku": "SIR-OTRO-VAR-718-VAR001",
+      "esPredeterminado": true
+    }
+  ],
+  "atributos": {
+    "Marca": "Genérica",
+    "Número de pieza": 1,
+    "Modelo": "H73-10",
+    "Voltaje de la bocina": "12V / 24V",
+    "Color": "Negro"
+  },
+  "seo": {
+    "metaTitulo": "Sirena De Bocinas De Alarma Para Coches Y Camiones Eléctrico",
+    "metaDescripcion": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+    "palabrasClave": [
+      "alarma",
+      "bocinas",
+      "camiones",
+      "coches",
+      "eléctrico"
+    ]
+  },
+  "marca": "Genérica",
+  "requiereRefrigeracion": false,
+  "ratingAverage": 0
+}

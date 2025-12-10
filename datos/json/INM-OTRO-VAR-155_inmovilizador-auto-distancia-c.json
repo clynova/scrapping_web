@@ -1,5 +1,5 @@
 {
-  "sku": "INM-OTRO-VAR-225",
+  "sku": "INM-OTRO-VAR-155",
   "nombre": "Inmovilizador Auto Distancia Corta Corriente Antirobo Autos Inmovilizador 2.4 GHZ 2M",
   "slug": "inmovilizador-auto-distancia-corta-corriente-antirobo-autos-inmovilizador-24-ghz-2m",
   "categoria": "OTROS",
@@ -34,9 +34,9 @@
     {
       "nombre": "Estándar",
       "unidad": "unidades",
-      "precio": 19980.0,
+      "precio": 19980,
       "descuento": 0,
-      "sku": "INM-OTRO-VAR-225-VAR001",
+      "sku": "INM-OTRO-VAR-155-VAR001",
       "esPredeterminado": true
     }
   ],

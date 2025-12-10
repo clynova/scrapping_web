@@ -1,5 +1,5 @@
 {
-  "sku": "KIT-OTRO-VAR-124",
+  "sku": "KIT-OTRO-VAR-248",
   "nombre": "Kit Cables Para Amplificador Betensh 1500 Watts Subwoofer RCA Rojo/Azul",
   "slug": "kit-cables-para-amplificador-betensh-1500-watts-subwoofer-rca-rojoazul",
   "categoria": "OTROS",
@@ -34,9 +34,9 @@
     {
       "nombre": "Estándar",
       "unidad": "unidades",
-      "precio": 7880.0,
+      "precio": 7880,
       "descuento": 0,
-      "sku": "KIT-OTRO-VAR-124-VAR001",
+      "sku": "KIT-OTRO-VAR-248-VAR001",
       "esPredeterminado": true
     }
   ],

@@ -1,0 +1,64 @@
+{
+  "sku": "SUB-OTRO-VAR-133",
+  "nombre": "Subwoofer Plano Amplificado Parlantes Auto+ Kit Instalación Negro",
+  "slug": "subwoofer-plano-amplificado-parlantes-auto-kit-instalacion-negro",
+  "categoria": "OTROS",
+  "subcategoria": "Varios",
+  "descripcion": {
+    "corta": "Descripción",
+    "completa": "Descripción"
+  },
+  "multimedia": {
+    "imagenes": [
+      {
+        "url": "https://http2.mlstatic.com/D_Q_NP_2X_775208-MLC93161560094_092025-E.webp",
+        "textoAlternativo": "Subwoofer Plano Amplificado Parlantes Auto+ Kit Instalación Negro",
+        "esPrincipal": true
+      }
+    ]
+  },
+  "estado": true,
+  "tags": [
+    "amplificado",
+    "auto",
+    "instalación",
+    "kit",
+    "línea",
+    "marca",
+    "modelo",
+    "negro",
+    "parlantes",
+    "plano"
+  ],
+  "variantes": [
+    {
+      "nombre": "Estándar",
+      "unidad": "unidades",
+      "precio": 51209,
+      "descuento": 0,
+      "sku": "SUB-OTRO-VAR-133-VAR001",
+      "esPredeterminado": true
+    }
+  ],
+  "atributos": {
+    "Marca": "Raistar racing",
+    "Línea": 1,
+    "Modelo": "F8",
+    "Color": "Negro",
+    "Cantidad de parlantes": 1
+  },
+  "seo": {
+    "metaTitulo": "Subwoofer Plano Amplificado Parlantes Auto+ Kit Instalación ",
+    "metaDescripcion": "Descripción",
+    "palabrasClave": [
+      "amplificado",
+      "auto",
+      "instalación",
+      "kit",
+      "línea"
+    ]
+  },
+  "marca": "Raistar racing",
+  "requiereRefrigeracion": false,
+  "ratingAverage": 0
+}

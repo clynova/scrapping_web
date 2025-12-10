@@ -1,0 +1,61 @@
+{
+  "sku": "PRO-OTRO-VAR-220",
+  "nombre": "Protector Solar Parabrisa /tapa Sol Auto 60*130cm Azul",
+  "slug": "protector-solar-parabrisa-tapa-sol-auto-60130cm-azul",
+  "categoria": "OTROS",
+  "subcategoria": "Varios",
+  "descripcion": {
+    "corta": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+    "completa": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡ muchasgracias!Somos la tienda online más variada del mercado, donde podrás encontrar todo lo que quieras y una enorme variedad de novedades.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nTodos nuestros productos se prueban antes del envío para ofrecerte la mejor experiencia de compra. Si tiene alguna pregunta, no dude en escribirnos y estaremos enca"
+  },
+  "multimedia": {
+    "imagenes": [
+      {
+        "url": "https://http2.mlstatic.com/D_Q_NP_2X_782092-MLC93975989441_102025-E.webp",
+        "textoAlternativo": "Protector Solar Parabrisa /tapa Sol Auto 60*130cm Azul",
+        "esPrincipal": true
+      }
+    ]
+  },
+  "estado": true,
+  "tags": [
+    "auto",
+    "azul",
+    "marca",
+    "número",
+    "parabrisa",
+    "pieza",
+    "protector",
+    "racing",
+    "raistar",
+    "sol"
+  ],
+  "variantes": [
+    {
+      "nombre": "Estándar",
+      "unidad": "unidades",
+      "precio": 4980,
+      "descuento": 0,
+      "sku": "PRO-OTRO-VAR-220-VAR001",
+      "esPredeterminado": true
+    }
+  ],
+  "atributos": {
+    "Marca": "Raistar racing",
+    "Número de pieza": "H68-8A"
+  },
+  "seo": {
+    "metaTitulo": "Protector Solar Parabrisa /tapa Sol Auto 60*130cm Azul",
+    "metaDescripcion": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+    "palabrasClave": [
+      "auto",
+      "azul",
+      "marca",
+      "número",
+      "parabrisa"
+    ]
+  },
+  "marca": "Raistar racing",
+  "requiereRefrigeracion": false,
+  "ratingAverage": 0
+}

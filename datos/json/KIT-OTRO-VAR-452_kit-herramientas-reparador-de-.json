@@ -1,0 +1,62 @@
+{
+  "sku": "KIT-OTRO-VAR-452",
+  "nombre": "Kit Herramientas Reparador De Vidrios Quita Rayones Auto Negro",
+  "slug": "kit-herramientas-reparador-de-vidrios-quita-rayones-auto-negro",
+  "categoria": "OTROS",
+  "subcategoria": "Varios",
+  "descripcion": {
+    "corta": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+    "completa": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡ muchasgracias!Somos la tienda online más variada del mercado, donde podrás encontrar todo lo que quieras y una enorme variedad de novedades.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nTodos nuestros productos se prueban antes del envío para ofrecerte la mejor experiencia de compra. Si tiene alguna pregunta, no dude en escribirnos y estaremo"
+  },
+  "multimedia": {
+    "imagenes": [
+      {
+        "url": "https://http2.mlstatic.com/D_Q_NP_2X_766492-MLC84601831698_052025-E.webp",
+        "textoAlternativo": "Kit Herramientas Reparador De Vidrios Quita Rayones Auto Negro",
+        "esPrincipal": true
+      }
+    ]
+  },
+  "estado": true,
+  "tags": [
+    "auto",
+    "general",
+    "grietas",
+    "herramientas",
+    "kit",
+    "marca",
+    "modelo",
+    "negro",
+    "quita",
+    "rayones"
+  ],
+  "variantes": [
+    {
+      "nombre": "Estándar",
+      "unidad": "unidades",
+      "precio": 8680,
+      "descuento": 0,
+      "sku": "KIT-OTRO-VAR-452-VAR001",
+      "esPredeterminado": true
+    }
+  ],
+  "atributos": {
+    "Marca": "General",
+    "Modelo": "REPARADOR GRIETAS",
+    "Color": "Negro"
+  },
+  "seo": {
+    "metaTitulo": "Kit Herramientas Reparador De Vidrios Quita Rayones Auto Neg",
+    "metaDescripcion": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+    "palabrasClave": [
+      "auto",
+      "general",
+      "grietas",
+      "herramientas",
+      "kit"
+    ]
+  },
+  "marca": "General",
+  "requiereRefrigeracion": false,
+  "ratingAverage": 0
+}

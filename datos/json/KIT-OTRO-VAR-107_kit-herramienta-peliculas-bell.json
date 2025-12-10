@@ -1,0 +1,62 @@
+{
+  "sku": "KIT-OTRO-VAR-107",
+  "nombre": "Kit Herramienta Películas Belleza Auto Espátulas Instalación",
+  "slug": "kit-herramienta-peliculas-belleza-auto-espatulas-instalacion",
+  "categoria": "OTROS",
+  "subcategoria": "Varios",
+  "descripcion": {
+    "corta": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+    "completa": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡ muchasgracias!Somos la tienda online más variada del mercado, donde podrás encontrar todo lo que quieras y una enorme variedad de novedades.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nTodos nuestros productos se prueban antes del envío para ofrecerte la mejor experiencia de compra. Si tiene alguna pregunta, no dude en escribirnos y"
+  },
+  "multimedia": {
+    "imagenes": [
+      {
+        "url": "https://http2.mlstatic.com/D_Q_NP_2X_741574-MLC82928959217_032025-E.webp",
+        "textoAlternativo": "Kit Herramienta Películas Belleza Auto Espátulas Instalación",
+        "esPrincipal": true
+      }
+    ]
+  },
+  "estado": true,
+  "tags": [
+    "auto",
+    "belleza",
+    "espatulas",
+    "espátulas",
+    "genérica",
+    "herramienta",
+    "herramientas",
+    "instalación",
+    "kit",
+    "marca"
+  ],
+  "variantes": [
+    {
+      "nombre": "Estándar",
+      "unidad": "unidades",
+      "precio": 6399,
+      "descuento": 0,
+      "sku": "KIT-OTRO-VAR-107-VAR001",
+      "esPredeterminado": true
+    }
+  ],
+  "atributos": {
+    "Marca": "Genérica",
+    "Modelo": "Kit Herramientas Espatulas Instalacion Polarizado Vinilo Tuning",
+    "Número de pieza": 7
+  },
+  "seo": {
+    "metaTitulo": "Kit Herramienta Películas Belleza Auto Espátulas Instalación",
+    "metaDescripcion": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+    "palabrasClave": [
+      "auto",
+      "belleza",
+      "espatulas",
+      "espátulas",
+      "genérica"
+    ]
+  },
+  "marca": "Genérica",
+  "requiereRefrigeracion": false,
+  "ratingAverage": 0
+}

@@ -1,0 +1,64 @@
+{
+  "sku": "BOC-OTRO-VAR-979",
+  "nombre": "Bocina Para Auto Coche Altavoz De Alarma Para Camión 7 Tonos",
+  "slug": "bocina-para-auto-coche-altavoz-de-alarma-para-camion-7-tonos",
+  "categoria": "OTROS",
+  "subcategoria": "Varios",
+  "descripcion": {
+    "corta": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+    "completa": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡ muchasgracias!Somos la tienda online más variada del mercado, donde podrás encontrar todo lo que quieras y una enorme variedad de novedades.                  \n                  \nTodos nuestros productos se prueban antes del envío para ofrecerte la mejor experiencia de compra. Si tiene alguna pregunta, no dude en escribirnos y estaremos enca"
+  },
+  "multimedia": {
+    "imagenes": [
+      {
+        "url": "https://http2.mlstatic.com/D_Q_NP_2X_968322-MLC81714826867_122024-E.webp",
+        "textoAlternativo": "Bocina Para Auto Coche Altavoz De Alarma Para Camión 7 Tonos",
+        "esPrincipal": true
+      }
+    ]
+  },
+  "estado": true,
+  "tags": [
+    "alarma",
+    "altavoz",
+    "auto",
+    "bocina",
+    "camión",
+    "coche",
+    "genérica",
+    "marca",
+    "modelo",
+    "número"
+  ],
+  "variantes": [
+    {
+      "nombre": "Estándar",
+      "unidad": "unidades",
+      "precio": 11899,
+      "descuento": 0,
+      "sku": "BOC-OTRO-VAR-979-VAR001",
+      "esPredeterminado": true
+    }
+  ],
+  "atributos": {
+    "Marca": "Genérica",
+    "Número de pieza": 1,
+    "Modelo": "Genérica",
+    "Voltaje de la bocina": "12V",
+    "Color": "Negro"
+  },
+  "seo": {
+    "metaTitulo": "Bocina Para Auto Coche Altavoz De Alarma Para Camión 7 Tonos",
+    "metaDescripcion": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+    "palabrasClave": [
+      "alarma",
+      "altavoz",
+      "auto",
+      "bocina",
+      "camión"
+    ]
+  },
+  "marca": "Genérica",
+  "requiereRefrigeracion": false,
+  "ratingAverage": 0
+}

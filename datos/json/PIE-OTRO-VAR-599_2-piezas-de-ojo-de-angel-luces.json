@@ -1,0 +1,61 @@
+{
+  "sku": "PIE-OTRO-VAR-599",
+  "nombre": "2 Piezas De Ojo De Ángel Luces Antiniebla Universale 3.0inch Blanco",
+  "slug": "2-piezas-de-ojo-de-angel-luces-antiniebla-universale-30inch-blanco",
+  "categoria": "OTROS",
+  "subcategoria": "Varios",
+  "descripcion": {
+    "corta": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+    "completa": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡ muchasgracias!Somos la tienda online más variada del mercado, donde podrás encontrar todo lo que quieras y una enorme variedad de novedades.            \n            \nTodos nuestros productos se prueban antes del envío para ofrecerte la mejor experiencia de compra. Si tiene alguna pregunta, no dude en escribirnos y estaremos encantados de ay"
+  },
+  "multimedia": {
+    "imagenes": [
+      {
+        "url": "https://http2.mlstatic.com/D_Q_NP_2X_768095-MLC93577479971_092025-E.webp",
+        "textoAlternativo": "2 Piezas De Ojo De Ángel Luces Antiniebla Universale 3.0inch Blanco",
+        "esPrincipal": true
+      }
+    ]
+  },
+  "estado": true,
+  "tags": [
+    "antiniebla",
+    "blanco",
+    "genérica",
+    "luces",
+    "marca",
+    "número",
+    "ojo",
+    "pieza",
+    "piezas",
+    "universale"
+  ],
+  "variantes": [
+    {
+      "nombre": "Estándar",
+      "unidad": "unidades",
+      "precio": 22889,
+      "descuento": 0,
+      "sku": "PIE-OTRO-VAR-599-VAR001",
+      "esPredeterminado": true
+    }
+  ],
+  "atributos": {
+    "Marca": "Genérica",
+    "Número de pieza": 1
+  },
+  "seo": {
+    "metaTitulo": "2 Piezas De Ojo De Ángel Luces Antiniebla Universale 3.0inch",
+    "metaDescripcion": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+    "palabrasClave": [
+      "antiniebla",
+      "blanco",
+      "genérica",
+      "luces",
+      "marca"
+    ]
+  },
+  "marca": "Genérica",
+  "requiereRefrigeracion": false,
+  "ratingAverage": 0
+}

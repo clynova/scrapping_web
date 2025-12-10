@@ -1,0 +1,65 @@
+{
+  "sku": "PAR-OTRO-VAR-239",
+  "nombre": "Par De Medios 6.5 Pulgadas Color Negro Negro",
+  "slug": "par-de-medios-65-pulgadas-color-negro-negro",
+  "categoria": "OTROS",
+  "subcategoria": "Varios",
+  "descripcion": {
+    "corta": "Descripción Transforma la experiencia de audio en tu vehículo con el Par de Medios de 6.5 Pulgadas de Raistar Racing. Diseñados específicamente para autos y ...",
+    "completa": "Descripción Transforma la experiencia de audio en tu vehículo con el Par de Medios de 6.5 Pulgadas de Raistar Racing. Diseñados específicamente para autos y camionetas, estos parlantes ofrecen una potencia RMS de 300 W, garantizando un sonido potente y claro que hará vibrar cada viaje. Con un diámetro de 6 pulgadas, su tamaño compacto se adapta perfectamente a diversos espacios, sin sacrificar calidad.\n\nCada par incluye dos parlantes de medio rango, ideales para aquellos que buscan un equilibrio"
+  },
+  "multimedia": {
+    "imagenes": [
+      {
+        "url": "https://http2.mlstatic.com/D_Q_NP_2X_983939-MLA82698253578_032025-E.webp",
+        "textoAlternativo": "Par De Medios 6.5 Pulgadas Color Negro Negro",
+        "esPrincipal": true
+      }
+    ]
+  },
+  "estado": true,
+  "tags": [
+    "color",
+    "línea",
+    "marca",
+    "medio",
+    "medios",
+    "negro",
+    "par",
+    "pulgadas",
+    "racing",
+    "raistar"
+  ],
+  "variantes": [
+    {
+      "nombre": "Estándar",
+      "unidad": "unidades",
+      "precio": 26999,
+      "descuento": 0,
+      "sku": "PAR-OTRO-VAR-239-VAR001",
+      "esPredeterminado": true
+    }
+  ],
+  "atributos": {
+    "Marca": "Raistar racing",
+    "Línea": "Medio",
+    "Modelo": "6.5 pulgadas",
+    "Color": "Negro",
+    "Impedancia": "4 Ω",
+    "Cantidad de parlantes": 2
+  },
+  "seo": {
+    "metaTitulo": "Par De Medios 6.5 Pulgadas Color Negro Negro",
+    "metaDescripcion": "Descripción Transforma la experiencia de audio en tu vehículo con el Par de Medios de 6.5 Pulgadas de Raistar Racing. Diseñados específicamente para autos y ...",
+    "palabrasClave": [
+      "color",
+      "línea",
+      "marca",
+      "medio",
+      "medios"
+    ]
+  },
+  "marca": "Raistar racing",
+  "requiereRefrigeracion": false,
+  "ratingAverage": 0
+}

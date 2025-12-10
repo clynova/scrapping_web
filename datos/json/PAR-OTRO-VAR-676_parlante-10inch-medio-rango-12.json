@@ -1,0 +1,63 @@
+{
+  "sku": "PAR-OTRO-VAR-676",
+  "nombre": "Parlante 10inch Medio Rango 1200w 580w Rms Pervoi Negro",
+  "slug": "parlante-10inch-medio-rango-1200w-580w-rms-pervoi-negro",
+  "categoria": "OTROS",
+  "subcategoria": "Varios",
+  "descripcion": {
+    "corta": "Descripción El Subwoofer Pervoi CTC1060 es la elección perfecta para quienes buscan una experiencia de sonido envolvente en su auto o camioneta. Con una pote...",
+    "completa": "Descripción El Subwoofer Pervoi CTC1060 es la elección perfecta para quienes buscan una experiencia de sonido envolvente en su auto o camioneta. Con una potencia RMS de 1500 W, este subwoofer de doble bobina ofrece un rendimiento excepcional que transforma cualquier viaje en una experiencia musical única. Su diseño compacto de 10 pulgadas permite una fácil integración en diversos espacios, sin sacrificar la calidad del sonido.\n\nEste subwoofer cuenta con un rango de frecuencia de 80 Hz a 6 kHz, l"
+  },
+  "multimedia": {
+    "imagenes": [
+      {
+        "url": "https://http2.mlstatic.com/D_Q_NP_2X_917308-MLA100128701707_122025-E.webp",
+        "textoAlternativo": "Parlante 10inch Medio Rango 1200w 580w Rms Pervoi Negro",
+        "esPrincipal": true
+      }
+    ]
+  },
+  "estado": true,
+  "tags": [
+    "color",
+    "marca",
+    "medio",
+    "modelo",
+    "negro",
+    "parlante",
+    "pervoi",
+    "pervot",
+    "rango",
+    "rms"
+  ],
+  "variantes": [
+    {
+      "nombre": "Estándar",
+      "unidad": "unidades",
+      "precio": 37350,
+      "descuento": 0,
+      "sku": "PAR-OTRO-VAR-676-VAR001",
+      "esPredeterminado": true
+    }
+  ],
+  "atributos": {
+    "Marca": "Pervot",
+    "Modelo": "CTC-1006",
+    "Color": "Negro",
+    "Cantidad de parlantes": 1
+  },
+  "seo": {
+    "metaTitulo": "Parlante 10inch Medio Rango 1200w 580w Rms Pervoi Negro",
+    "metaDescripcion": "Descripción El Subwoofer Pervoi CTC1060 es la elección perfecta para quienes buscan una experiencia de sonido envolvente en su auto o camioneta. Con una pote...",
+    "palabrasClave": [
+      "color",
+      "marca",
+      "medio",
+      "modelo",
+      "negro"
+    ]
+  },
+  "marca": "Pervot",
+  "requiereRefrigeracion": false,
+  "ratingAverage": 0
+}

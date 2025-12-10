@@ -1,0 +1,61 @@
+{
+  "sku": "PAR-OTRO-VAR-302",
+  "nombre": "Parabrisas Auto Sombrilla Para Auto Quitasol Parasol Cubre",
+  "slug": "parabrisas-auto-sombrilla-para-auto-quitasol-parasol-cubre",
+  "categoria": "OTROS",
+  "subcategoria": "Varios",
+  "descripcion": {
+    "corta": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+    "completa": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡ muchasgracias!Somos la tienda online más variada del mercado, donde podrás encontrar todo lo que quieras y una enorme variedad de novedades.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nTodos nuestros productos se prueban antes del envío para ofrecerte la mejor experiencia de compra. Si tiene alguna pregunta, no dude en escribirnos y estaremos enca"
+  },
+  "multimedia": {
+    "imagenes": [
+      {
+        "url": "https://http2.mlstatic.com/D_Q_NP_2X_863939-MLC82822837555_032025-E.webp",
+        "textoAlternativo": "Parabrisas Auto Sombrilla Para Auto Quitasol Parasol Cubre",
+        "esPrincipal": true
+      }
+    ]
+  },
+  "estado": true,
+  "tags": [
+    "auto",
+    "cubre",
+    "generic",
+    "marca",
+    "número",
+    "parabrisas",
+    "parasol",
+    "pieza",
+    "quitasol",
+    "sombrilla"
+  ],
+  "variantes": [
+    {
+      "nombre": "Estándar",
+      "unidad": "unidades",
+      "precio": 8990,
+      "descuento": 0,
+      "sku": "PAR-OTRO-VAR-302-VAR001",
+      "esPredeterminado": true
+    }
+  ],
+  "atributos": {
+    "Marca": "Generic",
+    "Número de pieza": 1
+  },
+  "seo": {
+    "metaTitulo": "Parabrisas Auto Sombrilla Para Auto Quitasol Parasol Cubre",
+    "metaDescripcion": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+    "palabrasClave": [
+      "auto",
+      "cubre",
+      "generic",
+      "marca",
+      "número"
+    ]
+  },
+  "marca": "Generic",
+  "requiereRefrigeracion": false,
+  "ratingAverage": 0
+}

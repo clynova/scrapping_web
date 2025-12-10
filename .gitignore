@@ -40,10 +40,11 @@ viaje_azul_productos_con_detalles.xlsx
 # Carpeta de imágenes duplicada (usar datos/imagenes/ en su lugar)
 imagenes_mercadolibre/
 
-# Variables de entorno
+# Variables de entorno y configuración sensible
 .env
 .env.local
 .env.*.local
+config_servidor.py  # Contiene token de autenticación
 
 # Base de datos
 *.db

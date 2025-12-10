@@ -1,0 +1,55 @@
+{
+  "sku": "SET-OTRO-VAR-810",
+  "nombre": "Set 4 Piezas Pisosde Goma Rojo Para Vehículos Universal Auto Rojo",
+  "slug": "set-4-piezas-pisosde-goma-rojo-para-vehiculos-universal-auto-rojo",
+  "categoria": "OTROS",
+  "subcategoria": "Varios",
+  "descripcion": {
+    "corta": "Set 4 Piezas Pisosde Goma Rojo Para Vehículos Universal Auto Rojo",
+    "completa": null
+  },
+  "multimedia": {
+    "imagenes": [
+      {
+        "url": "https://http2.mlstatic.com/D_Q_NP_2X_809367-MLC97247247783_112025-E.webp",
+        "textoAlternativo": "Set 4 Piezas Pisosde Goma Rojo Para Vehículos Universal Auto Rojo",
+        "esPrincipal": true
+      }
+    ]
+  },
+  "estado": true,
+  "tags": [
+    "auto",
+    "goma",
+    "piezas",
+    "pisosde",
+    "rojo",
+    "set",
+    "universal",
+    "vehículos"
+  ],
+  "variantes": [
+    {
+      "nombre": "Estándar",
+      "unidad": "unidades",
+      "precio": 15326,
+      "descuento": 0,
+      "sku": "SET-OTRO-VAR-810-VAR001",
+      "esPredeterminado": true
+    }
+  ],
+  "atributos": {},
+  "seo": {
+    "metaTitulo": "Set 4 Piezas Pisosde Goma Rojo Para Vehículos Universal Auto",
+    "metaDescripcion": "Set 4 Piezas Pisosde Goma Rojo Para Vehículos Universal Auto Rojo",
+    "palabrasClave": [
+      "auto",
+      "goma",
+      "piezas",
+      "pisosde",
+      "rojo"
+    ]
+  },
+  "requiereRefrigeracion": false,
+  "ratingAverage": 0
+}

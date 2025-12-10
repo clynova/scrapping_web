@@ -1,0 +1,63 @@
+{
+  "sku": "CAR-OTRO-VAR-157",
+  "nombre": "Cargador Inalámbrico Para Coche De 10w Alfombrilla De Carga Color Negro",
+  "slug": "cargador-inalambrico-para-coche-de-10w-alfombrilla-de-carga-color-negro",
+  "categoria": "OTROS",
+  "subcategoria": "Varios",
+  "descripcion": {
+    "corta": "Cargador inalámbrico de 10W para carga rápida de dispositivos móviles. | Conector USB incluido para mayor comodidad en el uso.",
+    "completa": "Cargador inalámbrico de 10W para carga rápida de dispositivos móviles. | Conector USB incluido para mayor comodidad en el uso."
+  },
+  "multimedia": {
+    "imagenes": [
+      {
+        "url": "https://http2.mlstatic.com/D_Q_NP_2X_764601-MLA99443513062_112025-E.webp",
+        "textoAlternativo": "Cargador Inalámbrico Para Coche De 10w Alfombrilla De Carga Color Negro",
+        "esPrincipal": true
+      }
+    ]
+  },
+  "estado": true,
+  "tags": [
+    "alfombrilla",
+    "carga",
+    "cargador",
+    "coche",
+    "color",
+    "conector",
+    "general",
+    "inalámbrico",
+    "marca",
+    "modelo"
+  ],
+  "variantes": [
+    {
+      "nombre": "Estándar",
+      "unidad": "unidades",
+      "precio": 13440,
+      "descuento": 0,
+      "sku": "CAR-OTRO-VAR-157-VAR001",
+      "esPredeterminado": true
+    }
+  ],
+  "atributos": {
+    "Marca": "General",
+    "Modelo": "USB",
+    "Tipo de conector": "USB",
+    "Color": "Negro"
+  },
+  "seo": {
+    "metaTitulo": "Cargador Inalámbrico Para Coche De 10w Alfombrilla De Carga ",
+    "metaDescripcion": "Cargador inalámbrico de 10W para carga rápida de dispositivos móviles. | Conector USB incluido para mayor comodidad en el uso.",
+    "palabrasClave": [
+      "alfombrilla",
+      "carga",
+      "cargador",
+      "coche",
+      "color"
+    ]
+  },
+  "marca": "General",
+  "requiereRefrigeracion": false,
+  "ratingAverage": 0
+}

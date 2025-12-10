@@ -1,0 +1,61 @@
+{
+  "sku": "CIE-OTRO-VAR-594",
+  "nombre": "Cierre Centralizado Universal Alta Calidad Raistar Racing",
+  "slug": "cierre-centralizado-universal-alta-calidad-raistar-racing",
+  "categoria": "OTROS",
+  "subcategoria": "Varios",
+  "descripcion": {
+    "corta": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+    "completa": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡ muchasgracias!Somos la tienda online más variada del mercado, donde podrás encontrar todo lo que quieras y una enorme variedad de novedades.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nTodos nuestros productos se prueban antes del envío para ofrecerte la mejor experiencia de compra. Si tiene alguna pregunta, no dude en escribirnos y estaremos enca"
+  },
+  "multimedia": {
+    "imagenes": [
+      {
+        "url": "https://http2.mlstatic.com/D_Q_NP_2X_732961-MLC90383490068_082025-E.webp",
+        "textoAlternativo": "Cierre Centralizado Universal Alta Calidad Raistar Racing",
+        "esPrincipal": true
+      }
+    ]
+  },
+  "estado": true,
+  "tags": [
+    "alta",
+    "calidad",
+    "centralizado",
+    "cierre",
+    "marca",
+    "número",
+    "pieza",
+    "racing",
+    "raistar",
+    "universal"
+  ],
+  "variantes": [
+    {
+      "nombre": "Estándar",
+      "unidad": "unidades",
+      "precio": 14560,
+      "descuento": 0,
+      "sku": "CIE-OTRO-VAR-594-VAR001",
+      "esPredeterminado": true
+    }
+  ],
+  "atributos": {
+    "Marca": "Raistar racing",
+    "Número de pieza": "H92-5"
+  },
+  "seo": {
+    "metaTitulo": "Cierre Centralizado Universal Alta Calidad Raistar Racing",
+    "metaDescripcion": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+    "palabrasClave": [
+      "alta",
+      "calidad",
+      "centralizado",
+      "cierre",
+      "marca"
+    ]
+  },
+  "marca": "Raistar racing",
+  "requiereRefrigeracion": false,
+  "ratingAverage": 0
+}

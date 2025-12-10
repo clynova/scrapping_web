@@ -1,0 +1,63 @@
+{
+  "sku": "BOC-OTRO-VAR-107",
+  "nombre": "Bocina Eléctrica Coche Tres Trompetas Aire + Compresor Auto",
+  "slug": "bocina-electrica-coche-tres-trompetas-aire-compresor-auto",
+  "categoria": "OTROS",
+  "subcategoria": "Varios",
+  "descripcion": {
+    "corta": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+    "completa": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡ muchasgracias!Somos la tienda online más variada del mercado, donde podrás encontrar todo lo que quieras y una enorme variedad de novedades.                         \n                         \nTodos nuestros productos se prueban antes del envío para ofrecerte la mejor experiencia de compra. Si tiene alguna pregunta, no dude en escribirnos y"
+  },
+  "multimedia": {
+    "imagenes": [
+      {
+        "url": "https://http2.mlstatic.com/D_Q_NP_2X_851614-MLC92320505803_092025-E.webp",
+        "textoAlternativo": "Bocina Eléctrica Coche Tres Trompetas Aire + Compresor Auto",
+        "esPrincipal": true
+      }
+    ]
+  },
+  "estado": true,
+  "tags": [
+    "aire",
+    "auto",
+    "bocina",
+    "coche",
+    "compresor",
+    "eléctrica",
+    "marca",
+    "modelo",
+    "número",
+    "pieza"
+  ],
+  "variantes": [
+    {
+      "nombre": "Estándar",
+      "unidad": "unidades",
+      "precio": 19880,
+      "descuento": 0,
+      "sku": "BOC-OTRO-VAR-107-VAR001",
+      "esPredeterminado": true
+    }
+  ],
+  "atributos": {
+    "Marca": "Universal",
+    "Número de pieza": "H73-3/H25-3",
+    "Modelo": "PerGar Bocina de Aire Musical, Kit de Bocina de Aire con Sonido Musical, 3 Trompetas 12 V 125 DB Bocina de Aire",
+    "Color": "Rojo"
+  },
+  "seo": {
+    "metaTitulo": "Bocina Eléctrica Coche Tres Trompetas Aire + Compresor Auto",
+    "metaDescripcion": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+    "palabrasClave": [
+      "aire",
+      "auto",
+      "bocina",
+      "coche",
+      "compresor"
+    ]
+  },
+  "marca": "Universal",
+  "requiereRefrigeracion": false,
+  "ratingAverage": 0
+}

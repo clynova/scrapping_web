@@ -1,0 +1,64 @@
+{
+  "sku": "BOC-OTRO-VAR-891",
+  "nombre": "Bocina De Caracol Para Coche 12v Impermeable Alta Potencia",
+  "slug": "bocina-de-caracol-para-coche-12v-impermeable-alta-potencia",
+  "categoria": "OTROS",
+  "subcategoria": "Varios",
+  "descripcion": {
+    "corta": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+    "completa": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡ muchasgracias!Somos la tienda online más variada del mercado, donde podrás encontrar todo lo que quieras y una enorme variedad de novedades.\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\nTodos nuestros productos se prueban antes del envío para ofrecerte la mejor experiencia de compra. Si tiene alguna pregunta, no dude en escribirnos y estaremos encantados de ay"
+  },
+  "multimedia": {
+    "imagenes": [
+      {
+        "url": "https://http2.mlstatic.com/D_Q_NP_2X_811620-MLC82711993646_032025-E.webp",
+        "textoAlternativo": "Bocina De Caracol Para Coche 12v Impermeable Alta Potencia",
+        "esPrincipal": true
+      }
+    ]
+  },
+  "estado": true,
+  "tags": [
+    "alta",
+    "bocina",
+    "caracol",
+    "coche",
+    "impermeable",
+    "marca",
+    "modelo",
+    "número",
+    "pieza",
+    "potencia"
+  ],
+  "variantes": [
+    {
+      "nombre": "Estándar",
+      "unidad": "unidades",
+      "precio": 13999,
+      "descuento": 0,
+      "sku": "BOC-OTRO-VAR-891-VAR001",
+      "esPredeterminado": true
+    }
+  ],
+  "atributos": {
+    "Marca": "Universal",
+    "Número de pieza": "H73-24",
+    "Modelo": "Universal",
+    "Voltaje de la bocina": "12V",
+    "Color": "Negro"
+  },
+  "seo": {
+    "metaTitulo": "Bocina De Caracol Para Coche 12v Impermeable Alta Potencia",
+    "metaDescripcion": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+    "palabrasClave": [
+      "alta",
+      "bocina",
+      "caracol",
+      "coche",
+      "impermeable"
+    ]
+  },
+  "marca": "Universal",
+  "requiereRefrigeracion": false,
+  "ratingAverage": 0
+}

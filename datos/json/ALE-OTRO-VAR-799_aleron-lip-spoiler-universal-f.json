@@ -1,0 +1,62 @@
+{
+  "sku": "ALE-OTRO-VAR-799",
+  "nombre": "Alerón Lip Spoiler Universal Flexible Cola De Pato Cajuela",
+  "slug": "aleron-lip-spoiler-universal-flexible-cola-de-pato-cajuela",
+  "categoria": "OTROS",
+  "subcategoria": "Varios",
+  "descripcion": {
+    "corta": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+    "completa": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡ muchasgracias!Somos la tienda online más variada del mercado, donde podrás encontrar todo lo que quieras y una enorme variedad de novedades.            \n            \nTodos nuestros productos se prueban antes del envío para ofrecerte la mejor experiencia de compra. Si tiene alguna pregunta, no dude en escribirnos y estaremos encantados de ay"
+  },
+  "multimedia": {
+    "imagenes": [
+      {
+        "url": "https://http2.mlstatic.com/D_Q_NP_2X_985625-MLC83811528257_042025-E.webp",
+        "textoAlternativo": "Alerón Lip Spoiler Universal Flexible Cola De Pato Cajuela",
+        "esPrincipal": true
+      }
+    ]
+  },
+  "estado": true,
+  "tags": [
+    "alerón",
+    "cajuela",
+    "cola",
+    "flexible",
+    "genérica",
+    "lip",
+    "marca",
+    "modelo",
+    "número",
+    "pato"
+  ],
+  "variantes": [
+    {
+      "nombre": "Estándar",
+      "unidad": "unidades",
+      "precio": 10599,
+      "descuento": 0,
+      "sku": "ALE-OTRO-VAR-799-VAR001",
+      "esPredeterminado": true
+    }
+  ],
+  "atributos": {
+    "Marca": "Genérica",
+    "Número de pieza": "H86-5",
+    "Modelo": "Tira de parachoques"
+  },
+  "seo": {
+    "metaTitulo": "Alerón Lip Spoiler Universal Flexible Cola De Pato Cajuela",
+    "metaDescripcion": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+    "palabrasClave": [
+      "alerón",
+      "cajuela",
+      "cola",
+      "flexible",
+      "genérica"
+    ]
+  },
+  "marca": "Genérica",
+  "requiereRefrigeracion": false,
+  "ratingAverage": 0
+}

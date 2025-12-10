@@ -30,8 +30,16 @@ Sistema completo de scraping de productos de Mercado Libre con extracción de de
 - ✅ Datos SEO automáticos (meta título, descripción, keywords)
 - ✅ Manejo de variantes de productos
 - ✅ JSON consolidado + archivos individuales
+- ✅ **Modo incremental**: actualiza solo productos nuevos sin eliminar existentes
 
-### 📁 Organización de Datos
+### � Importación al Servidor
+- ✅ Importación automática vía API REST
+- ✅ Autenticación con Bearer Token (JWT)
+- ✅ Detección de duplicados
+- ✅ Reintentos automáticos
+- ✅ Reportes detallados de importación
+
+### �📁 Organización de Datos
 - ✅ Estructura de carpetas organizada
 - ✅ Separación por tipo de datos (CSV, imágenes, JSON)
 - ✅ Fácil integración con MongoDB
@@ -84,8 +92,12 @@ python test_detalles.py                    # 3 productos (~1 min)
 python scraper_con_detalles_limitado.py    # 10 productos (~5 min)
 python scraper_mercadolibre_v2.py          # 48 productos (~20 min)
 
-# 2. Conversión a JSON
+# 2. Conversión a JSON (modo incremental)
 python conversor_a_json.py
+
+# 3. Importación al servidor (opcional)
+python test_conexion_servidor.py          # Verificar conexión primero
+python importar_a_servidor.py             # Importar todos los productos
 ```
 
 ## 📂 Estructura del Proyecto
@@ -112,19 +124,22 @@ proyectos/scrapping_web/
 │   ├── scraper_mercadolibre_v2.py           # Scraper principal (con detalles)
 │   ├── scraper_con_detalles_limitado.py    # Scraper limitado (10 productos)
 │   ├── test_detalles.py                     # Prueba rápida (3 productos)
-│   ├── conversor_a_json.py                  # Conversor CSV → JSON
-│   ├── workflow_completo.sh                 # Workflow automático
-│   └── ejecutar_scraper.py                  # Ejecutor alternativo
+│   ├── conversor_a_json.py                  # Conversor CSV → JSON (incremental)
+│   ├── importar_a_servidor.py               # Importador al servidor API
+│   ├── test_conexion_servidor.py            # Test de conexión al servidor
+│   └── workflow_completo.sh                 # Workflow automático
 │
 ├── 📚 Documentación
-│   ├── README.md                            # Este archivo
+│   ├── README_PRINCIPAL.md                  # Este archivo
 │   ├── README_CONVERSOR_JSON.md             # Guía del conversor
+│   ├── README_IMPORTADOR.md                 # Guía del importador API
 │   ├── GUIA_DETALLES.md                     # Guía del scraper
-│   ├── ESTRUCTURA_DATOS.txt                 # Resumen de la estructura
-│   └── RESUMEN_FINAL.txt                    # Resumen del proyecto
+│   └── MODO_INCREMENTAL.md                  # Guía del modo incremental
 │
 └── 📄 Configuración
     ├── requirements.txt                     # Dependencias Python
+    ├── config_servidor.py                   # Configuración del servidor API
+    ├── config_servidor.example.py           # Ejemplo de configuración
     └── venv/                                # Entorno virtual
 ```
 
@@ -134,9 +149,10 @@ proyectos/scrapping_web/
 graph TD
     A[Mercado Libre URL] --> B[scraper_mercadolibre_v2.py]
     B --> C[CSV + Imágenes]
-    C --> D[conversor_a_json.py]
+    C --> D[conversor_a_json.py - Modo Incremental]
     D --> E[JSON MongoDB]
-    E --> F[Importar a MongoDB]
+    E --> F[importar_a_servidor.py]
+    F --> G[Servidor API REST - MongoDB]
 ```
 
 ### 1️⃣ Scraping
@@ -155,24 +171,46 @@ python scraper_mercadolibre_v2.py
 - Otras características
 - URLs de imágenes
 
-### 2️⃣ Conversión
+### 2️⃣ Conversión (Modo Incremental)
 ```bash
 python conversor_a_json.py
 ```
 **Lee:**
 - `datos/csv/viaje_azul_productos_con_detalles.csv`
+- `datos/json/productos_mercadolibre.json` (existente)
 
 **Genera:**
-- `datos/json/productos_mercadolibre.json` (todos los productos)
-- `datos/json/{sku}_{slug}.json` (archivos individuales)
+- `datos/json/productos_mercadolibre.json` (actualizado, sin duplicados)
+- `datos/json/{sku}_{slug}.json` (solo productos nuevos)
+- `datos/json/reporte_actualizacion_*.json` (estadísticas)
 
 **Transforma:**
 - CSV → Modelo de producto MongoDB
 - Genera slugs, tags, SEO
 - Parsea características a atributos
 - Estructura variantes de precios
+- **Preserva productos existentes** (no elimina ni sobrescribe)
+- **Ignora duplicados** (basado en nombre del producto)
 
-### 3️⃣ Importación a MongoDB
+> 📖 Para más detalles del modo incremental, ver [MODO_INCREMENTAL.md](MODO_INCREMENTAL.md)
+
+### 3️⃣ Importación al Servidor API
+```bash
+# Verificar conexión
+python test_conexion_servidor.py
+
+# Importar todos los productos
+python importar_a_servidor.py
+```
+**Hace:**
+- POST a `http://localhost:4000/api/products`
+- Autenticación con Bearer Token (JWT)
+- Detección de duplicados
+- Reporte de importación
+
+> 📖 Para más detalles del importador, ver [README_IMPORTADOR.md](README_IMPORTADOR.md)
+
+**Alternativa manual (MongoDB):**
 ```javascript
 const productos = require('./datos/json/productos_mercadolibre.json');
 await Product.insertMany(productos);

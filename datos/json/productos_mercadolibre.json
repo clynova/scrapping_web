@@ -1,6 +1,6 @@
 [
   {
-    "sku": "KIT-OTRO-VAR-124",
+    "sku": "KIT-OTRO-VAR-248",
     "nombre": "Kit Cables Para Amplificador Betensh 1500 Watts Subwoofer RCA Rojo/Azul",
     "slug": "kit-cables-para-amplificador-betensh-1500-watts-subwoofer-rca-rojoazul",
     "categoria": "OTROS",
@@ -35,9 +35,9 @@
       {
         "nombre": "Estándar",
         "unidad": "unidades",
-        "precio": 7880.0,
+        "precio": 7880,
         "descuento": 0,
-        "sku": "KIT-OTRO-VAR-124-VAR001",
+        "sku": "KIT-OTRO-VAR-248-VAR001",
         "esPredeterminado": true
       }
     ],
@@ -64,7 +64,7 @@
     "ratingAverage": 0
   },
   {
-    "sku": "ANT-OTRO-VAR-257",
+    "sku": "ANT-OTRO-VAR-368",
     "nombre": "Antena Corta Hilo Curado Moto Retractil Corta Pipa",
     "slug": "antena-corta-hilo-curado-moto-retractil-corta-pipa",
     "categoria": "OTROS",
@@ -99,9 +99,9 @@
       {
         "nombre": "Estándar",
         "unidad": "unidades",
-        "precio": 4920.0,
+        "precio": 4920,
         "descuento": 0,
-        "sku": "ANT-OTRO-VAR-257-VAR001",
+        "sku": "ANT-OTRO-VAR-368-VAR001",
         "esPredeterminado": true
       }
     ],
@@ -126,7 +126,7 @@
     "ratingAverage": 0
   },
   {
-    "sku": "INM-OTRO-VAR-225",
+    "sku": "INM-OTRO-VAR-155",
     "nombre": "Inmovilizador Auto Distancia Corta Corriente Antirobo Autos Inmovilizador 2.4 GHZ 2M",
     "slug": "inmovilizador-auto-distancia-corta-corriente-antirobo-autos-inmovilizador-24-ghz-2m",
     "categoria": "OTROS",
@@ -161,9 +161,9 @@
       {
         "nombre": "Estándar",
         "unidad": "unidades",
-        "precio": 19980.0,
+        "precio": 19980,
         "descuento": 0,
-        "sku": "INM-OTRO-VAR-225-VAR001",
+        "sku": "INM-OTRO-VAR-155-VAR001",
         "esPredeterminado": true
       }
     ],
@@ -187,7 +187,7 @@
     "ratingAverage": 0
   },
   {
-    "sku": "MED-OTRO-VAR-248",
+    "sku": "MED-OTRO-VAR-805",
     "nombre": "Medios De 8 Pulgadas El Par Color Negro",
     "slug": "medios-de-8-pulgadas-el-par-color-negro",
     "categoria": "OTROS",
@@ -221,9 +221,9 @@
       {
         "nombre": "Estándar",
         "unidad": "unidades",
-        "precio": 32574.0,
+        "precio": 32574,
         "descuento": 0,
-        "sku": "MED-OTRO-VAR-248-VAR001",
+        "sku": "MED-OTRO-VAR-805-VAR001",
         "esPredeterminado": true
       }
     ],
@@ -250,7 +250,7 @@
     "ratingAverage": 0
   },
   {
-    "sku": "XKI-OTRO-VAR-620",
+    "sku": "XKI-OTRO-VAR-950",
     "nombre": "X2 Kit Emergencia Reparación Pinchazos Neumaticos Auto Moto Bic",
     "slug": "x2-kit-emergencia-reparacion-pinchazos-neumaticos-auto-moto-bic",
     "categoria": "OTROS",
@@ -285,9 +285,9 @@
       {
         "nombre": "Estándar",
         "unidad": "unidades",
-        "precio": 4280.0,
+        "precio": 4280,
         "descuento": 0,
-        "sku": "XKI-OTRO-VAR-620-VAR001",
+        "sku": "XKI-OTRO-VAR-950-VAR001",
         "esPredeterminado": true
       }
     ],
@@ -311,7 +311,7 @@
     "ratingAverage": 0
   },
   {
-    "sku": "KIT-OTRO-VAR-783",
+    "sku": "KIT-OTRO-VAR-546",
     "nombre": "Kit De Cables Instalación Amplificador Subwoofer 1500watts",
     "slug": "kit-de-cables-instalacion-amplificador-subwoofer-1500watts",
     "categoria": "OTROS",
@@ -346,9 +346,9 @@
       {
         "nombre": "Estándar",
         "unidad": "unidades",
-        "precio": 7880.0,
+        "precio": 7880,
         "descuento": 0,
-        "sku": "KIT-OTRO-VAR-783-VAR001",
+        "sku": "KIT-OTRO-VAR-546-VAR001",
         "esPredeterminado": true
       }
     ],
@@ -374,7 +374,7 @@
     "ratingAverage": 0
   },
   {
-    "sku": "ANT-OTRO-VAR-328",
+    "sku": "ANT-OTRO-VAR-948",
     "nombre": "Antena Corta Hilo Curado Motociclistas Motoqueros",
     "slug": "antena-corta-hilo-curado-motociclistas-motoqueros",
     "categoria": "OTROS",
@@ -409,9 +409,9 @@
       {
         "nombre": "Estándar",
         "unidad": "unidades",
-        "precio": 5780.0,
+        "precio": 5780,
         "descuento": 0,
-        "sku": "ANT-OTRO-VAR-328-VAR001",
+        "sku": "ANT-OTRO-VAR-948-VAR001",
         "esPredeterminado": true
       }
     ],
@@ -436,7 +436,7 @@
     "ratingAverage": 0
   },
   {
-    "sku": "KIT-OTRO-VAR-529",
+    "sku": "KIT-OTRO-VAR-554",
     "nombre": "Kit De Cables Amplificador 8ga Con Cable Rca Y Fusible 1500w",
     "slug": "kit-de-cables-amplificador-8ga-con-cable-rca-y-fusible-1500w",
     "categoria": "OTROS",
@@ -471,9 +471,9 @@
       {
         "nombre": "Estándar",
         "unidad": "unidades",
-        "precio": 14999.0,
+        "precio": 14999,
         "descuento": 0,
-        "sku": "KIT-OTRO-VAR-529-VAR001",
+        "sku": "KIT-OTRO-VAR-554-VAR001",
         "esPredeterminado": true
       }
     ],
@@ -498,7 +498,7 @@
     "ratingAverage": 0
   },
   {
-    "sku": "ANT-OTRO-VAR-851",
+    "sku": "ANT-OTRO-VAR-262",
     "nombre": "Antena De Seguridad Corta Hilo Curado Para Motos",
     "slug": "antena-de-seguridad-corta-hilo-curado-para-motos",
     "categoria": "OTROS",
@@ -533,9 +533,9 @@
       {
         "nombre": "Estándar",
         "unidad": "unidades",
-        "precio": 6780.0,
+        "precio": 6780,
         "descuento": 0,
-        "sku": "ANT-OTRO-VAR-851-VAR001",
+        "sku": "ANT-OTRO-VAR-262-VAR001",
         "esPredeterminado": true
       }
     ],
@@ -560,7 +560,7 @@
     "ratingAverage": 0
   },
   {
-    "sku": "SUB-OTRO-VAR-773",
+    "sku": "SUB-OTRO-VAR-270",
     "nombre": "Subwoofer Pervoi 1500w De Doble Bobina Gran Potencia Color Negro",
     "slug": "subwoofer-pervoi-1500w-de-doble-bobina-gran-potencia-color-negro",
     "categoria": "OTROS",
@@ -595,9 +595,9 @@
       {
         "nombre": "Estándar",
         "unidad": "unidades",
-        "precio": 52359.0,
+        "precio": 52359,
         "descuento": 0,
-        "sku": "SUB-OTRO-VAR-773-VAR001",
+        "sku": "SUB-OTRO-VAR-270-VAR001",
         "esPredeterminado": true
       }
     ],
@@ -620,6 +620,2281 @@
       ]
     },
     "marca": "Pervoi",
+    "requiereRefrigeracion": false,
+    "ratingAverage": 0
+  },
+  {
+    "sku": "PAR-OTRO-VAR-676",
+    "nombre": "Parlante 10inch Medio Rango 1200w 580w Rms Pervoi Negro",
+    "slug": "parlante-10inch-medio-rango-1200w-580w-rms-pervoi-negro",
+    "categoria": "OTROS",
+    "subcategoria": "Varios",
+    "descripcion": {
+      "corta": "Descripción El Subwoofer Pervoi CTC1060 es la elección perfecta para quienes buscan una experiencia de sonido envolvente en su auto o camioneta. Con una pote...",
+      "completa": "Descripción El Subwoofer Pervoi CTC1060 es la elección perfecta para quienes buscan una experiencia de sonido envolvente en su auto o camioneta. Con una potencia RMS de 1500 W, este subwoofer de doble bobina ofrece un rendimiento excepcional que transforma cualquier viaje en una experiencia musical única. Su diseño compacto de 10 pulgadas permite una fácil integración en diversos espacios, sin sacrificar la calidad del sonido.\n\nEste subwoofer cuenta con un rango de frecuencia de 80 Hz a 6 kHz, l"
+    },
+    "multimedia": {
+      "imagenes": [
+        {
+          "url": "https://http2.mlstatic.com/D_Q_NP_2X_917308-MLA100128701707_122025-E.webp",
+          "textoAlternativo": "Parlante 10inch Medio Rango 1200w 580w Rms Pervoi Negro",
+          "esPrincipal": true
+        }
+      ]
+    },
+    "estado": true,
+    "tags": [
+      "color",
+      "marca",
+      "medio",
+      "modelo",
+      "negro",
+      "parlante",
+      "pervoi",
+      "pervot",
+      "rango",
+      "rms"
+    ],
+    "variantes": [
+      {
+        "nombre": "Estándar",
+        "unidad": "unidades",
+        "precio": 37350,
+        "descuento": 0,
+        "sku": "PAR-OTRO-VAR-676-VAR001",
+        "esPredeterminado": true
+      }
+    ],
+    "atributos": {
+      "Marca": "Pervot",
+      "Modelo": "CTC-1006",
+      "Color": "Negro",
+      "Cantidad de parlantes": 1
+    },
+    "seo": {
+      "metaTitulo": "Parlante 10inch Medio Rango 1200w 580w Rms Pervoi Negro",
+      "metaDescripcion": "Descripción El Subwoofer Pervoi CTC1060 es la elección perfecta para quienes buscan una experiencia de sonido envolvente en su auto o camioneta. Con una pote...",
+      "palabrasClave": [
+        "color",
+        "marca",
+        "medio",
+        "modelo",
+        "negro"
+      ]
+    },
+    "marca": "Pervot",
+    "requiereRefrigeracion": false,
+    "ratingAverage": 0
+  },
+  {
+    "sku": "CAR-OTRO-VAR-157",
+    "nombre": "Cargador Inalámbrico Para Coche De 10w Alfombrilla De Carga Color Negro",
+    "slug": "cargador-inalambrico-para-coche-de-10w-alfombrilla-de-carga-color-negro",
+    "categoria": "OTROS",
+    "subcategoria": "Varios",
+    "descripcion": {
+      "corta": "Cargador inalámbrico de 10W para carga rápida de dispositivos móviles. | Conector USB incluido para mayor comodidad en el uso.",
+      "completa": "Cargador inalámbrico de 10W para carga rápida de dispositivos móviles. | Conector USB incluido para mayor comodidad en el uso."
+    },
+    "multimedia": {
+      "imagenes": [
+        {
+          "url": "https://http2.mlstatic.com/D_Q_NP_2X_764601-MLA99443513062_112025-E.webp",
+          "textoAlternativo": "Cargador Inalámbrico Para Coche De 10w Alfombrilla De Carga Color Negro",
+          "esPrincipal": true
+        }
+      ]
+    },
+    "estado": true,
+    "tags": [
+      "alfombrilla",
+      "carga",
+      "cargador",
+      "coche",
+      "color",
+      "conector",
+      "general",
+      "inalámbrico",
+      "marca",
+      "modelo"
+    ],
+    "variantes": [
+      {
+        "nombre": "Estándar",
+        "unidad": "unidades",
+        "precio": 13440,
+        "descuento": 0,
+        "sku": "CAR-OTRO-VAR-157-VAR001",
+        "esPredeterminado": true
+      }
+    ],
+    "atributos": {
+      "Marca": "General",
+      "Modelo": "USB",
+      "Tipo de conector": "USB",
+      "Color": "Negro"
+    },
+    "seo": {
+      "metaTitulo": "Cargador Inalámbrico Para Coche De 10w Alfombrilla De Carga ",
+      "metaDescripcion": "Cargador inalámbrico de 10W para carga rápida de dispositivos móviles. | Conector USB incluido para mayor comodidad en el uso.",
+      "palabrasClave": [
+        "alfombrilla",
+        "carga",
+        "cargador",
+        "coche",
+        "color"
+      ]
+    },
+    "marca": "General",
+    "requiereRefrigeracion": false,
+    "ratingAverage": 0
+  },
+  {
+    "sku": "PAR-OTRO-VAR-302",
+    "nombre": "Parabrisas Auto Sombrilla Para Auto Quitasol Parasol Cubre",
+    "slug": "parabrisas-auto-sombrilla-para-auto-quitasol-parasol-cubre",
+    "categoria": "OTROS",
+    "subcategoria": "Varios",
+    "descripcion": {
+      "corta": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "completa": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡ muchasgracias!Somos la tienda online más variada del mercado, donde podrás encontrar todo lo que quieras y una enorme variedad de novedades.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nTodos nuestros productos se prueban antes del envío para ofrecerte la mejor experiencia de compra. Si tiene alguna pregunta, no dude en escribirnos y estaremos enca"
+    },
+    "multimedia": {
+      "imagenes": [
+        {
+          "url": "https://http2.mlstatic.com/D_Q_NP_2X_863939-MLC82822837555_032025-E.webp",
+          "textoAlternativo": "Parabrisas Auto Sombrilla Para Auto Quitasol Parasol Cubre",
+          "esPrincipal": true
+        }
+      ]
+    },
+    "estado": true,
+    "tags": [
+      "auto",
+      "cubre",
+      "generic",
+      "marca",
+      "número",
+      "parabrisas",
+      "parasol",
+      "pieza",
+      "quitasol",
+      "sombrilla"
+    ],
+    "variantes": [
+      {
+        "nombre": "Estándar",
+        "unidad": "unidades",
+        "precio": 8990,
+        "descuento": 0,
+        "sku": "PAR-OTRO-VAR-302-VAR001",
+        "esPredeterminado": true
+      }
+    ],
+    "atributos": {
+      "Marca": "Generic",
+      "Número de pieza": 1
+    },
+    "seo": {
+      "metaTitulo": "Parabrisas Auto Sombrilla Para Auto Quitasol Parasol Cubre",
+      "metaDescripcion": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "palabrasClave": [
+        "auto",
+        "cubre",
+        "generic",
+        "marca",
+        "número"
+      ]
+    },
+    "marca": "Generic",
+    "requiereRefrigeracion": false,
+    "ratingAverage": 0
+  },
+  {
+    "sku": "SUB-OTRO-VAR-260",
+    "nombre": "8 Subwoofer Plano Amplificado Parlantes Auto+kit Instalación Negro",
+    "slug": "8-subwoofer-plano-amplificado-parlantes-autokit-instalacion-negro",
+    "categoria": "OTROS",
+    "subcategoria": "Varios",
+    "descripcion": {
+      "corta": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "completa": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡ muchasgracias!Somos la tienda online más variada del mercado, donde podrás encontrar todo lo que quieras y una enorme variedad de novedades.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nTodos nuestros productos se prueban antes del envío para ofrecerte la mejor experiencia de compra. Si tiene alguna pregunta, no dude en escribirnos y estaremos enca"
+    },
+    "multimedia": {
+      "imagenes": [
+        {
+          "url": "https://http2.mlstatic.com/D_Q_NP_2X_869157-MLC93446308407_092025-E.webp",
+          "textoAlternativo": "8 Subwoofer Plano Amplificado Parlantes Auto+kit Instalación Negro",
+          "esPrincipal": true
+        }
+      ]
+    },
+    "estado": true,
+    "tags": [
+      "amplificado",
+      "auto",
+      "instalación",
+      "kit",
+      "línea",
+      "marca",
+      "modelo",
+      "negro",
+      "parlantes",
+      "plano"
+    ],
+    "variantes": [
+      {
+        "nombre": "Estándar",
+        "unidad": "unidades",
+        "precio": 52109,
+        "descuento": 0,
+        "sku": "SUB-OTRO-VAR-260-VAR001",
+        "esPredeterminado": true
+      }
+    ],
+    "atributos": {
+      "Marca": "Raistar racing",
+      "Línea": 1,
+      "Modelo": "F8",
+      "Color": "Negro",
+      "Cantidad de parlantes": 1
+    },
+    "seo": {
+      "metaTitulo": "8 Subwoofer Plano Amplificado Parlantes Auto+kit Instalación",
+      "metaDescripcion": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "palabrasClave": [
+        "amplificado",
+        "auto",
+        "instalación",
+        "kit",
+        "línea"
+      ]
+    },
+    "marca": "Raistar racing",
+    "requiereRefrigeracion": false,
+    "ratingAverage": 0
+  },
+  {
+    "sku": "ALE-OTRO-VAR-781",
+    "nombre": "Alerón Universal Lip Spoiler Flexible Cola De Pato Cajuela Negro",
+    "slug": "aleron-universal-lip-spoiler-flexible-cola-de-pato-cajuela-negro",
+    "categoria": "OTROS",
+    "subcategoria": "Varios",
+    "descripcion": {
+      "corta": "Descripción El paquete incluye:\n1 * alerón de coche de 3.5 cm x 1.5 m.\n2 * mangas en ambos extremos\n\nCompatibilidad del vehículo: el borde del alerón del mal...",
+      "completa": "Descripción El paquete incluye:\n1 * alerón de coche de 3.5 cm x 1.5 m.\n2 * mangas en ambos extremos\n\nCompatibilidad del vehículo: el borde del alerón del maletero trasero es universal para la mayoría de los automóviles y camiones, y se fija a los parachoques delanteros, kits de carrocería, paneles de faldones laterales, aletas traseras, etc.\n\nEstilo fresco: aumente la aerodinámica de la apariencia del automóvil, haciendo que su automóvil se vea más genial, también mejore la aerodinámica y agregu"
+    },
+    "multimedia": {
+      "imagenes": [
+        {
+          "url": "https://http2.mlstatic.com/D_Q_NP_2X_844138-MLC93161319006_092025-E.webp",
+          "textoAlternativo": "Alerón Universal Lip Spoiler Flexible Cola De Pato Cajuela Negro",
+          "esPrincipal": true
+        }
+      ]
+    },
+    "estado": true,
+    "tags": [
+      "alerón",
+      "cajuela",
+      "cola",
+      "flexible",
+      "genérica",
+      "lip",
+      "marca",
+      "negro",
+      "número",
+      "pato"
+    ],
+    "variantes": [
+      {
+        "nombre": "Estándar",
+        "unidad": "unidades",
+        "precio": 8990,
+        "descuento": 0,
+        "sku": "ALE-OTRO-VAR-781-VAR001",
+        "esPredeterminado": true
+      }
+    ],
+    "atributos": {
+      "Marca": "Genérica",
+      "Número de pieza": "Tira de parachoques",
+      "Color": "Negro"
+    },
+    "seo": {
+      "metaTitulo": "Alerón Universal Lip Spoiler Flexible Cola De Pato Cajuela N",
+      "metaDescripcion": "Descripción El paquete incluye:\n1 * alerón de coche de 3.5 cm x 1.5 m.\n2 * mangas en ambos extremos\n\nCompatibilidad del vehículo: el borde del alerón del mal...",
+      "palabrasClave": [
+        "alerón",
+        "cajuela",
+        "cola",
+        "flexible",
+        "genérica"
+      ]
+    },
+    "marca": "Genérica",
+    "requiereRefrigeracion": false,
+    "ratingAverage": 0
+  },
+  {
+    "sku": "KIT-OTRO-VAR-185",
+    "nombre": "Kit Repara Foco Coche Para Pulir Limpiar Foco Auto Universal",
+    "slug": "kit-repara-foco-coche-para-pulir-limpiar-foco-auto-universal",
+    "categoria": "OTROS",
+    "subcategoria": "Varios",
+    "descripcion": {
+      "corta": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "completa": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡ muchasgracias!Somos la tienda online más variada del mercado, donde podrás encontrar todo lo que quieras y una enorme variedad de novedades.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nTodos nuestros productos se prueban antes del envío para ofrecerte la mejor experiencia de compra. Si tiene alguna pregunta, no dude en escribirnos y"
+    },
+    "multimedia": {
+      "imagenes": [
+        {
+          "url": "https://http2.mlstatic.com/D_Q_NP_2X_979826-MLC86662444172_062025-E.webp",
+          "textoAlternativo": "Kit Repara Foco Coche Para Pulir Limpiar Foco Auto Universal",
+          "esPrincipal": true
+        }
+      ]
+    },
+    "estado": true,
+    "tags": [
+      "auto",
+      "coche",
+      "foco",
+      "genérica",
+      "kit",
+      "limpiar",
+      "marca",
+      "modelo",
+      "pulido",
+      "pulir"
+    ],
+    "variantes": [
+      {
+        "nombre": "Estándar",
+        "unidad": "unidades",
+        "precio": 10500,
+        "descuento": 0,
+        "sku": "KIT-OTRO-VAR-185-VAR001",
+        "esPredeterminado": true
+      }
+    ],
+    "atributos": {
+      "Marca": "Genérica",
+      "Modelo": "DIY pulido restauración faros limpieza sistemas pasta cuidado coche lavado faros delanteros abrillantador reparación"
+    },
+    "seo": {
+      "metaTitulo": "Kit Repara Foco Coche Para Pulir Limpiar Foco Auto Universal",
+      "metaDescripcion": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "palabrasClave": [
+        "auto",
+        "coche",
+        "foco",
+        "genérica",
+        "kit"
+      ]
+    },
+    "marca": "Genérica",
+    "requiereRefrigeracion": false,
+    "ratingAverage": 0
+  },
+  {
+    "sku": "KIT-OTRO-VAR-107",
+    "nombre": "Kit Herramienta Películas Belleza Auto Espátulas Instalación",
+    "slug": "kit-herramienta-peliculas-belleza-auto-espatulas-instalacion",
+    "categoria": "OTROS",
+    "subcategoria": "Varios",
+    "descripcion": {
+      "corta": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "completa": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡ muchasgracias!Somos la tienda online más variada del mercado, donde podrás encontrar todo lo que quieras y una enorme variedad de novedades.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nTodos nuestros productos se prueban antes del envío para ofrecerte la mejor experiencia de compra. Si tiene alguna pregunta, no dude en escribirnos y"
+    },
+    "multimedia": {
+      "imagenes": [
+        {
+          "url": "https://http2.mlstatic.com/D_Q_NP_2X_741574-MLC82928959217_032025-E.webp",
+          "textoAlternativo": "Kit Herramienta Películas Belleza Auto Espátulas Instalación",
+          "esPrincipal": true
+        }
+      ]
+    },
+    "estado": true,
+    "tags": [
+      "auto",
+      "belleza",
+      "espatulas",
+      "espátulas",
+      "genérica",
+      "herramienta",
+      "herramientas",
+      "instalación",
+      "kit",
+      "marca"
+    ],
+    "variantes": [
+      {
+        "nombre": "Estándar",
+        "unidad": "unidades",
+        "precio": 6399,
+        "descuento": 0,
+        "sku": "KIT-OTRO-VAR-107-VAR001",
+        "esPredeterminado": true
+      }
+    ],
+    "atributos": {
+      "Marca": "Genérica",
+      "Modelo": "Kit Herramientas Espatulas Instalacion Polarizado Vinilo Tuning",
+      "Número de pieza": 7
+    },
+    "seo": {
+      "metaTitulo": "Kit Herramienta Películas Belleza Auto Espátulas Instalación",
+      "metaDescripcion": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "palabrasClave": [
+        "auto",
+        "belleza",
+        "espatulas",
+        "espátulas",
+        "genérica"
+      ]
+    },
+    "marca": "Genérica",
+    "requiereRefrigeracion": false,
+    "ratingAverage": 0
+  },
+  {
+    "sku": "PRO-OTRO-VAR-190",
+    "nombre": "Protector Solar Parabrisa Sombrilla Tapa Sol Auto 60*130cm",
+    "slug": "protector-solar-parabrisa-sombrilla-tapa-sol-auto-60130cm",
+    "categoria": "OTROS",
+    "subcategoria": "Varios",
+    "descripcion": {
+      "corta": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "completa": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡ muchasgracias!Somos la tienda online más variada del mercado, donde podrás encontrar todo lo que quieras y una enorme variedad de novedades.                  \n                  \nTodos nuestros productos se prueban antes del envío para ofrecerte la mejor experiencia de compra. Si tiene alguna pregunta, no dude en escribirnos y estaremos enca"
+    },
+    "multimedia": {
+      "imagenes": [
+        {
+          "url": "https://http2.mlstatic.com/D_Q_NP_2X_831740-MLC93976532823_102025-E.webp",
+          "textoAlternativo": "Protector Solar Parabrisa Sombrilla Tapa Sol Auto 60*130cm",
+          "esPrincipal": true
+        }
+      ]
+    },
+    "estado": true,
+    "tags": [
+      "auto",
+      "marca",
+      "número",
+      "parabrisa",
+      "pieza",
+      "protector",
+      "racing",
+      "raistar",
+      "sol",
+      "solar"
+    ],
+    "variantes": [
+      {
+        "nombre": "Estándar",
+        "unidad": "unidades",
+        "precio": 4980,
+        "descuento": 0,
+        "sku": "PRO-OTRO-VAR-190-VAR001",
+        "esPredeterminado": true
+      }
+    ],
+    "atributos": {
+      "Marca": "Raistar racing",
+      "Número de pieza": "H68-1"
+    },
+    "seo": {
+      "metaTitulo": "Protector Solar Parabrisa Sombrilla Tapa Sol Auto 60*130cm",
+      "metaDescripcion": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "palabrasClave": [
+        "auto",
+        "marca",
+        "número",
+        "parabrisa",
+        "pieza"
+      ]
+    },
+    "marca": "Raistar racing",
+    "requiereRefrigeracion": false,
+    "ratingAverage": 0
+  },
+  {
+    "sku": "HIL-OTRO-VAR-810",
+    "nombre": "Hilo Tira Luz Neon Colores Led 12v 3m Auto Moto Azul",
+    "slug": "hilo-tira-luz-neon-colores-led-12v-3m-auto-moto-azul",
+    "categoria": "OTROS",
+    "subcategoria": "Varios",
+    "descripcion": {
+      "corta": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "completa": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡ muchasgracias!Somos la tienda online más variada del mercado, donde podrás encontrar todo lo que quieras y una enorme variedad de novedades.\n\nTodos nuestros productos se prueban antes del envío para ofrecerte la mejor experiencia de compra. Si tiene alguna pregunta, no dude en escribirnos y estaremos encantados de ayudarle y asesorarle.\nPon"
+    },
+    "multimedia": {
+      "imagenes": [
+        {
+          "url": "https://http2.mlstatic.com/D_Q_NP_2X_781560-MLC93929805391_102025-E.webp",
+          "textoAlternativo": "Hilo Tira Luz Neon Colores Led 12v 3m Auto Moto Azul",
+          "esPrincipal": true
+        }
+      ]
+    },
+    "estado": true,
+    "tags": [
+      "auto",
+      "azul",
+      "colores",
+      "genérica",
+      "hilo",
+      "led",
+      "luz",
+      "marca",
+      "moto",
+      "neon"
+    ],
+    "variantes": [
+      {
+        "nombre": "Estándar",
+        "unidad": "unidades",
+        "precio": 5280,
+        "descuento": 0,
+        "sku": "HIL-OTRO-VAR-810-VAR001",
+        "esPredeterminado": true
+      }
+    ],
+    "atributos": {
+      "Marca": "Genérica",
+      "Número de pieza": 1
+    },
+    "seo": {
+      "metaTitulo": "Hilo Tira Luz Neon Colores Led 12v 3m Auto Moto Azul",
+      "metaDescripcion": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "palabrasClave": [
+        "auto",
+        "azul",
+        "colores",
+        "genérica",
+        "hilo"
+      ]
+    },
+    "marca": "Genérica",
+    "requiereRefrigeracion": false,
+    "ratingAverage": 0
+  },
+  {
+    "sku": "PAR-OTRO-VAR-734",
+    "nombre": "Par Parlantes 6.5inch Medio Rango 300w 50w Rms Raistar Negro",
+    "slug": "par-parlantes-65inch-medio-rango-300w-50w-rms-raistar-negro",
+    "categoria": "OTROS",
+    "subcategoria": "Varios",
+    "descripcion": {
+      "corta": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "completa": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡ muchasgracias!Somos la tienda online más variada del mercado, donde podrás encontrar todo lo que quieras y una enorme variedad de novedades.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nTodos nuestros productos se prueban antes del envío para ofrecerte la mejor experiencia de compra. Si tiene alguna pregunta, no dude en escribirnos y estaremos enca"
+    },
+    "multimedia": {
+      "imagenes": [
+        {
+          "url": "https://http2.mlstatic.com/D_Q_NP_2X_794650-MLC93075225346_092025-E.webp",
+          "textoAlternativo": "Par Parlantes 6.5inch Medio Rango 300w 50w Rms Raistar Negro",
+          "esPrincipal": true
+        }
+      ]
+    },
+    "estado": true,
+    "tags": [
+      "color",
+      "marca",
+      "medio",
+      "modelo",
+      "negro",
+      "par",
+      "parlantes",
+      "racing",
+      "raistar",
+      "rango"
+    ],
+    "variantes": [
+      {
+        "nombre": "Estándar",
+        "unidad": "unidades",
+        "precio": 22350,
+        "descuento": 0,
+        "sku": "PAR-OTRO-VAR-734-VAR001",
+        "esPredeterminado": true
+      }
+    ],
+    "atributos": {
+      "Marca": "Raistar racing",
+      "Modelo": "YHW-1604",
+      "Color": "Negro",
+      "Impedancia": "4 Ω",
+      "Cantidad de parlantes": 2
+    },
+    "seo": {
+      "metaTitulo": "Par Parlantes 6.5inch Medio Rango 300w 50w Rms Raistar Negro",
+      "metaDescripcion": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "palabrasClave": [
+        "color",
+        "marca",
+        "medio",
+        "modelo",
+        "negro"
+      ]
+    },
+    "marca": "Raistar racing",
+    "requiereRefrigeracion": false,
+    "ratingAverage": 0
+  },
+  {
+    "sku": "SIR-OTRO-VAR-718",
+    "nombre": "Sirena De Bocinas De Alarma Para Coches Y Camiones Eléctrico",
+    "slug": "sirena-de-bocinas-de-alarma-para-coches-y-camiones-electrico",
+    "categoria": "OTROS",
+    "subcategoria": "Varios",
+    "descripcion": {
+      "corta": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "completa": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡ muchasgracias!Somos la tienda online más variada del mercado, donde podrás encontrar todo lo que quieras y una enorme variedad de novedades.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nTodos nuestros productos se prueban antes del envío para ofrecerte la mejor experiencia de compra. Si tiene alguna pregunta, no dude en escribirnos y"
+    },
+    "multimedia": {
+      "imagenes": [
+        {
+          "url": "https://http2.mlstatic.com/D_Q_NP_2X_971598-MLC81994306919_012025-E.webp",
+          "textoAlternativo": "Sirena De Bocinas De Alarma Para Coches Y Camiones Eléctrico",
+          "esPrincipal": true
+        }
+      ]
+    },
+    "estado": true,
+    "tags": [
+      "alarma",
+      "bocinas",
+      "camiones",
+      "coches",
+      "eléctrico",
+      "genérica",
+      "marca",
+      "modelo",
+      "número",
+      "pieza"
+    ],
+    "variantes": [
+      {
+        "nombre": "Estándar",
+        "unidad": "unidades",
+        "precio": 6480,
+        "descuento": 0,
+        "sku": "SIR-OTRO-VAR-718-VAR001",
+        "esPredeterminado": true
+      }
+    ],
+    "atributos": {
+      "Marca": "Genérica",
+      "Número de pieza": 1,
+      "Modelo": "H73-10",
+      "Voltaje de la bocina": "12V / 24V",
+      "Color": "Negro"
+    },
+    "seo": {
+      "metaTitulo": "Sirena De Bocinas De Alarma Para Coches Y Camiones Eléctrico",
+      "metaDescripcion": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "palabrasClave": [
+        "alarma",
+        "bocinas",
+        "camiones",
+        "coches",
+        "eléctrico"
+      ]
+    },
+    "marca": "Genérica",
+    "requiereRefrigeracion": false,
+    "ratingAverage": 0
+  },
+  {
+    "sku": "BOC-OTRO-VAR-107",
+    "nombre": "Bocina Eléctrica Coche Tres Trompetas Aire + Compresor Auto",
+    "slug": "bocina-electrica-coche-tres-trompetas-aire-compresor-auto",
+    "categoria": "OTROS",
+    "subcategoria": "Varios",
+    "descripcion": {
+      "corta": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "completa": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡ muchasgracias!Somos la tienda online más variada del mercado, donde podrás encontrar todo lo que quieras y una enorme variedad de novedades.                         \n                         \nTodos nuestros productos se prueban antes del envío para ofrecerte la mejor experiencia de compra. Si tiene alguna pregunta, no dude en escribirnos y"
+    },
+    "multimedia": {
+      "imagenes": [
+        {
+          "url": "https://http2.mlstatic.com/D_Q_NP_2X_851614-MLC92320505803_092025-E.webp",
+          "textoAlternativo": "Bocina Eléctrica Coche Tres Trompetas Aire + Compresor Auto",
+          "esPrincipal": true
+        }
+      ]
+    },
+    "estado": true,
+    "tags": [
+      "aire",
+      "auto",
+      "bocina",
+      "coche",
+      "compresor",
+      "eléctrica",
+      "marca",
+      "modelo",
+      "número",
+      "pieza"
+    ],
+    "variantes": [
+      {
+        "nombre": "Estándar",
+        "unidad": "unidades",
+        "precio": 19880,
+        "descuento": 0,
+        "sku": "BOC-OTRO-VAR-107-VAR001",
+        "esPredeterminado": true
+      }
+    ],
+    "atributos": {
+      "Marca": "Universal",
+      "Número de pieza": "H73-3/H25-3",
+      "Modelo": "PerGar Bocina de Aire Musical, Kit de Bocina de Aire con Sonido Musical, 3 Trompetas 12 V 125 DB Bocina de Aire",
+      "Color": "Rojo"
+    },
+    "seo": {
+      "metaTitulo": "Bocina Eléctrica Coche Tres Trompetas Aire + Compresor Auto",
+      "metaDescripcion": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "palabrasClave": [
+        "aire",
+        "auto",
+        "bocina",
+        "coche",
+        "compresor"
+      ]
+    },
+    "marca": "Universal",
+    "requiereRefrigeracion": false,
+    "ratingAverage": 0
+  },
+  {
+    "sku": "PRO-OTRO-VAR-220",
+    "nombre": "Protector Solar Parabrisa /tapa Sol Auto 60*130cm Azul",
+    "slug": "protector-solar-parabrisa-tapa-sol-auto-60130cm-azul",
+    "categoria": "OTROS",
+    "subcategoria": "Varios",
+    "descripcion": {
+      "corta": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "completa": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡ muchasgracias!Somos la tienda online más variada del mercado, donde podrás encontrar todo lo que quieras y una enorme variedad de novedades.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nTodos nuestros productos se prueban antes del envío para ofrecerte la mejor experiencia de compra. Si tiene alguna pregunta, no dude en escribirnos y estaremos enca"
+    },
+    "multimedia": {
+      "imagenes": [
+        {
+          "url": "https://http2.mlstatic.com/D_Q_NP_2X_782092-MLC93975989441_102025-E.webp",
+          "textoAlternativo": "Protector Solar Parabrisa /tapa Sol Auto 60*130cm Azul",
+          "esPrincipal": true
+        }
+      ]
+    },
+    "estado": true,
+    "tags": [
+      "auto",
+      "azul",
+      "marca",
+      "número",
+      "parabrisa",
+      "pieza",
+      "protector",
+      "racing",
+      "raistar",
+      "sol"
+    ],
+    "variantes": [
+      {
+        "nombre": "Estándar",
+        "unidad": "unidades",
+        "precio": 4980,
+        "descuento": 0,
+        "sku": "PRO-OTRO-VAR-220-VAR001",
+        "esPredeterminado": true
+      }
+    ],
+    "atributos": {
+      "Marca": "Raistar racing",
+      "Número de pieza": "H68-8A"
+    },
+    "seo": {
+      "metaTitulo": "Protector Solar Parabrisa /tapa Sol Auto 60*130cm Azul",
+      "metaDescripcion": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "palabrasClave": [
+        "auto",
+        "azul",
+        "marca",
+        "número",
+        "parabrisa"
+      ]
+    },
+    "marca": "Raistar racing",
+    "requiereRefrigeracion": false,
+    "ratingAverage": 0
+  },
+  {
+    "sku": "KIT-OTRO-VAR-692",
+    "nombre": "Kit De Instalacion Amplificador Calibre 8 Con Cable Rca",
+    "slug": "kit-de-instalacion-amplificador-calibre-8-con-cable-rca",
+    "categoria": "OTROS",
+    "subcategoria": "Varios",
+    "descripcion": {
+      "corta": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "completa": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡ muchasgracias!Somos la tienda online más variada del mercado, donde podrás encontrar todo lo que quieras y una enorme variedad de novedades.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nTodos nuestros productos se prueban antes del envío para ofrecerte la mejor experiencia de compra. Si tiene alguna pregunta, no dude en escribirnos y estaremos enca"
+    },
+    "multimedia": {
+      "imagenes": [
+        {
+          "url": "https://http2.mlstatic.com/D_Q_NP_2X_724679-MLC94368232343_102025-E.webp",
+          "textoAlternativo": "Kit De Instalacion Amplificador Calibre 8 Con Cable Rca",
+          "esPrincipal": true
+        }
+      ]
+    },
+    "estado": true,
+    "tags": [
+      "amplificador",
+      "cable",
+      "calibre",
+      "instalacion",
+      "kit",
+      "marca",
+      "modelo",
+      "racing",
+      "raistar",
+      "rca"
+    ],
+    "variantes": [
+      {
+        "nombre": "Estándar",
+        "unidad": "unidades",
+        "precio": 8999,
+        "descuento": 0,
+        "sku": "KIT-OTRO-VAR-692-VAR001",
+        "esPredeterminado": true
+      }
+    ],
+    "atributos": {
+      "Marca": "Raistar racing",
+      "Modelo": "78GA",
+      "Tipo de cable y adaptador": "PS/2",
+      "Color": "Negro",
+      "Largo del cable": "5 m"
+    },
+    "seo": {
+      "metaTitulo": "Kit De Instalacion Amplificador Calibre 8 Con Cable Rca",
+      "metaDescripcion": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "palabrasClave": [
+        "amplificador",
+        "cable",
+        "calibre",
+        "instalacion",
+        "kit"
+      ]
+    },
+    "marca": "Raistar racing",
+    "requiereRefrigeracion": false,
+    "ratingAverage": 0
+  },
+  {
+    "sku": "PAR-OTRO-VAR-239",
+    "nombre": "Par De Medios 6.5 Pulgadas Color Negro Negro",
+    "slug": "par-de-medios-65-pulgadas-color-negro-negro",
+    "categoria": "OTROS",
+    "subcategoria": "Varios",
+    "descripcion": {
+      "corta": "Descripción Transforma la experiencia de audio en tu vehículo con el Par de Medios de 6.5 Pulgadas de Raistar Racing. Diseñados específicamente para autos y ...",
+      "completa": "Descripción Transforma la experiencia de audio en tu vehículo con el Par de Medios de 6.5 Pulgadas de Raistar Racing. Diseñados específicamente para autos y camionetas, estos parlantes ofrecen una potencia RMS de 300 W, garantizando un sonido potente y claro que hará vibrar cada viaje. Con un diámetro de 6 pulgadas, su tamaño compacto se adapta perfectamente a diversos espacios, sin sacrificar calidad.\n\nCada par incluye dos parlantes de medio rango, ideales para aquellos que buscan un equilibrio"
+    },
+    "multimedia": {
+      "imagenes": [
+        {
+          "url": "https://http2.mlstatic.com/D_Q_NP_2X_983939-MLA82698253578_032025-E.webp",
+          "textoAlternativo": "Par De Medios 6.5 Pulgadas Color Negro Negro",
+          "esPrincipal": true
+        }
+      ]
+    },
+    "estado": true,
+    "tags": [
+      "color",
+      "línea",
+      "marca",
+      "medio",
+      "medios",
+      "negro",
+      "par",
+      "pulgadas",
+      "racing",
+      "raistar"
+    ],
+    "variantes": [
+      {
+        "nombre": "Estándar",
+        "unidad": "unidades",
+        "precio": 26999,
+        "descuento": 0,
+        "sku": "PAR-OTRO-VAR-239-VAR001",
+        "esPredeterminado": true
+      }
+    ],
+    "atributos": {
+      "Marca": "Raistar racing",
+      "Línea": "Medio",
+      "Modelo": "6.5 pulgadas",
+      "Color": "Negro",
+      "Impedancia": "4 Ω",
+      "Cantidad de parlantes": 2
+    },
+    "seo": {
+      "metaTitulo": "Par De Medios 6.5 Pulgadas Color Negro Negro",
+      "metaDescripcion": "Descripción Transforma la experiencia de audio en tu vehículo con el Par de Medios de 6.5 Pulgadas de Raistar Racing. Diseñados específicamente para autos y ...",
+      "palabrasClave": [
+        "color",
+        "línea",
+        "marca",
+        "medio",
+        "medios"
+      ]
+    },
+    "marca": "Raistar racing",
+    "requiereRefrigeracion": false,
+    "ratingAverage": 0
+  },
+  {
+    "sku": "KIT-OTRO-VAR-272",
+    "nombre": "Kit4 Coilovers Regulables Amortiguadores Suspension Resortes",
+    "slug": "kit4-coilovers-regulables-amortiguadores-suspension-resortes",
+    "categoria": "OTROS",
+    "subcategoria": "Varios",
+    "descripcion": {
+      "corta": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "completa": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡ muchasgracias!Somos la tienda online más variada del mercado, donde podrás encontrar todo lo que quieras y una enorme variedad de novedades.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nTodos nuestros productos se prueban antes del envío para ofrecerte la mejor experiencia de compra. Si tiene alguna pregunta, no dude en escribirnos y estaremos enca"
+    },
+    "multimedia": {
+      "imagenes": [
+        {
+          "url": "https://http2.mlstatic.com/D_Q_NP_2X_727346-MLC91916465034_092025-E.webp",
+          "textoAlternativo": "Kit4 Coilovers Regulables Amortiguadores Suspension Resortes",
+          "esPrincipal": true
+        }
+      ]
+    },
+    "estado": true,
+    "tags": [
+      "amortiguadores",
+      "coilovers",
+      "marca",
+      "número",
+      "pieza",
+      "raistar",
+      "regulables",
+      "resortes",
+      "suspension",
+      "ubicación"
+    ],
+    "variantes": [
+      {
+        "nombre": "Estándar",
+        "unidad": "unidades",
+        "precio": 53899,
+        "descuento": 0,
+        "sku": "KIT-OTRO-VAR-272-VAR001",
+        "esPredeterminado": true
+      }
+    ],
+    "atributos": {
+      "Marca": "Raistar",
+      "Número de pieza": 4,
+      "Ubicación": "Ambos lados",
+      "Cantidad de piezas": 4
+    },
+    "seo": {
+      "metaTitulo": "Kit4 Coilovers Regulables Amortiguadores Suspension Resortes",
+      "metaDescripcion": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "palabrasClave": [
+        "amortiguadores",
+        "coilovers",
+        "marca",
+        "número",
+        "pieza"
+      ]
+    },
+    "marca": "Raistar",
+    "requiereRefrigeracion": false,
+    "ratingAverage": 0
+  },
+  {
+    "sku": "HIL-OTRO-VAR-920",
+    "nombre": "Hilo Tira Luz Neon Colores Led 12v 5m Auto Moto Rojo",
+    "slug": "hilo-tira-luz-neon-colores-led-12v-5m-auto-moto-rojo",
+    "categoria": "OTROS",
+    "subcategoria": "Varios",
+    "descripcion": {
+      "corta": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "completa": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡ muchasgracias!Somos la tienda online más variada del mercado, donde podrás encontrar todo lo que quieras y una enorme variedad de novedades.\n\nTodos nuestros productos se prueban antes del envío para ofrecerte la mejor experiencia de compra. Si tiene alguna pregunta, no dude en escribirnos y estaremos encantados de ayudarle y asesorarle.\nPon"
+    },
+    "multimedia": {
+      "imagenes": [
+        {
+          "url": "https://http2.mlstatic.com/D_Q_NP_2X_903609-MLC83645958553_042025-E.webp",
+          "textoAlternativo": "Hilo Tira Luz Neon Colores Led 12v 5m Auto Moto Rojo",
+          "esPrincipal": true
+        }
+      ]
+    },
+    "estado": true,
+    "tags": [
+      "auto",
+      "colores",
+      "hilo",
+      "led",
+      "luz",
+      "marca",
+      "moto",
+      "neon",
+      "número",
+      "pieza"
+    ],
+    "variantes": [
+      {
+        "nombre": "Estándar",
+        "unidad": "unidades",
+        "precio": 9999,
+        "descuento": 0,
+        "sku": "HIL-OTRO-VAR-920-VAR001",
+        "esPredeterminado": true
+      }
+    ],
+    "atributos": {
+      "Marca": "Raistar racing",
+      "Número de pieza": 1
+    },
+    "seo": {
+      "metaTitulo": "Hilo Tira Luz Neon Colores Led 12v 5m Auto Moto Rojo",
+      "metaDescripcion": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "palabrasClave": [
+        "auto",
+        "colores",
+        "hilo",
+        "led",
+        "luz"
+      ]
+    },
+    "marca": "Raistar racing",
+    "requiereRefrigeracion": false,
+    "ratingAverage": 0
+  },
+  {
+    "sku": "PAR-OTRO-VAR-668",
+    "nombre": "Parlante Auto 6.5 Pulg 600w Negro Raistar Racing Yhw-606 Negro",
+    "slug": "parlante-auto-65-pulg-600w-negro-raistar-racing-yhw-606-negro",
+    "categoria": "OTROS",
+    "subcategoria": "Varios",
+    "descripcion": {
+      "corta": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "completa": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡ muchasgracias!Somos la tienda online más variada del mercado, donde podrás encontrar todo lo que quieras y una enorme variedad de novedades.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nTodos nuestros productos se prueban antes del envío para ofrecerte la mejor experiencia de compra. Si tiene alguna pregunta, no dude en escribirnos y estaremos enca"
+    },
+    "multimedia": {
+      "imagenes": [
+        {
+          "url": "https://http2.mlstatic.com/D_Q_NP_2X_600552-MLC93608671503_092025-E.webp",
+          "textoAlternativo": "Parlante Auto 6.5 Pulg 600w Negro Raistar Racing Yhw-606 Negro",
+          "esPrincipal": true
+        }
+      ]
+    },
+    "estado": true,
+    "tags": [
+      "auto",
+      "color",
+      "marca",
+      "modelo",
+      "negro",
+      "parlante",
+      "pulg",
+      "racing",
+      "raistar",
+      "yhw"
+    ],
+    "variantes": [
+      {
+        "nombre": "Estándar",
+        "unidad": "unidades",
+        "precio": 22980,
+        "descuento": 0,
+        "sku": "PAR-OTRO-VAR-668-VAR001",
+        "esPredeterminado": true
+      }
+    ],
+    "atributos": {
+      "Marca": "Raistar racing",
+      "Modelo": "YHW-606",
+      "Color": "Negro",
+      "Impedancia": "4 Ω",
+      "Cantidad de parlantes": 1
+    },
+    "seo": {
+      "metaTitulo": "Parlante Auto 6.5 Pulg 600w Negro Raistar Racing Yhw-606 Neg",
+      "metaDescripcion": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "palabrasClave": [
+        "auto",
+        "color",
+        "marca",
+        "modelo",
+        "negro"
+      ]
+    },
+    "marca": "Raistar racing",
+    "requiereRefrigeracion": false,
+    "ratingAverage": 0
+  },
+  {
+    "sku": "SUB-OTRO-VAR-133",
+    "nombre": "Subwoofer Plano Amplificado Parlantes Auto+ Kit Instalación Negro",
+    "slug": "subwoofer-plano-amplificado-parlantes-auto-kit-instalacion-negro",
+    "categoria": "OTROS",
+    "subcategoria": "Varios",
+    "descripcion": {
+      "corta": "Descripción",
+      "completa": "Descripción"
+    },
+    "multimedia": {
+      "imagenes": [
+        {
+          "url": "https://http2.mlstatic.com/D_Q_NP_2X_775208-MLC93161560094_092025-E.webp",
+          "textoAlternativo": "Subwoofer Plano Amplificado Parlantes Auto+ Kit Instalación Negro",
+          "esPrincipal": true
+        }
+      ]
+    },
+    "estado": true,
+    "tags": [
+      "amplificado",
+      "auto",
+      "instalación",
+      "kit",
+      "línea",
+      "marca",
+      "modelo",
+      "negro",
+      "parlantes",
+      "plano"
+    ],
+    "variantes": [
+      {
+        "nombre": "Estándar",
+        "unidad": "unidades",
+        "precio": 51209,
+        "descuento": 0,
+        "sku": "SUB-OTRO-VAR-133-VAR001",
+        "esPredeterminado": true
+      }
+    ],
+    "atributos": {
+      "Marca": "Raistar racing",
+      "Línea": 1,
+      "Modelo": "F8",
+      "Color": "Negro",
+      "Cantidad de parlantes": 1
+    },
+    "seo": {
+      "metaTitulo": "Subwoofer Plano Amplificado Parlantes Auto+ Kit Instalación ",
+      "metaDescripcion": "Descripción",
+      "palabrasClave": [
+        "amplificado",
+        "auto",
+        "instalación",
+        "kit",
+        "línea"
+      ]
+    },
+    "marca": "Raistar racing",
+    "requiereRefrigeracion": false,
+    "ratingAverage": 0
+  },
+  {
+    "sku": "BOC-OTRO-VAR-891",
+    "nombre": "Bocina De Caracol Para Coche 12v Impermeable Alta Potencia",
+    "slug": "bocina-de-caracol-para-coche-12v-impermeable-alta-potencia",
+    "categoria": "OTROS",
+    "subcategoria": "Varios",
+    "descripcion": {
+      "corta": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "completa": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡ muchasgracias!Somos la tienda online más variada del mercado, donde podrás encontrar todo lo que quieras y una enorme variedad de novedades.\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\nTodos nuestros productos se prueban antes del envío para ofrecerte la mejor experiencia de compra. Si tiene alguna pregunta, no dude en escribirnos y estaremos encantados de ay"
+    },
+    "multimedia": {
+      "imagenes": [
+        {
+          "url": "https://http2.mlstatic.com/D_Q_NP_2X_811620-MLC82711993646_032025-E.webp",
+          "textoAlternativo": "Bocina De Caracol Para Coche 12v Impermeable Alta Potencia",
+          "esPrincipal": true
+        }
+      ]
+    },
+    "estado": true,
+    "tags": [
+      "alta",
+      "bocina",
+      "caracol",
+      "coche",
+      "impermeable",
+      "marca",
+      "modelo",
+      "número",
+      "pieza",
+      "potencia"
+    ],
+    "variantes": [
+      {
+        "nombre": "Estándar",
+        "unidad": "unidades",
+        "precio": 13999,
+        "descuento": 0,
+        "sku": "BOC-OTRO-VAR-891-VAR001",
+        "esPredeterminado": true
+      }
+    ],
+    "atributos": {
+      "Marca": "Universal",
+      "Número de pieza": "H73-24",
+      "Modelo": "Universal",
+      "Voltaje de la bocina": "12V",
+      "Color": "Negro"
+    },
+    "seo": {
+      "metaTitulo": "Bocina De Caracol Para Coche 12v Impermeable Alta Potencia",
+      "metaDescripcion": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "palabrasClave": [
+        "alta",
+        "bocina",
+        "caracol",
+        "coche",
+        "impermeable"
+      ]
+    },
+    "marca": "Universal",
+    "requiereRefrigeracion": false,
+    "ratingAverage": 0
+  },
+  {
+    "sku": "PRO-OTRO-VAR-505",
+    "nombre": "Protector Solar Parabrisa /tapa Sol Auto 60*130cm Rojo",
+    "slug": "protector-solar-parabrisa-tapa-sol-auto-60130cm-rojo",
+    "categoria": "OTROS",
+    "subcategoria": "Varios",
+    "descripcion": {
+      "corta": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "completa": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡ muchasgracias!Somos la tienda online más variada del mercado, donde podrás encontrar todo lo que quieras y una enorme variedad de novedades.                  \n                  \nTodos nuestros productos se prueban antes del envío para ofrecerte la mejor experiencia de compra. Si tiene alguna pregunta, no dude en escribirnos y estaremos enca"
+    },
+    "multimedia": {
+      "imagenes": [
+        {
+          "url": "https://http2.mlstatic.com/D_Q_NP_2X_708504-MLC93976505869_102025-E.webp",
+          "textoAlternativo": "Protector Solar Parabrisa /tapa Sol Auto 60*130cm Rojo",
+          "esPrincipal": true
+        }
+      ]
+    },
+    "estado": true,
+    "tags": [
+      "auto",
+      "marca",
+      "número",
+      "parabrisa",
+      "pieza",
+      "protector",
+      "racing",
+      "raistar",
+      "rojo",
+      "sol"
+    ],
+    "variantes": [
+      {
+        "nombre": "Estándar",
+        "unidad": "unidades",
+        "precio": 4980,
+        "descuento": 0,
+        "sku": "PRO-OTRO-VAR-505-VAR001",
+        "esPredeterminado": true
+      }
+    ],
+    "atributos": {
+      "Marca": "Raistar racing",
+      "Número de pieza": "H68-8R"
+    },
+    "seo": {
+      "metaTitulo": "Protector Solar Parabrisa /tapa Sol Auto 60*130cm Rojo",
+      "metaDescripcion": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "palabrasClave": [
+        "auto",
+        "marca",
+        "número",
+        "parabrisa",
+        "pieza"
+      ]
+    },
+    "marca": "Raistar racing",
+    "requiereRefrigeracion": false,
+    "ratingAverage": 0
+  },
+  {
+    "sku": "BOC-OTRO-VAR-979",
+    "nombre": "Bocina Para Auto Coche Altavoz De Alarma Para Camión 7 Tonos",
+    "slug": "bocina-para-auto-coche-altavoz-de-alarma-para-camion-7-tonos",
+    "categoria": "OTROS",
+    "subcategoria": "Varios",
+    "descripcion": {
+      "corta": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "completa": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡ muchasgracias!Somos la tienda online más variada del mercado, donde podrás encontrar todo lo que quieras y una enorme variedad de novedades.                  \n                  \nTodos nuestros productos se prueban antes del envío para ofrecerte la mejor experiencia de compra. Si tiene alguna pregunta, no dude en escribirnos y estaremos enca"
+    },
+    "multimedia": {
+      "imagenes": [
+        {
+          "url": "https://http2.mlstatic.com/D_Q_NP_2X_968322-MLC81714826867_122024-E.webp",
+          "textoAlternativo": "Bocina Para Auto Coche Altavoz De Alarma Para Camión 7 Tonos",
+          "esPrincipal": true
+        }
+      ]
+    },
+    "estado": true,
+    "tags": [
+      "alarma",
+      "altavoz",
+      "auto",
+      "bocina",
+      "camión",
+      "coche",
+      "genérica",
+      "marca",
+      "modelo",
+      "número"
+    ],
+    "variantes": [
+      {
+        "nombre": "Estándar",
+        "unidad": "unidades",
+        "precio": 11899,
+        "descuento": 0,
+        "sku": "BOC-OTRO-VAR-979-VAR001",
+        "esPredeterminado": true
+      }
+    ],
+    "atributos": {
+      "Marca": "Genérica",
+      "Número de pieza": 1,
+      "Modelo": "Genérica",
+      "Voltaje de la bocina": "12V",
+      "Color": "Negro"
+    },
+    "seo": {
+      "metaTitulo": "Bocina Para Auto Coche Altavoz De Alarma Para Camión 7 Tonos",
+      "metaDescripcion": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "palabrasClave": [
+        "alarma",
+        "altavoz",
+        "auto",
+        "bocina",
+        "camión"
+      ]
+    },
+    "marca": "Genérica",
+    "requiereRefrigeracion": false,
+    "ratingAverage": 0
+  },
+  {
+    "sku": "PIE-OTRO-VAR-599",
+    "nombre": "2 Piezas De Ojo De Ángel Luces Antiniebla Universale 3.0inch Blanco",
+    "slug": "2-piezas-de-ojo-de-angel-luces-antiniebla-universale-30inch-blanco",
+    "categoria": "OTROS",
+    "subcategoria": "Varios",
+    "descripcion": {
+      "corta": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "completa": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡ muchasgracias!Somos la tienda online más variada del mercado, donde podrás encontrar todo lo que quieras y una enorme variedad de novedades.            \n            \nTodos nuestros productos se prueban antes del envío para ofrecerte la mejor experiencia de compra. Si tiene alguna pregunta, no dude en escribirnos y estaremos encantados de ay"
+    },
+    "multimedia": {
+      "imagenes": [
+        {
+          "url": "https://http2.mlstatic.com/D_Q_NP_2X_768095-MLC93577479971_092025-E.webp",
+          "textoAlternativo": "2 Piezas De Ojo De Ángel Luces Antiniebla Universale 3.0inch Blanco",
+          "esPrincipal": true
+        }
+      ]
+    },
+    "estado": true,
+    "tags": [
+      "antiniebla",
+      "blanco",
+      "genérica",
+      "luces",
+      "marca",
+      "número",
+      "ojo",
+      "pieza",
+      "piezas",
+      "universale"
+    ],
+    "variantes": [
+      {
+        "nombre": "Estándar",
+        "unidad": "unidades",
+        "precio": 22889,
+        "descuento": 0,
+        "sku": "PIE-OTRO-VAR-599-VAR001",
+        "esPredeterminado": true
+      }
+    ],
+    "atributos": {
+      "Marca": "Genérica",
+      "Número de pieza": 1
+    },
+    "seo": {
+      "metaTitulo": "2 Piezas De Ojo De Ángel Luces Antiniebla Universale 3.0inch",
+      "metaDescripcion": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "palabrasClave": [
+        "antiniebla",
+        "blanco",
+        "genérica",
+        "luces",
+        "marca"
+      ]
+    },
+    "marca": "Genérica",
+    "requiereRefrigeracion": false,
+    "ratingAverage": 0
+  },
+  {
+    "sku": "ALE-OTRO-VAR-799",
+    "nombre": "Alerón Lip Spoiler Universal Flexible Cola De Pato Cajuela",
+    "slug": "aleron-lip-spoiler-universal-flexible-cola-de-pato-cajuela",
+    "categoria": "OTROS",
+    "subcategoria": "Varios",
+    "descripcion": {
+      "corta": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "completa": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡ muchasgracias!Somos la tienda online más variada del mercado, donde podrás encontrar todo lo que quieras y una enorme variedad de novedades.            \n            \nTodos nuestros productos se prueban antes del envío para ofrecerte la mejor experiencia de compra. Si tiene alguna pregunta, no dude en escribirnos y estaremos encantados de ay"
+    },
+    "multimedia": {
+      "imagenes": [
+        {
+          "url": "https://http2.mlstatic.com/D_Q_NP_2X_985625-MLC83811528257_042025-E.webp",
+          "textoAlternativo": "Alerón Lip Spoiler Universal Flexible Cola De Pato Cajuela",
+          "esPrincipal": true
+        }
+      ]
+    },
+    "estado": true,
+    "tags": [
+      "alerón",
+      "cajuela",
+      "cola",
+      "flexible",
+      "genérica",
+      "lip",
+      "marca",
+      "modelo",
+      "número",
+      "pato"
+    ],
+    "variantes": [
+      {
+        "nombre": "Estándar",
+        "unidad": "unidades",
+        "precio": 10599,
+        "descuento": 0,
+        "sku": "ALE-OTRO-VAR-799-VAR001",
+        "esPredeterminado": true
+      }
+    ],
+    "atributos": {
+      "Marca": "Genérica",
+      "Número de pieza": "H86-5",
+      "Modelo": "Tira de parachoques"
+    },
+    "seo": {
+      "metaTitulo": "Alerón Lip Spoiler Universal Flexible Cola De Pato Cajuela",
+      "metaDescripcion": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "palabrasClave": [
+        "alerón",
+        "cajuela",
+        "cola",
+        "flexible",
+        "genérica"
+      ]
+    },
+    "marca": "Genérica",
+    "requiereRefrigeracion": false,
+    "ratingAverage": 0
+  },
+  {
+    "sku": "PRO-OTRO-VAR-462",
+    "nombre": "Protector Solar Parabrisa /tapa Sol Auto 60*130cm Verde",
+    "slug": "protector-solar-parabrisa-tapa-sol-auto-60130cm-verde",
+    "categoria": "OTROS",
+    "subcategoria": "Varios",
+    "descripcion": {
+      "corta": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "completa": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡ muchasgracias!Somos la tienda online más variada del mercado, donde podrás encontrar todo lo que quieras y una enorme variedad de novedades.                  \n                  \nTodos nuestros productos se prueban antes del envío para ofrecerte la mejor experiencia de compra. Si tiene alguna pregunta, no dude en escribirnos y estaremos enca"
+    },
+    "multimedia": {
+      "imagenes": [
+        {
+          "url": "https://http2.mlstatic.com/D_Q_NP_2X_690481-MLC93555368172_102025-E.webp",
+          "textoAlternativo": "Protector Solar Parabrisa /tapa Sol Auto 60*130cm Verde",
+          "esPrincipal": true
+        }
+      ]
+    },
+    "estado": true,
+    "tags": [
+      "auto",
+      "marca",
+      "número",
+      "parabrisa",
+      "pieza",
+      "protector",
+      "racing",
+      "raistar",
+      "sol",
+      "solar"
+    ],
+    "variantes": [
+      {
+        "nombre": "Estándar",
+        "unidad": "unidades",
+        "precio": 4980,
+        "descuento": 0,
+        "sku": "PRO-OTRO-VAR-462-VAR001",
+        "esPredeterminado": true
+      }
+    ],
+    "atributos": {
+      "Marca": "Raistar racing",
+      "Número de pieza": "H68-8V"
+    },
+    "seo": {
+      "metaTitulo": "Protector Solar Parabrisa /tapa Sol Auto 60*130cm Verde",
+      "metaDescripcion": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "palabrasClave": [
+        "auto",
+        "marca",
+        "número",
+        "parabrisa",
+        "pieza"
+      ]
+    },
+    "marca": "Raistar racing",
+    "requiereRefrigeracion": false,
+    "ratingAverage": 0
+  },
+  {
+    "sku": "CIE-OTRO-VAR-594",
+    "nombre": "Cierre Centralizado Universal Alta Calidad Raistar Racing",
+    "slug": "cierre-centralizado-universal-alta-calidad-raistar-racing",
+    "categoria": "OTROS",
+    "subcategoria": "Varios",
+    "descripcion": {
+      "corta": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "completa": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡ muchasgracias!Somos la tienda online más variada del mercado, donde podrás encontrar todo lo que quieras y una enorme variedad de novedades.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nTodos nuestros productos se prueban antes del envío para ofrecerte la mejor experiencia de compra. Si tiene alguna pregunta, no dude en escribirnos y estaremos enca"
+    },
+    "multimedia": {
+      "imagenes": [
+        {
+          "url": "https://http2.mlstatic.com/D_Q_NP_2X_732961-MLC90383490068_082025-E.webp",
+          "textoAlternativo": "Cierre Centralizado Universal Alta Calidad Raistar Racing",
+          "esPrincipal": true
+        }
+      ]
+    },
+    "estado": true,
+    "tags": [
+      "alta",
+      "calidad",
+      "centralizado",
+      "cierre",
+      "marca",
+      "número",
+      "pieza",
+      "racing",
+      "raistar",
+      "universal"
+    ],
+    "variantes": [
+      {
+        "nombre": "Estándar",
+        "unidad": "unidades",
+        "precio": 14560,
+        "descuento": 0,
+        "sku": "CIE-OTRO-VAR-594-VAR001",
+        "esPredeterminado": true
+      }
+    ],
+    "atributos": {
+      "Marca": "Raistar racing",
+      "Número de pieza": "H92-5"
+    },
+    "seo": {
+      "metaTitulo": "Cierre Centralizado Universal Alta Calidad Raistar Racing",
+      "metaDescripcion": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "palabrasClave": [
+        "alta",
+        "calidad",
+        "centralizado",
+        "cierre",
+        "marca"
+      ]
+    },
+    "marca": "Raistar racing",
+    "requiereRefrigeracion": false,
+    "ratingAverage": 0
+  },
+  {
+    "sku": "ANT-OTRO-VAR-299",
+    "nombre": "Antena Moto Corta Hilo Curado Moto Retractil Corta Pipa Negro",
+    "slug": "antena-moto-corta-hilo-curado-moto-retractil-corta-pipa-negro",
+    "categoria": "OTROS",
+    "subcategoria": "Varios",
+    "descripcion": {
+      "corta": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "completa": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡ muchasgracias!Somos la tienda online más variada del mercado, donde podrás encontrar todo lo que quieras y una enorme variedad de novedades.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nTodos nuestros productos se prueban antes del envío para ofrecerte la mejor experiencia de compra. Si tiene alguna pregunta, no dude en escribirnos y"
+    },
+    "multimedia": {
+      "imagenes": [
+        {
+          "url": "https://http2.mlstatic.com/D_Q_NP_2X_607324-MLC93573605791_092025-E.webp",
+          "textoAlternativo": "Antena Moto Corta Hilo Curado Moto Retractil Corta Pipa Negro",
+          "esPrincipal": true
+        }
+      ]
+    },
+    "estado": true,
+    "tags": [
+      "antena",
+      "corta",
+      "curado",
+      "genérica",
+      "hilo",
+      "marca",
+      "modelo",
+      "moto",
+      "negro",
+      "pipa"
+    ],
+    "variantes": [
+      {
+        "nombre": "Estándar",
+        "unidad": "unidades",
+        "precio": 4920,
+        "descuento": 0,
+        "sku": "ANT-OTRO-VAR-299-VAR001",
+        "esPredeterminado": true
+      }
+    ],
+    "atributos": {
+      "Marca": "Genérica",
+      "Modelo": "antena corta pipa",
+      "Color": "Negro"
+    },
+    "seo": {
+      "metaTitulo": "Antena Moto Corta Hilo Curado Moto Retractil Corta Pipa Negr",
+      "metaDescripcion": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "palabrasClave": [
+        "antena",
+        "corta",
+        "curado",
+        "genérica",
+        "hilo"
+      ]
+    },
+    "marca": "Genérica",
+    "requiereRefrigeracion": false,
+    "ratingAverage": 0
+  },
+  {
+    "sku": "KIT-OTRO-VAR-452",
+    "nombre": "Kit Herramientas Reparador De Vidrios Quita Rayones Auto Negro",
+    "slug": "kit-herramientas-reparador-de-vidrios-quita-rayones-auto-negro",
+    "categoria": "OTROS",
+    "subcategoria": "Varios",
+    "descripcion": {
+      "corta": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "completa": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡ muchasgracias!Somos la tienda online más variada del mercado, donde podrás encontrar todo lo que quieras y una enorme variedad de novedades.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nTodos nuestros productos se prueban antes del envío para ofrecerte la mejor experiencia de compra. Si tiene alguna pregunta, no dude en escribirnos y estaremo"
+    },
+    "multimedia": {
+      "imagenes": [
+        {
+          "url": "https://http2.mlstatic.com/D_Q_NP_2X_766492-MLC84601831698_052025-E.webp",
+          "textoAlternativo": "Kit Herramientas Reparador De Vidrios Quita Rayones Auto Negro",
+          "esPrincipal": true
+        }
+      ]
+    },
+    "estado": true,
+    "tags": [
+      "auto",
+      "general",
+      "grietas",
+      "herramientas",
+      "kit",
+      "marca",
+      "modelo",
+      "negro",
+      "quita",
+      "rayones"
+    ],
+    "variantes": [
+      {
+        "nombre": "Estándar",
+        "unidad": "unidades",
+        "precio": 8680,
+        "descuento": 0,
+        "sku": "KIT-OTRO-VAR-452-VAR001",
+        "esPredeterminado": true
+      }
+    ],
+    "atributos": {
+      "Marca": "General",
+      "Modelo": "REPARADOR GRIETAS",
+      "Color": "Negro"
+    },
+    "seo": {
+      "metaTitulo": "Kit Herramientas Reparador De Vidrios Quita Rayones Auto Neg",
+      "metaDescripcion": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "palabrasClave": [
+        "auto",
+        "general",
+        "grietas",
+        "herramientas",
+        "kit"
+      ]
+    },
+    "marca": "General",
+    "requiereRefrigeracion": false,
+    "ratingAverage": 0
+  },
+  {
+    "sku": "AUT-OTRO-VAR-273",
+    "nombre": "Auto Cargador Y Partidor Bateria Emergencia Autos 60 Amp",
+    "slug": "auto-cargador-y-partidor-bateria-emergencia-autos-60-amp",
+    "categoria": "OTROS",
+    "subcategoria": "Varios",
+    "descripcion": {
+      "corta": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "completa": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡ muchasgracias!Somos la tienda online más variada del mercado, donde podrás encontrar todo lo que quieras y una enorme variedad de novedades.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nTodos nuestros productos se prueban antes del envío para ofrecerte la mejor experiencia de compra. Si tiene alguna pregunta, no dude en escribirnos y estaremos enca"
+    },
+    "multimedia": {
+      "imagenes": [
+        {
+          "url": "https://http2.mlstatic.com/D_Q_NP_2X_874780-MLC85107023605_052025-E.webp",
+          "textoAlternativo": "Auto Cargador Y Partidor Bateria Emergencia Autos 60 Amp",
+          "esPrincipal": true
+        }
+      ]
+    },
+    "estado": true,
+    "tags": [
+      "amp",
+      "auto",
+      "autos",
+      "bateria",
+      "cargador",
+      "emergencia",
+      "línea",
+      "marca",
+      "modelo",
+      "partidor"
+    ],
+    "variantes": [
+      {
+        "nombre": "Estándar",
+        "unidad": "unidades",
+        "precio": 45889,
+        "descuento": 0,
+        "sku": "AUT-OTRO-VAR-273-VAR001",
+        "esPredeterminado": true
+      }
+    ],
+    "atributos": {
+      "Marca": "Raistar",
+      "Línea": "PARTIDOR",
+      "Modelo": "General",
+      "Corriente de salida": "60 A",
+      "Tensión de carga": "12V",
+      "Potencia máxima": "100 W"
+    },
+    "seo": {
+      "metaTitulo": "Auto Cargador Y Partidor Bateria Emergencia Autos 60 Amp",
+      "metaDescripcion": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "palabrasClave": [
+        "amp",
+        "auto",
+        "autos",
+        "bateria",
+        "cargador"
+      ]
+    },
+    "marca": "Raistar",
+    "requiereRefrigeracion": false,
+    "ratingAverage": 0
+  },
+  {
+    "sku": "CIE-OTRO-VAR-662",
+    "nombre": "Cierre Capórefuerzouniversal Para Autos Tuning Deslizantepro",
+    "slug": "cierre-caporefuerzouniversal-para-autos-tuning-deslizantepro",
+    "categoria": "OTROS",
+    "subcategoria": "Varios",
+    "descripcion": {
+      "corta": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "completa": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡ muchasgracias!Somos la tienda online más variada del mercado, donde podrás encontrar todo lo que quieras y una enorme variedad de novedades.\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\nTodos nuestros productos se prueban antes del envío para ofrecerte la mejor experiencia de compra. Si tiene alguna pregunta, no dude en escribirnos y estaremos encantados de ay"
+    },
+    "multimedia": {
+      "imagenes": [
+        {
+          "url": "https://http2.mlstatic.com/D_Q_NP_2X_706416-MLC82876158604_032025-E.webp",
+          "textoAlternativo": "Cierre Capórefuerzouniversal Para Autos Tuning Deslizantepro",
+          "esPrincipal": true
+        }
+      ]
+    },
+    "estado": true,
+    "tags": [
+      "autos",
+      "cierre",
+      "deslizantepro",
+      "genérica",
+      "marca",
+      "número",
+      "pieza",
+      "tipo",
+      "tuning"
+    ],
+    "variantes": [
+      {
+        "nombre": "Estándar",
+        "unidad": "unidades",
+        "precio": 7980,
+        "descuento": 0,
+        "sku": "CIE-OTRO-VAR-662-VAR001",
+        "esPredeterminado": true
+      }
+    ],
+    "atributos": {
+      "Marca": "Genérica",
+      "Número de pieza": 1,
+      "Tipo de vehículo": "Auto/Camioneta",
+      "Color": "Azul"
+    },
+    "seo": {
+      "metaTitulo": "Cierre Capórefuerzouniversal Para Autos Tuning Deslizantepro",
+      "metaDescripcion": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "palabrasClave": [
+        "autos",
+        "cierre",
+        "deslizantepro",
+        "genérica",
+        "marca"
+      ]
+    },
+    "marca": "Genérica",
+    "requiereRefrigeracion": false,
+    "ratingAverage": 0
+  },
+  {
+    "sku": "PAR-OTRO-VAR-140",
+    "nombre": "Parlantes Para Audio Auto 6 1/2 Pulg 4 600w Negro Negro",
+    "slug": "parlantes-para-audio-auto-6-12-pulg-4-600w-negro-negro",
+    "categoria": "OTROS",
+    "subcategoria": "Varios",
+    "descripcion": {
+      "corta": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "completa": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡ muchasgracias!Somos la tienda online más variada del mercado, donde podrás encontrar todo lo que quieras y una enorme variedad de novedades.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nTodos nuestros productos se prueban antes del envío para ofrecerte la mejor experiencia de compra. Si tiene alguna pregunta, no dude en escribirnos y estaremos enca"
+    },
+    "multimedia": {
+      "imagenes": [
+        {
+          "url": "https://http2.mlstatic.com/D_Q_NP_2X_899913-MLC93578827045_092025-E.webp",
+          "textoAlternativo": "Parlantes Para Audio Auto 6 1/2 Pulg 4 600w Negro Negro",
+          "esPrincipal": true
+        }
+      ]
+    },
+    "estado": true,
+    "tags": [
+      "audio",
+      "auto",
+      "línea",
+      "marca",
+      "medios",
+      "negro",
+      "parlantes",
+      "pulg",
+      "racing",
+      "raistar"
+    ],
+    "variantes": [
+      {
+        "nombre": "Estándar",
+        "unidad": "unidades",
+        "precio": 34985,
+        "descuento": 0,
+        "sku": "PAR-OTRO-VAR-140-VAR001",
+        "esPredeterminado": true
+      }
+    ],
+    "atributos": {
+      "Marca": "Raistar racing",
+      "Línea": "Medios",
+      "Modelo": 609,
+      "Color": "Negro",
+      "Cantidad de parlantes": 1
+    },
+    "seo": {
+      "metaTitulo": "Parlantes Para Audio Auto 6 1/2 Pulg 4 600w Negro Negro",
+      "metaDescripcion": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "palabrasClave": [
+        "audio",
+        "auto",
+        "línea",
+        "marca",
+        "medios"
+      ]
+    },
+    "marca": "Raistar racing",
+    "requiereRefrigeracion": false,
+    "ratingAverage": 0
+  },
+  {
+    "sku": "XLU-OTRO-VAR-835",
+    "nombre": "X2  Luz Antiniebla Intermitente Foco Balizas 10 Led 12-24v",
+    "slug": "x2-luz-antiniebla-intermitente-foco-balizas-10-led-12-24v",
+    "categoria": "OTROS",
+    "subcategoria": "Varios",
+    "descripcion": {
+      "corta": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "completa": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡ muchasgracias!Somos la tienda online más variada del mercado, donde podrás encontrar todo lo que quieras y una enorme variedad de novedades.             \n             \nTodos nuestros productos se prueban antes del envío para ofrecerte la mejor experiencia de compra. Si tiene alguna pregunta, no dude en escribirnos y estaremos encantados de"
+    },
+    "multimedia": {
+      "imagenes": [
+        {
+          "url": "https://http2.mlstatic.com/D_Q_NP_2X_925202-MLC89170046379_082025-E.webp",
+          "textoAlternativo": "X2  Luz Antiniebla Intermitente Foco Balizas 10 Led 12-24v",
+          "esPrincipal": true
+        }
+      ]
+    },
+    "estado": true,
+    "tags": [
+      "antiniebla",
+      "balizas",
+      "foco",
+      "genérica",
+      "intermitente",
+      "led",
+      "luz",
+      "marca",
+      "modelo",
+      "número"
+    ],
+    "variantes": [
+      {
+        "nombre": "Estándar",
+        "unidad": "unidades",
+        "precio": 9899,
+        "descuento": 0,
+        "sku": "XLU-OTRO-VAR-835-VAR001",
+        "esPredeterminado": true
+      }
+    ],
+    "atributos": {
+      "Marca": "Genérica",
+      "Modelo": "Genérica",
+      "Número de pieza": 1
+    },
+    "seo": {
+      "metaTitulo": "X2  Luz Antiniebla Intermitente Foco Balizas 10 Led 12-24v",
+      "metaDescripcion": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+      "palabrasClave": [
+        "antiniebla",
+        "balizas",
+        "foco",
+        "genérica",
+        "intermitente"
+      ]
+    },
+    "marca": "Genérica",
+    "requiereRefrigeracion": false,
+    "ratingAverage": 0
+  },
+  {
+    "sku": "MIN-OTRO-VAR-888",
+    "nombre": "Mini Aspiradora De Mano Para Autos Hogar Alta Potencia Negro Negro",
+    "slug": "mini-aspiradora-de-mano-para-autos-hogar-alta-potencia-negro-negro",
+    "categoria": "OTROS",
+    "subcategoria": "Varios",
+    "descripcion": {
+      "corta": "Descripción ASPIRADOR PORTÁTIL DE MANO CON LED\n\nCaracterísticas:\n--Función 2 en 1: función de aspiración y soplado, un lado para aspirar y el otro lado elimi...",
+      "completa": "Descripción ASPIRADOR PORTÁTIL DE MANO CON LED\n\nCaracterísticas:\n--Función 2 en 1: función de aspiración y soplado, un lado para aspirar y el otro lado elimina el polvo\n--Potente potencia de succión y alta potencia: con un motor de 42 W, una potencia de succión de hasta 3,5 Kpa, puede limpiar todo tipo de polvo rebelde.\n--Extraíble y lavable: el filtro y el colector de polvo se pueden limpiar y desmontar fácilmente con agua, y se pueden limpiar a fondo para lograr un rendimiento óptimo y durabil"
+    },
+    "multimedia": {
+      "imagenes": [
+        {
+          "url": "https://http2.mlstatic.com/D_Q_NP_2X_961226-MLC93161766272_092025-E.webp",
+          "textoAlternativo": "Mini Aspiradora De Mano Para Autos Hogar Alta Potencia Negro Negro",
+          "esPrincipal": true
+        }
+      ]
+    },
+    "estado": true,
+    "tags": [
+      "alta",
+      "aspirador",
+      "aspiradora",
+      "autos",
+      "hogar",
+      "línea",
+      "mano",
+      "marca",
+      "mini",
+      "negro"
+    ],
+    "variantes": [
+      {
+        "nombre": "Estándar",
+        "unidad": "unidades",
+        "precio": 8999,
+        "descuento": 0,
+        "sku": "MIN-OTRO-VAR-888-VAR001",
+        "esPredeterminado": true
+      }
+    ],
+    "atributos": {
+      "Marca": "Pervoi",
+      "Línea": "Mini Aspirador",
+      "Modelo": "CTC-336",
+      "Capacidad en volumen": "100 mL",
+      "Color": "Negro",
+      "Voltaje": "12V"
+    },
+    "seo": {
+      "metaTitulo": "Mini Aspiradora De Mano Para Autos Hogar Alta Potencia Negro",
+      "metaDescripcion": "Descripción ASPIRADOR PORTÁTIL DE MANO CON LED\n\nCaracterísticas:\n--Función 2 en 1: función de aspiración y soplado, un lado para aspirar y el otro lado elimi...",
+      "palabrasClave": [
+        "alta",
+        "aspirador",
+        "aspiradora",
+        "autos",
+        "hogar"
+      ]
+    },
+    "marca": "Pervoi",
+    "requiereRefrigeracion": false,
+    "ratingAverage": 0
+  },
+  {
+    "sku": "SET-OTRO-VAR-810",
+    "nombre": "Set 4 Piezas Pisosde Goma Rojo Para Vehículos Universal Auto Rojo",
+    "slug": "set-4-piezas-pisosde-goma-rojo-para-vehiculos-universal-auto-rojo",
+    "categoria": "OTROS",
+    "subcategoria": "Varios",
+    "descripcion": {
+      "corta": "Set 4 Piezas Pisosde Goma Rojo Para Vehículos Universal Auto Rojo",
+      "completa": null
+    },
+    "multimedia": {
+      "imagenes": [
+        {
+          "url": "https://http2.mlstatic.com/D_Q_NP_2X_809367-MLC97247247783_112025-E.webp",
+          "textoAlternativo": "Set 4 Piezas Pisosde Goma Rojo Para Vehículos Universal Auto Rojo",
+          "esPrincipal": true
+        }
+      ]
+    },
+    "estado": true,
+    "tags": [
+      "auto",
+      "goma",
+      "piezas",
+      "pisosde",
+      "rojo",
+      "set",
+      "universal",
+      "vehículos"
+    ],
+    "variantes": [
+      {
+        "nombre": "Estándar",
+        "unidad": "unidades",
+        "precio": 15326,
+        "descuento": 0,
+        "sku": "SET-OTRO-VAR-810-VAR001",
+        "esPredeterminado": true
+      }
+    ],
+    "atributos": {},
+    "seo": {
+      "metaTitulo": "Set 4 Piezas Pisosde Goma Rojo Para Vehículos Universal Auto",
+      "metaDescripcion": "Set 4 Piezas Pisosde Goma Rojo Para Vehículos Universal Auto Rojo",
+      "palabrasClave": [
+        "auto",
+        "goma",
+        "piezas",
+        "pisosde",
+        "rojo"
+      ]
+    },
+    "requiereRefrigeracion": false,
+    "ratingAverage": 0
+  },
+  {
+    "sku": "COM-OTRO-VAR-102",
+    "nombre": "Compresor Aire Doble Cilindro 12v Inflador Neumáticos Bomba",
+    "slug": "compresor-aire-doble-cilindro-12v-inflador-neumaticos-bomba",
+    "categoria": "OTROS",
+    "subcategoria": "Varios",
+    "descripcion": {
+      "corta": "Compresor Aire Doble Cilindro 12v Inflador Neumáticos Bomba",
+      "completa": null
+    },
+    "multimedia": {
+      "imagenes": [
+        {
+          "url": "https://http2.mlstatic.com/D_Q_NP_2X_831675-MLC81647742554_012025-E.webp",
+          "textoAlternativo": "Compresor Aire Doble Cilindro 12v Inflador Neumáticos Bomba",
+          "esPrincipal": true
+        }
+      ]
+    },
+    "estado": true,
+    "tags": [
+      "aire",
+      "bomba",
+      "cilindro",
+      "compresor",
+      "doble",
+      "inflador",
+      "neumáticos"
+    ],
+    "variantes": [
+      {
+        "nombre": "Estándar",
+        "unidad": "unidades",
+        "precio": 53490,
+        "descuento": 0,
+        "sku": "COM-OTRO-VAR-102-VAR001",
+        "esPredeterminado": true
+      }
+    ],
+    "atributos": {},
+    "seo": {
+      "metaTitulo": "Compresor Aire Doble Cilindro 12v Inflador Neumáticos Bomba",
+      "metaDescripcion": "Compresor Aire Doble Cilindro 12v Inflador Neumáticos Bomba",
+      "palabrasClave": [
+        "aire",
+        "bomba",
+        "cilindro",
+        "compresor",
+        "doble"
+      ]
+    },
+    "requiereRefrigeracion": false,
+    "ratingAverage": 0
+  },
+  {
+    "sku": "LUZ-OTRO-VAR-483",
+    "nombre": "Luz Estroboscópica 8led Luz De Advertencia Para Coche Y Moto Azul",
+    "slug": "luz-estroboscopica-8led-luz-de-advertencia-para-coche-y-moto-azul",
+    "categoria": "OTROS",
+    "subcategoria": "Varios",
+    "descripcion": {
+      "corta": "Luz Estroboscópica 8led Luz De Advertencia Para Coche Y Moto Azul",
+      "completa": null
+    },
+    "multimedia": {
+      "imagenes": [
+        {
+          "url": "https://http2.mlstatic.com/D_Q_NP_2X_970890-MLC93160474292_092025-E.webp",
+          "textoAlternativo": "Luz Estroboscópica 8led Luz De Advertencia Para Coche Y Moto Azul",
+          "esPrincipal": true
+        }
+      ]
+    },
+    "estado": true,
+    "tags": [
+      "advertencia",
+      "azul",
+      "coche",
+      "estroboscópica",
+      "luz",
+      "moto"
+    ],
+    "variantes": [
+      {
+        "nombre": "Estándar",
+        "unidad": "unidades",
+        "precio": 13980,
+        "descuento": 0,
+        "sku": "LUZ-OTRO-VAR-483-VAR001",
+        "esPredeterminado": true
+      }
+    ],
+    "atributos": {},
+    "seo": {
+      "metaTitulo": "Luz Estroboscópica 8led Luz De Advertencia Para Coche Y Moto",
+      "metaDescripcion": "Luz Estroboscópica 8led Luz De Advertencia Para Coche Y Moto Azul",
+      "palabrasClave": [
+        "advertencia",
+        "azul",
+        "coche",
+        "estroboscópica",
+        "luz"
+      ]
+    },
+    "requiereRefrigeracion": false,
+    "ratingAverage": 0
+  },
+  {
+    "sku": "PLU-OTRO-VAR-112",
+    "nombre": "Plumilla Limpiaparabrisa Siliconavehiculouniversal 22pulgad",
+    "slug": "plumilla-limpiaparabrisa-siliconavehiculouniversal-22pulgad",
+    "categoria": "OTROS",
+    "subcategoria": "Varios",
+    "descripcion": {
+      "corta": "Plumilla Limpiaparabrisa Siliconavehiculouniversal 22pulgad",
+      "completa": null
+    },
+    "multimedia": {
+      "imagenes": [
+        {
+          "url": "https://http2.mlstatic.com/D_Q_NP_2X_858624-MLC88810845864_082025-E.webp",
+          "textoAlternativo": "Plumilla Limpiaparabrisa Siliconavehiculouniversal 22pulgad",
+          "esPrincipal": true
+        }
+      ]
+    },
+    "estado": true,
+    "tags": [
+      "limpiaparabrisa",
+      "plumilla"
+    ],
+    "variantes": [
+      {
+        "nombre": "Estándar",
+        "unidad": "unidades",
+        "precio": 4380,
+        "descuento": 0,
+        "sku": "PLU-OTRO-VAR-112-VAR001",
+        "esPredeterminado": true
+      }
+    ],
+    "atributos": {},
+    "seo": {
+      "metaTitulo": "Plumilla Limpiaparabrisa Siliconavehiculouniversal 22pulgad",
+      "metaDescripcion": "Plumilla Limpiaparabrisa Siliconavehiculouniversal 22pulgad",
+      "palabrasClave": [
+        "limpiaparabrisa",
+        "plumilla"
+      ]
+    },
     "requiereRefrigeracion": false,
     "ratingAverage": 0
   }

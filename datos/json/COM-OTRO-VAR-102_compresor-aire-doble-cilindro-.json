@@ -1,0 +1,54 @@
+{
+  "sku": "COM-OTRO-VAR-102",
+  "nombre": "Compresor Aire Doble Cilindro 12v Inflador Neumáticos Bomba",
+  "slug": "compresor-aire-doble-cilindro-12v-inflador-neumaticos-bomba",
+  "categoria": "OTROS",
+  "subcategoria": "Varios",
+  "descripcion": {
+    "corta": "Compresor Aire Doble Cilindro 12v Inflador Neumáticos Bomba",
+    "completa": null
+  },
+  "multimedia": {
+    "imagenes": [
+      {
+        "url": "https://http2.mlstatic.com/D_Q_NP_2X_831675-MLC81647742554_012025-E.webp",
+        "textoAlternativo": "Compresor Aire Doble Cilindro 12v Inflador Neumáticos Bomba",
+        "esPrincipal": true
+      }
+    ]
+  },
+  "estado": true,
+  "tags": [
+    "aire",
+    "bomba",
+    "cilindro",
+    "compresor",
+    "doble",
+    "inflador",
+    "neumáticos"
+  ],
+  "variantes": [
+    {
+      "nombre": "Estándar",
+      "unidad": "unidades",
+      "precio": 53490,
+      "descuento": 0,
+      "sku": "COM-OTRO-VAR-102-VAR001",
+      "esPredeterminado": true
+    }
+  ],
+  "atributos": {},
+  "seo": {
+    "metaTitulo": "Compresor Aire Doble Cilindro 12v Inflador Neumáticos Bomba",
+    "metaDescripcion": "Compresor Aire Doble Cilindro 12v Inflador Neumáticos Bomba",
+    "palabrasClave": [
+      "aire",
+      "bomba",
+      "cilindro",
+      "compresor",
+      "doble"
+    ]
+  },
+  "requiereRefrigeracion": false,
+  "ratingAverage": 0
+}

@@ -1,0 +1,77 @@
+🔒 GUÍA RÁPIDA - PROTECCIÓN DE TOKEN JWT PARA GITHUB
+═══════════════════════════════════════════════════════════════════
+
+PROBLEMA:
+  ❌ Tu token JWT está en config_servidor.py
+  ❌ Si lo subes a GitHub, tu cuenta queda comprometida
+
+SOLUCIÓN IMPLEMENTADA:
+  ✅ config_servidor.py → .gitignore (NO se sube)
+  ✅ config_servidor.example.py (Plantilla pública)
+  ✅ Script de verificación automática
+  ✅ Importación segura de credenciales
+
+═══════════════════════════════════════════════════════════════════
+
+ANTES DE HACER PUSH A GITHUB:
+
+  1. Verificar que todo está seguro:
+     $ python verificar_seguridad.py
+     ✅ Debe decir: SEGURIDAD VERIFICADA
+
+  2. Verificar qué archivos irán a GitHub:
+     $ git status
+     ❌ NO debe incluir: config_servidor.py
+
+  3. Hacer commit:
+     $ git add .
+     $ git commit -m "Descripción de cambios"
+
+  4. Hacer push:
+     $ git push origin main
+
+═══════════════════════════════════════════════════════════════════
+
+LO QUE SUBE A GITHUB:
+  ✅ config_servidor.example.py (sin token real)
+  ✅ importar_a_servidor.py
+  ✅ test_conexion_servidor.py
+  ✅ verificar_seguridad.py
+  ✅ SEGURIDAD_TOKEN.md
+  ✅ INSTRUCCIONES_GITHUB.md
+  ✅ Todos los demás archivos
+
+LO QUE NO SUBE A GITHUB:
+  ❌ config_servidor.py (tu token real)
+  ❌ .env (variables de entorno)
+  ❌ venv/ (entorno virtual)
+
+═══════════════════════════════════════════════════════════════════
+
+PARA OTROS DESARROLLADORES:
+
+  1. Clonan el repo:
+     $ git clone <url>
+     $ cd scrapping_web
+
+  2. Crean su config local:
+     $ cp config_servidor.example.py config_servidor.py
+
+  3. Editan con su token:
+     $ nano config_servidor.py
+     (Reemplazar "tu_token_jwt_aqui" con su token)
+
+  4. Verifican que funciona:
+     $ python test_conexion_servidor.py
+
+═══════════════════════════════════════════════════════════════════
+
+NUNCA HAGAS ESTO:
+  ❌ git add config_servidor.py
+  ❌ git push si ves config_servidor.py en cambios
+  ❌ Subir archivo con AUTH_TOKEN hardcodeado
+
+═══════════════════════════════════════════════════════════════════
+
+¡LISTO! Tu proyecto está seguro para GitHub 🎉
+

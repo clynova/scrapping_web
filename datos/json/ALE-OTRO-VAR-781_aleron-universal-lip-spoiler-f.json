@@ -1,0 +1,62 @@
+{
+  "sku": "ALE-OTRO-VAR-781",
+  "nombre": "Alerón Universal Lip Spoiler Flexible Cola De Pato Cajuela Negro",
+  "slug": "aleron-universal-lip-spoiler-flexible-cola-de-pato-cajuela-negro",
+  "categoria": "OTROS",
+  "subcategoria": "Varios",
+  "descripcion": {
+    "corta": "Descripción El paquete incluye:\n1 * alerón de coche de 3.5 cm x 1.5 m.\n2 * mangas en ambos extremos\n\nCompatibilidad del vehículo: el borde del alerón del mal...",
+    "completa": "Descripción El paquete incluye:\n1 * alerón de coche de 3.5 cm x 1.5 m.\n2 * mangas en ambos extremos\n\nCompatibilidad del vehículo: el borde del alerón del maletero trasero es universal para la mayoría de los automóviles y camiones, y se fija a los parachoques delanteros, kits de carrocería, paneles de faldones laterales, aletas traseras, etc.\n\nEstilo fresco: aumente la aerodinámica de la apariencia del automóvil, haciendo que su automóvil se vea más genial, también mejore la aerodinámica y agregu"
+  },
+  "multimedia": {
+    "imagenes": [
+      {
+        "url": "https://http2.mlstatic.com/D_Q_NP_2X_844138-MLC93161319006_092025-E.webp",
+        "textoAlternativo": "Alerón Universal Lip Spoiler Flexible Cola De Pato Cajuela Negro",
+        "esPrincipal": true
+      }
+    ]
+  },
+  "estado": true,
+  "tags": [
+    "alerón",
+    "cajuela",
+    "cola",
+    "flexible",
+    "genérica",
+    "lip",
+    "marca",
+    "negro",
+    "número",
+    "pato"
+  ],
+  "variantes": [
+    {
+      "nombre": "Estándar",
+      "unidad": "unidades",
+      "precio": 8990,
+      "descuento": 0,
+      "sku": "ALE-OTRO-VAR-781-VAR001",
+      "esPredeterminado": true
+    }
+  ],
+  "atributos": {
+    "Marca": "Genérica",
+    "Número de pieza": "Tira de parachoques",
+    "Color": "Negro"
+  },
+  "seo": {
+    "metaTitulo": "Alerón Universal Lip Spoiler Flexible Cola De Pato Cajuela N",
+    "metaDescripcion": "Descripción El paquete incluye:\n1 * alerón de coche de 3.5 cm x 1.5 m.\n2 * mangas en ambos extremos\n\nCompatibilidad del vehículo: el borde del alerón del mal...",
+    "palabrasClave": [
+      "alerón",
+      "cajuela",
+      "cola",
+      "flexible",
+      "genérica"
+    ]
+  },
+  "marca": "Genérica",
+  "requiereRefrigeracion": false,
+  "ratingAverage": 0
+}

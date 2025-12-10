@@ -1,5 +1,5 @@
 {
-  "sku": "KIT-OTRO-VAR-783",
+  "sku": "KIT-OTRO-VAR-546",
   "nombre": "Kit De Cables Instalación Amplificador Subwoofer 1500watts",
   "slug": "kit-de-cables-instalacion-amplificador-subwoofer-1500watts",
   "categoria": "OTROS",
@@ -34,9 +34,9 @@
     {
       "nombre": "Estándar",
       "unidad": "unidades",
-      "precio": 7880.0,
+      "precio": 7880,
       "descuento": 0,
-      "sku": "KIT-OTRO-VAR-783-VAR001",
+      "sku": "KIT-OTRO-VAR-546-VAR001",
       "esPredeterminado": true
     }
   ],

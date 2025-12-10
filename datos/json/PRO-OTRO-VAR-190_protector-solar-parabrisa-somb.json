@@ -1,0 +1,61 @@
+{
+  "sku": "PRO-OTRO-VAR-190",
+  "nombre": "Protector Solar Parabrisa Sombrilla Tapa Sol Auto 60*130cm",
+  "slug": "protector-solar-parabrisa-sombrilla-tapa-sol-auto-60130cm",
+  "categoria": "OTROS",
+  "subcategoria": "Varios",
+  "descripcion": {
+    "corta": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+    "completa": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡ muchasgracias!Somos la tienda online más variada del mercado, donde podrás encontrar todo lo que quieras y una enorme variedad de novedades.                  \n                  \nTodos nuestros productos se prueban antes del envío para ofrecerte la mejor experiencia de compra. Si tiene alguna pregunta, no dude en escribirnos y estaremos enca"
+  },
+  "multimedia": {
+    "imagenes": [
+      {
+        "url": "https://http2.mlstatic.com/D_Q_NP_2X_831740-MLC93976532823_102025-E.webp",
+        "textoAlternativo": "Protector Solar Parabrisa Sombrilla Tapa Sol Auto 60*130cm",
+        "esPrincipal": true
+      }
+    ]
+  },
+  "estado": true,
+  "tags": [
+    "auto",
+    "marca",
+    "número",
+    "parabrisa",
+    "pieza",
+    "protector",
+    "racing",
+    "raistar",
+    "sol",
+    "solar"
+  ],
+  "variantes": [
+    {
+      "nombre": "Estándar",
+      "unidad": "unidades",
+      "precio": 4980,
+      "descuento": 0,
+      "sku": "PRO-OTRO-VAR-190-VAR001",
+      "esPredeterminado": true
+    }
+  ],
+  "atributos": {
+    "Marca": "Raistar racing",
+    "Número de pieza": "H68-1"
+  },
+  "seo": {
+    "metaTitulo": "Protector Solar Parabrisa Sombrilla Tapa Sol Auto 60*130cm",
+    "metaDescripcion": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+    "palabrasClave": [
+      "auto",
+      "marca",
+      "número",
+      "parabrisa",
+      "pieza"
+    ]
+  },
+  "marca": "Raistar racing",
+  "requiereRefrigeracion": false,
+  "ratingAverage": 0
+}

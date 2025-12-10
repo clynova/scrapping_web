@@ -1,0 +1,64 @@
+{
+  "sku": "KIT-OTRO-VAR-692",
+  "nombre": "Kit De Instalacion Amplificador Calibre 8 Con Cable Rca",
+  "slug": "kit-de-instalacion-amplificador-calibre-8-con-cable-rca",
+  "categoria": "OTROS",
+  "subcategoria": "Varios",
+  "descripcion": {
+    "corta": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+    "completa": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡ muchasgracias!Somos la tienda online más variada del mercado, donde podrás encontrar todo lo que quieras y una enorme variedad de novedades.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nTodos nuestros productos se prueban antes del envío para ofrecerte la mejor experiencia de compra. Si tiene alguna pregunta, no dude en escribirnos y estaremos enca"
+  },
+  "multimedia": {
+    "imagenes": [
+      {
+        "url": "https://http2.mlstatic.com/D_Q_NP_2X_724679-MLC94368232343_102025-E.webp",
+        "textoAlternativo": "Kit De Instalacion Amplificador Calibre 8 Con Cable Rca",
+        "esPrincipal": true
+      }
+    ]
+  },
+  "estado": true,
+  "tags": [
+    "amplificador",
+    "cable",
+    "calibre",
+    "instalacion",
+    "kit",
+    "marca",
+    "modelo",
+    "racing",
+    "raistar",
+    "rca"
+  ],
+  "variantes": [
+    {
+      "nombre": "Estándar",
+      "unidad": "unidades",
+      "precio": 8999,
+      "descuento": 0,
+      "sku": "KIT-OTRO-VAR-692-VAR001",
+      "esPredeterminado": true
+    }
+  ],
+  "atributos": {
+    "Marca": "Raistar racing",
+    "Modelo": "78GA",
+    "Tipo de cable y adaptador": "PS/2",
+    "Color": "Negro",
+    "Largo del cable": "5 m"
+  },
+  "seo": {
+    "metaTitulo": "Kit De Instalacion Amplificador Calibre 8 Con Cable Rca",
+    "metaDescripcion": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+    "palabrasClave": [
+      "amplificador",
+      "cable",
+      "calibre",
+      "instalacion",
+      "kit"
+    ]
+  },
+  "marca": "Raistar racing",
+  "requiereRefrigeracion": false,
+  "ratingAverage": 0
+}

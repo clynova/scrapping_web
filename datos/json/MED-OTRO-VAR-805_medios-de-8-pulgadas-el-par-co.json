@@ -1,5 +1,5 @@
 {
-  "sku": "MED-OTRO-VAR-248",
+  "sku": "MED-OTRO-VAR-805",
   "nombre": "Medios De 8 Pulgadas El Par Color Negro",
   "slug": "medios-de-8-pulgadas-el-par-color-negro",
   "categoria": "OTROS",
@@ -33,9 +33,9 @@
     {
       "nombre": "Estándar",
       "unidad": "unidades",
-      "precio": 32574.0,
+      "precio": 32574,
       "descuento": 0,
-      "sku": "MED-OTRO-VAR-248-VAR001",
+      "sku": "MED-OTRO-VAR-805-VAR001",
       "esPredeterminado": true
     }
   ],

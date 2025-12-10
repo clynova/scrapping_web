@@ -1,0 +1,64 @@
+{
+  "sku": "SUB-OTRO-VAR-260",
+  "nombre": "8 Subwoofer Plano Amplificado Parlantes Auto+kit Instalación Negro",
+  "slug": "8-subwoofer-plano-amplificado-parlantes-autokit-instalacion-negro",
+  "categoria": "OTROS",
+  "subcategoria": "Varios",
+  "descripcion": {
+    "corta": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+    "completa": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡ muchasgracias!Somos la tienda online más variada del mercado, donde podrás encontrar todo lo que quieras y una enorme variedad de novedades.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nTodos nuestros productos se prueban antes del envío para ofrecerte la mejor experiencia de compra. Si tiene alguna pregunta, no dude en escribirnos y estaremos enca"
+  },
+  "multimedia": {
+    "imagenes": [
+      {
+        "url": "https://http2.mlstatic.com/D_Q_NP_2X_869157-MLC93446308407_092025-E.webp",
+        "textoAlternativo": "8 Subwoofer Plano Amplificado Parlantes Auto+kit Instalación Negro",
+        "esPrincipal": true
+      }
+    ]
+  },
+  "estado": true,
+  "tags": [
+    "amplificado",
+    "auto",
+    "instalación",
+    "kit",
+    "línea",
+    "marca",
+    "modelo",
+    "negro",
+    "parlantes",
+    "plano"
+  ],
+  "variantes": [
+    {
+      "nombre": "Estándar",
+      "unidad": "unidades",
+      "precio": 52109,
+      "descuento": 0,
+      "sku": "SUB-OTRO-VAR-260-VAR001",
+      "esPredeterminado": true
+    }
+  ],
+  "atributos": {
+    "Marca": "Raistar racing",
+    "Línea": 1,
+    "Modelo": "F8",
+    "Color": "Negro",
+    "Cantidad de parlantes": 1
+  },
+  "seo": {
+    "metaTitulo": "8 Subwoofer Plano Amplificado Parlantes Auto+kit Instalación",
+    "metaDescripcion": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+    "palabrasClave": [
+      "amplificado",
+      "auto",
+      "instalación",
+      "kit",
+      "línea"
+    ]
+  },
+  "marca": "Raistar racing",
+  "requiereRefrigeracion": false,
+  "ratingAverage": 0
+}

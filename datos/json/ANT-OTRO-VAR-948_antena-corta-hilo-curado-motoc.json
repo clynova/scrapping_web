@@ -1,5 +1,5 @@
 {
-  "sku": "ANT-OTRO-VAR-328",
+  "sku": "ANT-OTRO-VAR-948",
   "nombre": "Antena Corta Hilo Curado Motociclistas Motoqueros",
   "slug": "antena-corta-hilo-curado-motociclistas-motoqueros",
   "categoria": "OTROS",
@@ -34,9 +34,9 @@
     {
       "nombre": "Estándar",
       "unidad": "unidades",
-      "precio": 5780.0,
+      "precio": 5780,
       "descuento": 0,
-      "sku": "ANT-OTRO-VAR-328-VAR001",
+      "sku": "ANT-OTRO-VAR-948-VAR001",
       "esPredeterminado": true
     }
   ],

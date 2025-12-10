@@ -1,5 +1,5 @@
 {
-  "sku": "KIT-OTRO-VAR-529",
+  "sku": "KIT-OTRO-VAR-554",
   "nombre": "Kit De Cables Amplificador 8ga Con Cable Rca Y Fusible 1500w",
   "slug": "kit-de-cables-amplificador-8ga-con-cable-rca-y-fusible-1500w",
   "categoria": "OTROS",
@@ -34,9 +34,9 @@
     {
       "nombre": "Estándar",
       "unidad": "unidades",
-      "precio": 14999.0,
+      "precio": 14999,
       "descuento": 0,
-      "sku": "KIT-OTRO-VAR-529-VAR001",
+      "sku": "KIT-OTRO-VAR-554-VAR001",
       "esPredeterminado": true
     }
   ],

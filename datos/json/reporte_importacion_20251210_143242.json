@@ -1,0 +1,53 @@
+{
+  "fecha_importacion": "2025-12-10 14:32:42",
+  "servidor": "http://localhost:4000/api/products",
+  "total_productos": 10,
+  "exitosos": 10,
+  "duplicados": 0,
+  "fallidos": 0,
+  "tiempo_segundos": 9.1,
+  "productos_exitosos": [
+    {
+      "sku": "KIT-OTRO-VAR-248",
+      "nombre": "Kit Cables Para Amplificador Betensh 1500 Watts Subwoofer RCA Rojo/Azul"
+    },
+    {
+      "sku": "ANT-OTRO-VAR-368",
+      "nombre": "Antena Corta Hilo Curado Moto Retractil Corta Pipa"
+    },
+    {
+      "sku": "INM-OTRO-VAR-155",
+      "nombre": "Inmovilizador Auto Distancia Corta Corriente Antirobo Autos Inmovilizador 2.4 GHZ 2M"
+    },
+    {
+      "sku": "MED-OTRO-VAR-805",
+      "nombre": "Medios De 8 Pulgadas El Par Color Negro"
+    },
+    {
+      "sku": "XKI-OTRO-VAR-950",
+      "nombre": "X2 Kit Emergencia Reparación Pinchazos Neumaticos Auto Moto Bic"
+    },
+    {
+      "sku": "KIT-OTRO-VAR-546",
+      "nombre": "Kit De Cables Instalación Amplificador Subwoofer 1500watts"
+    },
+    {
+      "sku": "ANT-OTRO-VAR-948",
+      "nombre": "Antena Corta Hilo Curado Motociclistas Motoqueros"
+    },
+    {
+      "sku": "KIT-OTRO-VAR-554",
+      "nombre": "Kit De Cables Amplificador 8ga Con Cable Rca Y Fusible 1500w"
+    },
+    {
+      "sku": "ANT-OTRO-VAR-262",
+      "nombre": "Antena De Seguridad Corta Hilo Curado Para Motos"
+    },
+    {
+      "sku": "SUB-OTRO-VAR-270",
+      "nombre": "Subwoofer Pervoi 1500w De Doble Bobina Gran Potencia Color Negro"
+    }
+  ],
+  "productos_fallidos": [],
+  "productos_duplicados": []
+}

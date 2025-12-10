@@ -1,0 +1,64 @@
+{
+  "sku": "PAR-OTRO-VAR-734",
+  "nombre": "Par Parlantes 6.5inch Medio Rango 300w 50w Rms Raistar Negro",
+  "slug": "par-parlantes-65inch-medio-rango-300w-50w-rms-raistar-negro",
+  "categoria": "OTROS",
+  "subcategoria": "Varios",
+  "descripcion": {
+    "corta": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+    "completa": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡ muchasgracias!Somos la tienda online más variada del mercado, donde podrás encontrar todo lo que quieras y una enorme variedad de novedades.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nTodos nuestros productos se prueban antes del envío para ofrecerte la mejor experiencia de compra. Si tiene alguna pregunta, no dude en escribirnos y estaremos enca"
+  },
+  "multimedia": {
+    "imagenes": [
+      {
+        "url": "https://http2.mlstatic.com/D_Q_NP_2X_794650-MLC93075225346_092025-E.webp",
+        "textoAlternativo": "Par Parlantes 6.5inch Medio Rango 300w 50w Rms Raistar Negro",
+        "esPrincipal": true
+      }
+    ]
+  },
+  "estado": true,
+  "tags": [
+    "color",
+    "marca",
+    "medio",
+    "modelo",
+    "negro",
+    "par",
+    "parlantes",
+    "racing",
+    "raistar",
+    "rango"
+  ],
+  "variantes": [
+    {
+      "nombre": "Estándar",
+      "unidad": "unidades",
+      "precio": 22350,
+      "descuento": 0,
+      "sku": "PAR-OTRO-VAR-734-VAR001",
+      "esPredeterminado": true
+    }
+  ],
+  "atributos": {
+    "Marca": "Raistar racing",
+    "Modelo": "YHW-1604",
+    "Color": "Negro",
+    "Impedancia": "4 Ω",
+    "Cantidad de parlantes": 2
+  },
+  "seo": {
+    "metaTitulo": "Par Parlantes 6.5inch Medio Rango 300w 50w Rms Raistar Negro",
+    "metaDescripcion": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+    "palabrasClave": [
+      "color",
+      "marca",
+      "medio",
+      "modelo",
+      "negro"
+    ]
+  },
+  "marca": "Raistar racing",
+  "requiereRefrigeracion": false,
+  "ratingAverage": 0
+}

@@ -471,6 +471,8 @@ if __name__ == "__main__":
     
     # Scrapear productos con detalles completos
     # Cambia extraer_detalles=False si solo quieres datos básicos (más rápido)
+    print(f"Iniciando scraping de TODOS los productos de la tienda...")
+    print(f"Esto puede tomar aproximadamente 20-25 minutos.\n")
     data = scrapear_tienda_ml(url_inicial, descargar_imagenes=True, extraer_detalles=True)
     
     # Guardar resultados

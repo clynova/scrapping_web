@@ -1,5 +1,5 @@
 {
-  "sku": "XKI-OTRO-VAR-620",
+  "sku": "XKI-OTRO-VAR-950",
   "nombre": "X2 Kit Emergencia Reparación Pinchazos Neumaticos Auto Moto Bic",
   "slug": "x2-kit-emergencia-reparacion-pinchazos-neumaticos-auto-moto-bic",
   "categoria": "OTROS",
@@ -34,9 +34,9 @@
     {
       "nombre": "Estándar",
       "unidad": "unidades",
-      "precio": 4280.0,
+      "precio": 4280,
       "descuento": 0,
-      "sku": "XKI-OTRO-VAR-620-VAR001",
+      "sku": "XKI-OTRO-VAR-950-VAR001",
       "esPredeterminado": true
     }
   ],

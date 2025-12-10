@@ -1,0 +1,63 @@
+{
+  "sku": "KIT-OTRO-VAR-272",
+  "nombre": "Kit4 Coilovers Regulables Amortiguadores Suspension Resortes",
+  "slug": "kit4-coilovers-regulables-amortiguadores-suspension-resortes",
+  "categoria": "OTROS",
+  "subcategoria": "Varios",
+  "descripcion": {
+    "corta": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+    "completa": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡ muchasgracias!Somos la tienda online más variada del mercado, donde podrás encontrar todo lo que quieras y una enorme variedad de novedades.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nTodos nuestros productos se prueban antes del envío para ofrecerte la mejor experiencia de compra. Si tiene alguna pregunta, no dude en escribirnos y estaremos enca"
+  },
+  "multimedia": {
+    "imagenes": [
+      {
+        "url": "https://http2.mlstatic.com/D_Q_NP_2X_727346-MLC91916465034_092025-E.webp",
+        "textoAlternativo": "Kit4 Coilovers Regulables Amortiguadores Suspension Resortes",
+        "esPrincipal": true
+      }
+    ]
+  },
+  "estado": true,
+  "tags": [
+    "amortiguadores",
+    "coilovers",
+    "marca",
+    "número",
+    "pieza",
+    "raistar",
+    "regulables",
+    "resortes",
+    "suspension",
+    "ubicación"
+  ],
+  "variantes": [
+    {
+      "nombre": "Estándar",
+      "unidad": "unidades",
+      "precio": 53899,
+      "descuento": 0,
+      "sku": "KIT-OTRO-VAR-272-VAR001",
+      "esPredeterminado": true
+    }
+  ],
+  "atributos": {
+    "Marca": "Raistar",
+    "Número de pieza": 4,
+    "Ubicación": "Ambos lados",
+    "Cantidad de piezas": 4
+  },
+  "seo": {
+    "metaTitulo": "Kit4 Coilovers Regulables Amortiguadores Suspension Resortes",
+    "metaDescripcion": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+    "palabrasClave": [
+      "amortiguadores",
+      "coilovers",
+      "marca",
+      "número",
+      "pieza"
+    ]
+  },
+  "marca": "Raistar",
+  "requiereRefrigeracion": false,
+  "ratingAverage": 0
+}

@@ -1,0 +1,64 @@
+{
+  "sku": "PAR-OTRO-VAR-668",
+  "nombre": "Parlante Auto 6.5 Pulg 600w Negro Raistar Racing Yhw-606 Negro",
+  "slug": "parlante-auto-65-pulg-600w-negro-raistar-racing-yhw-606-negro",
+  "categoria": "OTROS",
+  "subcategoria": "Varios",
+  "descripcion": {
+    "corta": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+    "completa": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡ muchasgracias!Somos la tienda online más variada del mercado, donde podrás encontrar todo lo que quieras y una enorme variedad de novedades.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nTodos nuestros productos se prueban antes del envío para ofrecerte la mejor experiencia de compra. Si tiene alguna pregunta, no dude en escribirnos y estaremos enca"
+  },
+  "multimedia": {
+    "imagenes": [
+      {
+        "url": "https://http2.mlstatic.com/D_Q_NP_2X_600552-MLC93608671503_092025-E.webp",
+        "textoAlternativo": "Parlante Auto 6.5 Pulg 600w Negro Raistar Racing Yhw-606 Negro",
+        "esPrincipal": true
+      }
+    ]
+  },
+  "estado": true,
+  "tags": [
+    "auto",
+    "color",
+    "marca",
+    "modelo",
+    "negro",
+    "parlante",
+    "pulg",
+    "racing",
+    "raistar",
+    "yhw"
+  ],
+  "variantes": [
+    {
+      "nombre": "Estándar",
+      "unidad": "unidades",
+      "precio": 22980,
+      "descuento": 0,
+      "sku": "PAR-OTRO-VAR-668-VAR001",
+      "esPredeterminado": true
+    }
+  ],
+  "atributos": {
+    "Marca": "Raistar racing",
+    "Modelo": "YHW-606",
+    "Color": "Negro",
+    "Impedancia": "4 Ω",
+    "Cantidad de parlantes": 1
+  },
+  "seo": {
+    "metaTitulo": "Parlante Auto 6.5 Pulg 600w Negro Raistar Racing Yhw-606 Neg",
+    "metaDescripcion": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+    "palabrasClave": [
+      "auto",
+      "color",
+      "marca",
+      "modelo",
+      "negro"
+    ]
+  },
+  "marca": "Raistar racing",
+  "requiereRefrigeracion": false,
+  "ratingAverage": 0
+}

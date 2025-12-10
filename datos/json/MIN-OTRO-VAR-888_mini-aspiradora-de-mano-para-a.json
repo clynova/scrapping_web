@@ -1,0 +1,65 @@
+{
+  "sku": "MIN-OTRO-VAR-888",
+  "nombre": "Mini Aspiradora De Mano Para Autos Hogar Alta Potencia Negro Negro",
+  "slug": "mini-aspiradora-de-mano-para-autos-hogar-alta-potencia-negro-negro",
+  "categoria": "OTROS",
+  "subcategoria": "Varios",
+  "descripcion": {
+    "corta": "Descripción ASPIRADOR PORTÁTIL DE MANO CON LED\n\nCaracterísticas:\n--Función 2 en 1: función de aspiración y soplado, un lado para aspirar y el otro lado elimi...",
+    "completa": "Descripción ASPIRADOR PORTÁTIL DE MANO CON LED\n\nCaracterísticas:\n--Función 2 en 1: función de aspiración y soplado, un lado para aspirar y el otro lado elimina el polvo\n--Potente potencia de succión y alta potencia: con un motor de 42 W, una potencia de succión de hasta 3,5 Kpa, puede limpiar todo tipo de polvo rebelde.\n--Extraíble y lavable: el filtro y el colector de polvo se pueden limpiar y desmontar fácilmente con agua, y se pueden limpiar a fondo para lograr un rendimiento óptimo y durabil"
+  },
+  "multimedia": {
+    "imagenes": [
+      {
+        "url": "https://http2.mlstatic.com/D_Q_NP_2X_961226-MLC93161766272_092025-E.webp",
+        "textoAlternativo": "Mini Aspiradora De Mano Para Autos Hogar Alta Potencia Negro Negro",
+        "esPrincipal": true
+      }
+    ]
+  },
+  "estado": true,
+  "tags": [
+    "alta",
+    "aspirador",
+    "aspiradora",
+    "autos",
+    "hogar",
+    "línea",
+    "mano",
+    "marca",
+    "mini",
+    "negro"
+  ],
+  "variantes": [
+    {
+      "nombre": "Estándar",
+      "unidad": "unidades",
+      "precio": 8999,
+      "descuento": 0,
+      "sku": "MIN-OTRO-VAR-888-VAR001",
+      "esPredeterminado": true
+    }
+  ],
+  "atributos": {
+    "Marca": "Pervoi",
+    "Línea": "Mini Aspirador",
+    "Modelo": "CTC-336",
+    "Capacidad en volumen": "100 mL",
+    "Color": "Negro",
+    "Voltaje": "12V"
+  },
+  "seo": {
+    "metaTitulo": "Mini Aspiradora De Mano Para Autos Hogar Alta Potencia Negro",
+    "metaDescripcion": "Descripción ASPIRADOR PORTÁTIL DE MANO CON LED\n\nCaracterísticas:\n--Función 2 en 1: función de aspiración y soplado, un lado para aspirar y el otro lado elimi...",
+    "palabrasClave": [
+      "alta",
+      "aspirador",
+      "aspiradora",
+      "autos",
+      "hogar"
+    ]
+  },
+  "marca": "Pervoi",
+  "requiereRefrigeracion": false,
+  "ratingAverage": 0
+}

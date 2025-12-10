@@ -1,0 +1,65 @@
+{
+  "sku": "AUT-OTRO-VAR-273",
+  "nombre": "Auto Cargador Y Partidor Bateria Emergencia Autos 60 Amp",
+  "slug": "auto-cargador-y-partidor-bateria-emergencia-autos-60-amp",
+  "categoria": "OTROS",
+  "subcategoria": "Varios",
+  "descripcion": {
+    "corta": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+    "completa": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡ muchasgracias!Somos la tienda online más variada del mercado, donde podrás encontrar todo lo que quieras y una enorme variedad de novedades.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\nTodos nuestros productos se prueban antes del envío para ofrecerte la mejor experiencia de compra. Si tiene alguna pregunta, no dude en escribirnos y estaremos enca"
+  },
+  "multimedia": {
+    "imagenes": [
+      {
+        "url": "https://http2.mlstatic.com/D_Q_NP_2X_874780-MLC85107023605_052025-E.webp",
+        "textoAlternativo": "Auto Cargador Y Partidor Bateria Emergencia Autos 60 Amp",
+        "esPrincipal": true
+      }
+    ]
+  },
+  "estado": true,
+  "tags": [
+    "amp",
+    "auto",
+    "autos",
+    "bateria",
+    "cargador",
+    "emergencia",
+    "línea",
+    "marca",
+    "modelo",
+    "partidor"
+  ],
+  "variantes": [
+    {
+      "nombre": "Estándar",
+      "unidad": "unidades",
+      "precio": 45889,
+      "descuento": 0,
+      "sku": "AUT-OTRO-VAR-273-VAR001",
+      "esPredeterminado": true
+    }
+  ],
+  "atributos": {
+    "Marca": "Raistar",
+    "Línea": "PARTIDOR",
+    "Modelo": "General",
+    "Corriente de salida": "60 A",
+    "Tensión de carga": "12V",
+    "Potencia máxima": "100 W"
+  },
+  "seo": {
+    "metaTitulo": "Auto Cargador Y Partidor Bateria Emergencia Autos 60 Amp",
+    "metaDescripcion": "Descripción ¡Estimados clientes, nuestra tienda es una tienda de calidad, el precio determina la calidad! Por favor, no dude en comprar nuestros productos, ¡...",
+    "palabrasClave": [
+      "amp",
+      "auto",
+      "autos",
+      "bateria",
+      "cargador"
+    ]
+  },
+  "marca": "Raistar",
+  "requiereRefrigeracion": false,
+  "ratingAverage": 0
+}
