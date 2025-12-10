@@ -1,0 +1,61 @@
+{
+  "sku": "XKI-OTRO-VAR-620",
+  "nombre": "X2 Kit Emergencia Reparación Pinchazos Neumaticos Auto Moto Bic",
+  "slug": "x2-kit-emergencia-reparacion-pinchazos-neumaticos-auto-moto-bic",
+  "categoria": "OTROS",
+  "subcategoria": "Varios",
+  "descripcion": {
+    "corta": "Descripción *Contenido de la compra:\n\nKit de herramientas de reparación de llanta, herramienta de reparación de neumáticos sin cámara, enchufe de perforación...",
+    "completa": "Descripción *Contenido de la compra:\n\nKit de herramientas de reparación de llanta, herramienta de reparación de neumáticos sin cámara, enchufe de perforación para garaje, coche, camión, motocicleta.\n\nExcelente para la reparación de pinchazos de neumáticos\nKit de herramientas\nPuede servir para pinchazos imprevistos\nFácil de llevar, usar y guardar\n\nContenido de la compra:\n*2 Pegamento\n*10 Tiras de goma\n*4  herramienta para insertar las tiras de goma en el neumático"
+  },
+  "multimedia": {
+    "imagenes": [
+      {
+        "url": "https://http2.mlstatic.com/D_Q_NP_2X_776056-MLA99372895498_112025-E.webp",
+        "textoAlternativo": "X2 Kit Emergencia Reparación Pinchazos Neumaticos Auto Moto Bic",
+        "esPrincipal": true
+      }
+    ]
+  },
+  "estado": true,
+  "tags": [
+    "auto",
+    "bic",
+    "emergencia",
+    "kit",
+    "marca",
+    "moto",
+    "neumaticos",
+    "número",
+    "pieza",
+    "pinchazos"
+  ],
+  "variantes": [
+    {
+      "nombre": "Estándar",
+      "unidad": "unidades",
+      "precio": 4280.0,
+      "descuento": 0,
+      "sku": "XKI-OTRO-VAR-620-VAR001",
+      "esPredeterminado": true
+    }
+  ],
+  "atributos": {
+    "Marca": "Roro",
+    "Número de pieza": 4
+  },
+  "seo": {
+    "metaTitulo": "X2 Kit Emergencia Reparación Pinchazos Neumaticos Auto Moto ",
+    "metaDescripcion": "Descripción *Contenido de la compra:\n\nKit de herramientas de reparación de llanta, herramienta de reparación de neumáticos sin cámara, enchufe de perforación...",
+    "palabrasClave": [
+      "auto",
+      "bic",
+      "emergencia",
+      "kit",
+      "marca"
+    ]
+  },
+  "marca": "Roro",
+  "requiereRefrigeracion": false,
+  "ratingAverage": 0
+}

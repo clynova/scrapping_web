@@ -1,0 +1,62 @@
+{
+  "sku": "KIT-OTRO-VAR-529",
+  "nombre": "Kit De Cables Amplificador 8ga Con Cable Rca Y Fusible 1500w",
+  "slug": "kit-de-cables-amplificador-8ga-con-cable-rca-y-fusible-1500w",
+  "categoria": "OTROS",
+  "subcategoria": "Varios",
+  "descripcion": {
+    "corta": "Descripción Este Kit de Cables de Instalación para Amplificador 8GA TP-668 está diseñado para ofrecer una conexión confiable y de alto rendimiento en sistema...",
+    "completa": "Descripción Este Kit de Cables de Instalación para Amplificador 8GA TP-668 está diseñado para ofrecer una conexión confiable y de alto rendimiento en sistemas de audio para automóviles. Fabricado con materiales de calidad como cobre revestido de aluminio y cable de audio 100% cobre, asegura una transmisión estable de la señal y potencia máxima para tu subwoofer o amplificador.\n\nIdeal para instalaciones de hasta 1500W, incluye todos los accesorios necesarios para una instalación rápida, segura y"
+  },
+  "multimedia": {
+    "imagenes": [
+      {
+        "url": "https://http2.mlstatic.com/D_Q_NP_2X_608649-MLA99735002825_112025-E.webp",
+        "textoAlternativo": "Kit De Cables Amplificador 8ga Con Cable Rca Y Fusible 1500w",
+        "esPrincipal": true
+      }
+    ]
+  },
+  "estado": true,
+  "tags": [
+    "amplificador",
+    "cable",
+    "cables",
+    "fusible",
+    "kit",
+    "marca",
+    "racing",
+    "raistar",
+    "rca",
+    "tipo"
+  ],
+  "variantes": [
+    {
+      "nombre": "Estándar",
+      "unidad": "unidades",
+      "precio": 14999.0,
+      "descuento": 0,
+      "sku": "KIT-OTRO-VAR-529-VAR001",
+      "esPredeterminado": true
+    }
+  ],
+  "atributos": {
+    "Marca": "Raistar racing",
+    "Tipo de cable y adaptador": "PS/2",
+    "Color": "Blue"
+  },
+  "seo": {
+    "metaTitulo": "Kit De Cables Amplificador 8ga Con Cable Rca Y Fusible 1500w",
+    "metaDescripcion": "Descripción Este Kit de Cables de Instalación para Amplificador 8GA TP-668 está diseñado para ofrecer una conexión confiable y de alto rendimiento en sistema...",
+    "palabrasClave": [
+      "amplificador",
+      "cable",
+      "cables",
+      "fusible",
+      "kit"
+    ]
+  },
+  "marca": "Raistar racing",
+  "requiereRefrigeracion": false,
+  "ratingAverage": 0
+}

@@ -1,0 +1,63 @@
+{
+  "sku": "KIT-OTRO-VAR-783",
+  "nombre": "Kit De Cables Instalación Amplificador Subwoofer 1500watts",
+  "slug": "kit-de-cables-instalacion-amplificador-subwoofer-1500watts",
+  "categoria": "OTROS",
+  "subcategoria": "Varios",
+  "descripcion": {
+    "corta": "Descripción Descubre el 'Kit De Cables Instalación Amplificador Subwoofer 1500watts', una solución ideal para optimizar el rendimiento de tu sistema de audio...",
+    "completa": "Descripción Descubre el 'Kit De Cables Instalación Amplificador Subwoofer 1500watts', una solución ideal para optimizar el rendimiento de tu sistema de audio. Este kit de cables de la reconocida marca XIANPING está diseñado para amplificadores de hasta 1500 Watts, garantizando calidad y durabilidad en cada uso. Su grueso tamaño AWG 4 asegura una transmisión de señal eficiente. Con un largo de 5 metros, este cable negro te permite una adecuada flexibilidad durante la instalación. Además, cuenta c"
+  },
+  "multimedia": {
+    "imagenes": [
+      {
+        "url": "https://http2.mlstatic.com/D_Q_NP_2X_718099-MLA100088907025_122025-E.webp",
+        "textoAlternativo": "Kit De Cables Instalación Amplificador Subwoofer 1500watts",
+        "esPrincipal": true
+      }
+    ]
+  },
+  "estado": true,
+  "tags": [
+    "amplificador",
+    "cable",
+    "cables",
+    "instalación",
+    "kit",
+    "marca",
+    "modelo",
+    "subwoofer",
+    "tipo",
+    "xianping"
+  ],
+  "variantes": [
+    {
+      "nombre": "Estándar",
+      "unidad": "unidades",
+      "precio": 7880.0,
+      "descuento": 0,
+      "sku": "KIT-OTRO-VAR-783-VAR001",
+      "esPredeterminado": true
+    }
+  ],
+  "atributos": {
+    "Marca": "xianping",
+    "Modelo": "mj-8",
+    "Tipo de cable y adaptador": "DVI",
+    "Color": "Negro"
+  },
+  "seo": {
+    "metaTitulo": "Kit De Cables Instalación Amplificador Subwoofer 1500watts",
+    "metaDescripcion": "Descripción Descubre el 'Kit De Cables Instalación Amplificador Subwoofer 1500watts', una solución ideal para optimizar el rendimiento de tu sistema de audio...",
+    "palabrasClave": [
+      "amplificador",
+      "cable",
+      "cables",
+      "instalación",
+      "kit"
+    ]
+  },
+  "marca": "xianping",
+  "requiereRefrigeracion": false,
+  "ratingAverage": 0
+}

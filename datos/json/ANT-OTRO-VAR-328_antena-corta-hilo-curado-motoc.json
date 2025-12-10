@@ -1,0 +1,62 @@
+{
+  "sku": "ANT-OTRO-VAR-328",
+  "nombre": "Antena Corta Hilo Curado Motociclistas Motoqueros",
+  "slug": "antena-corta-hilo-curado-motociclistas-motoqueros",
+  "categoria": "OTROS",
+  "subcategoria": "Varios",
+  "descripcion": {
+    "corta": "Descripción La Antena de Seguridad Corta Hilo Curado para Motos con Llave es el accesorio perfecto para proteger tu moto de posibles robos. Con su diseño en ...",
+    "completa": "Descripción La Antena de Seguridad Corta Hilo Curado para Motos con Llave es el accesorio perfecto para proteger tu moto de posibles robos. Con su diseño en forma de U y fabricada en acero inoxidable, garantiza una alta resistencia y durabilidad. Además, su color gris le da un toque moderno y elegante. \n\nEsta antena cuenta con un sistema inteligente que te permite bloquear y desbloquear tu moto de forma rápida y segura. Su llave incluida te brinda la tranquilidad de tener el control total sobre"
+  },
+  "multimedia": {
+    "imagenes": [
+      {
+        "url": "https://http2.mlstatic.com/D_Q_NP_2X_867375-MLA99885204803_112025-E.webp",
+        "textoAlternativo": "Antena Corta Hilo Curado Motociclistas Motoqueros",
+        "esPrincipal": true
+      }
+    ]
+  },
+  "estado": true,
+  "tags": [
+    "antena",
+    "biker",
+    "color",
+    "corta",
+    "curado",
+    "gris",
+    "hilo",
+    "marca",
+    "modelo",
+    "motociclistas"
+  ],
+  "variantes": [
+    {
+      "nombre": "Estándar",
+      "unidad": "unidades",
+      "precio": 5780.0,
+      "descuento": 0,
+      "sku": "ANT-OTRO-VAR-328-VAR001",
+      "esPredeterminado": true
+    }
+  ],
+  "atributos": {
+    "Marca": "Pro Biker",
+    "Modelo": "COD4618",
+    "Color": "Gris"
+  },
+  "seo": {
+    "metaTitulo": "Antena Corta Hilo Curado Motociclistas Motoqueros",
+    "metaDescripcion": "Descripción La Antena de Seguridad Corta Hilo Curado para Motos con Llave es el accesorio perfecto para proteger tu moto de posibles robos. Con su diseño en ...",
+    "palabrasClave": [
+      "antena",
+      "biker",
+      "color",
+      "corta",
+      "curado"
+    ]
+  },
+  "marca": "Pro Biker",
+  "requiereRefrigeracion": false,
+  "ratingAverage": 0
+}

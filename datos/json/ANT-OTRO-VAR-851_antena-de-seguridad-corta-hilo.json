@@ -1,0 +1,62 @@
+{
+  "sku": "ANT-OTRO-VAR-851",
+  "nombre": "Antena De Seguridad Corta Hilo Curado Para Motos",
+  "slug": "antena-de-seguridad-corta-hilo-curado-para-motos",
+  "categoria": "OTROS",
+  "subcategoria": "Varios",
+  "descripcion": {
+    "corta": "Descripción Antena corta hilo curado.\nModelo Retráctil\n\nFabricada en Acero Inoxidable con Aluminio.\nAjustable con abrazadera.\nExtendible hasta 65cm.\n4 Filos ...",
+    "completa": "Descripción Antena corta hilo curado.\nModelo Retráctil\n\nFabricada en Acero Inoxidable con Aluminio.\nAjustable con abrazadera.\nExtendible hasta 65cm.\n4 Filos en la parte superior."
+  },
+  "multimedia": {
+    "imagenes": [
+      {
+        "url": "https://http2.mlstatic.com/D_Q_NP_2X_943263-MLU74528239510_022024-E.webp",
+        "textoAlternativo": "Antena De Seguridad Corta Hilo Curado Para Motos",
+        "esPrincipal": true
+      }
+    ]
+  },
+  "estado": true,
+  "tags": [
+    "antena",
+    "color",
+    "corta",
+    "curado",
+    "eshopangie",
+    "gris",
+    "hilo",
+    "marca",
+    "modelo",
+    "motos"
+  ],
+  "variantes": [
+    {
+      "nombre": "Estándar",
+      "unidad": "unidades",
+      "precio": 6780,
+      "descuento": 0,
+      "sku": "ANT-OTRO-VAR-851-VAR001",
+      "esPredeterminado": true
+    }
+  ],
+  "atributos": {
+    "Marca": "EshopAngie",
+    "Modelo": 128,
+    "Color": "Gris"
+  },
+  "seo": {
+    "metaTitulo": "Antena De Seguridad Corta Hilo Curado Para Motos",
+    "metaDescripcion": "Descripción Antena corta hilo curado.\nModelo Retráctil\n\nFabricada en Acero Inoxidable con Aluminio.\nAjustable con abrazadera.\nExtendible hasta 65cm.\n4 Filos ...",
+    "palabrasClave": [
+      "antena",
+      "color",
+      "corta",
+      "curado",
+      "eshopangie"
+    ]
+  },
+  "marca": "EshopAngie",
+  "requiereRefrigeracion": false,
+  "ratingAverage": 0
+}

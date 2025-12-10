@@ -1,0 +1,62 @@
+{
+  "sku": "ANT-OTRO-VAR-257",
+  "nombre": "Antena Corta Hilo Curado Moto Retractil Corta Pipa",
+  "slug": "antena-corta-hilo-curado-moto-retractil-corta-pipa",
+  "categoria": "OTROS",
+  "subcategoria": "Varios",
+  "descripcion": {
+    "corta": "Descripción La 'Antena Corta Hilo Curado Moto Retráctil Corta Pipa' es la solución ideal para garantizar la seguridad y confort del conductor y pasajero en m...",
+    "completa": "Descripción La 'Antena Corta Hilo Curado Moto Retráctil Corta Pipa' es la solución ideal para garantizar la seguridad y confort del conductor y pasajero en motocicletas. Esta antena se destaca por su diseño compacto y duradero, con un vástago de acero que proporciona una resistencia excepcional. Su abrazadera de aluminio facilita un ajuste seguro y preciso, permitiendo que se adapte de manera óptima a volantes de 7/8” (22mm). Con un alcance extensible de hasta 58 cm, se ajusta perfectamente a la"
+  },
+  "multimedia": {
+    "imagenes": [
+      {
+        "url": "https://http2.mlstatic.com/D_Q_NP_2X_694519-MLA95244965971_102025-E.webp",
+        "textoAlternativo": "Antena Corta Hilo Curado Moto Retractil Corta Pipa",
+        "esPrincipal": true
+      }
+    ]
+  },
+  "estado": true,
+  "tags": [
+    "antena",
+    "corta",
+    "curado",
+    "genérica",
+    "hilo",
+    "marca",
+    "modelo",
+    "moto",
+    "pipa",
+    "retractil"
+  ],
+  "variantes": [
+    {
+      "nombre": "Estándar",
+      "unidad": "unidades",
+      "precio": 4920.0,
+      "descuento": 0,
+      "sku": "ANT-OTRO-VAR-257-VAR001",
+      "esPredeterminado": true
+    }
+  ],
+  "atributos": {
+    "Marca": "Genérica",
+    "Modelo": "antena corta pipa",
+    "Color": "Negro"
+  },
+  "seo": {
+    "metaTitulo": "Antena Corta Hilo Curado Moto Retractil Corta Pipa",
+    "metaDescripcion": "Descripción La 'Antena Corta Hilo Curado Moto Retráctil Corta Pipa' es la solución ideal para garantizar la seguridad y confort del conductor y pasajero en m...",
+    "palabrasClave": [
+      "antena",
+      "corta",
+      "curado",
+      "genérica",
+      "hilo"
+    ]
+  },
+  "marca": "Genérica",
+  "requiereRefrigeracion": false,
+  "ratingAverage": 0
+}

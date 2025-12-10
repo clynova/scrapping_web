@@ -1,0 +1,73 @@
+# Entorno Virtual Python
+venv/
+env/
+ENV/
+.venv/
+
+# Archivos compilados y caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Archivos temporales
+*.tmp
+*.temp
+*.log
+*.bak
+*~
+
+# IDE y Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
+
+# Archivos de datos (duplicados en raíz)
+viaje_azul_productos.csv
+viaje_azul_productos.xlsx
+viaje_azul_productos_con_detalles.csv
+viaje_azul_productos_con_detalles.xlsx
+
+# Carpeta de imágenes duplicada (usar datos/imagenes/ en su lugar)
+imagenes_mercadolibre/
+
+# Variables de entorno
+.env
+.env.local
+.env.*.local
+
+# Base de datos
+*.db
+*.sqlite
+*.sqlite3
+
+# Archivos de sistema
+.DS_Store
+.AppleDouble
+.LSOverride
+.Windows-thumbnail.db
+
+# Node (si se usa)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Carpeta de datos grande (opcional - descomentar si es muy grande)
+# datos/imagenes/
+
+# Archivos de respaldo del scraper
+debug_response.html
+test_output.json
+
+# Carpeta temporal
+temp/
+tmp/

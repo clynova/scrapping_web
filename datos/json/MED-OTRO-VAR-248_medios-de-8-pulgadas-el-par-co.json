@@ -1,0 +1,63 @@
+{
+  "sku": "MED-OTRO-VAR-248",
+  "nombre": "Medios De 8 Pulgadas El Par Color Negro",
+  "slug": "medios-de-8-pulgadas-el-par-color-negro",
+  "categoria": "OTROS",
+  "subcategoria": "Varios",
+  "descripcion": {
+    "corta": "Descripción Descubre el par de medios de 8 pulgadas de la reconocida marca Pervoi, diseñado especialmente para mejorar la calidad de sonido en tu auto o cami...",
+    "completa": "Descripción Descubre el par de medios de 8 pulgadas de la reconocida marca Pervoi, diseñado especialmente para mejorar la calidad de sonido en tu auto o camioneta. Este conjunto incluye dos parlantes, cada uno con un diámetro de 20 cm, que garantizan un rendimiento excepcional. Con una potencia máxima PMPO de 800 W y una potencia RMS de 80 W, estos parlantes ofrecen un sonido potente y claro, ideal para los amantes de la música. Su diseño compacto, con una profundidad de 20 cm y dimensiones de 2"
+  },
+  "multimedia": {
+    "imagenes": [
+      {
+        "url": "https://http2.mlstatic.com/D_Q_NP_2X_886811-MLA99397817282_112025-E.webp",
+        "textoAlternativo": "Medios De 8 Pulgadas El Par Color Negro",
+        "esPrincipal": true
+      }
+    ]
+  },
+  "estado": true,
+  "tags": [
+    "color",
+    "línea",
+    "marca",
+    "medios",
+    "modelo",
+    "negro",
+    "par",
+    "pulgadas",
+    "raistar"
+  ],
+  "variantes": [
+    {
+      "nombre": "Estándar",
+      "unidad": "unidades",
+      "precio": 32574.0,
+      "descuento": 0,
+      "sku": "MED-OTRO-VAR-248-VAR001",
+      "esPredeterminado": true
+    }
+  ],
+  "atributos": {
+    "Marca": "Raistar",
+    "Línea": "Medios",
+    "Modelo": "8 Pulgadas",
+    "Color": "Negro",
+    "Cantidad de parlantes": 2
+  },
+  "seo": {
+    "metaTitulo": "Medios De 8 Pulgadas El Par Color Negro",
+    "metaDescripcion": "Descripción Descubre el par de medios de 8 pulgadas de la reconocida marca Pervoi, diseñado especialmente para mejorar la calidad de sonido en tu auto o cami...",
+    "palabrasClave": [
+      "color",
+      "línea",
+      "marca",
+      "medios",
+      "modelo"
+    ]
+  },
+  "marca": "Raistar",
+  "requiereRefrigeracion": false,
+  "ratingAverage": 0
+}

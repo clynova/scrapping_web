@@ -1,0 +1,64 @@
+{
+  "sku": "SUB-OTRO-VAR-773",
+  "nombre": "Subwoofer Pervoi 1500w De Doble Bobina Gran Potencia Color Negro",
+  "slug": "subwoofer-pervoi-1500w-de-doble-bobina-gran-potencia-color-negro",
+  "categoria": "OTROS",
+  "subcategoria": "Varios",
+  "descripcion": {
+    "corta": "Descripción El Subwoofer Pervoi CTC1060 es la elección perfecta para quienes buscan una experiencia de sonido envolvente en su auto o camioneta. Con una pote...",
+    "completa": "Descripción El Subwoofer Pervoi CTC1060 es la elección perfecta para quienes buscan una experiencia de sonido envolvente en su auto o camioneta. Con una potencia RMS de 1500 W, este subwoofer de doble bobina ofrece un rendimiento excepcional que transforma cualquier viaje en una experiencia musical única. Su diseño compacto de 10 pulgadas permite una fácil integración en diversos espacios, sin sacrificar la calidad del sonido.\n\nEste subwoofer cuenta con un rango de frecuencia de 50 Hz a 2 kHz, l"
+  },
+  "multimedia": {
+    "imagenes": [
+      {
+        "url": "https://http2.mlstatic.com/D_Q_NP_2X_700770-MLA99445688052_112025-E.webp",
+        "textoAlternativo": "Subwoofer Pervoi 1500w De Doble Bobina Gran Potencia Color Negro",
+        "esPrincipal": true
+      }
+    ]
+  },
+  "estado": true,
+  "tags": [
+    "bobina",
+    "color",
+    "doble",
+    "gran",
+    "línea",
+    "marca",
+    "modelo",
+    "negro",
+    "pervoi",
+    "potencia"
+  ],
+  "variantes": [
+    {
+      "nombre": "Estándar",
+      "unidad": "unidades",
+      "precio": 52359.0,
+      "descuento": 0,
+      "sku": "SUB-OTRO-VAR-773-VAR001",
+      "esPredeterminado": true
+    }
+  ],
+  "atributos": {
+    "Marca": "Pervoi",
+    "Línea": "Subwoofer",
+    "Modelo": "CTC1060",
+    "Color": "Negro",
+    "Cantidad de parlantes": 1
+  },
+  "seo": {
+    "metaTitulo": "Subwoofer Pervoi 1500w De Doble Bobina Gran Potencia Color N",
+    "metaDescripcion": "Descripción El Subwoofer Pervoi CTC1060 es la elección perfecta para quienes buscan una experiencia de sonido envolvente en su auto o camioneta. Con una pote...",
+    "palabrasClave": [
+      "bobina",
+      "color",
+      "doble",
+      "gran",
+      "línea"
+    ]
+  },
+  "marca": "Pervoi",
+  "requiereRefrigeracion": false,
+  "ratingAverage": 0
+}

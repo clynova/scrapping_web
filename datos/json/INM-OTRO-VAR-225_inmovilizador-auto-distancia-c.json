@@ -1,0 +1,61 @@
+{
+  "sku": "INM-OTRO-VAR-225",
+  "nombre": "Inmovilizador Auto Distancia Corta Corriente Antirobo Autos Inmovilizador 2.4 GHZ 2M",
+  "slug": "inmovilizador-auto-distancia-corta-corriente-antirobo-autos-inmovilizador-24-ghz-2m",
+  "categoria": "OTROS",
+  "subcategoria": "Varios",
+  "descripcion": {
+    "corta": "Descripción Inmovilizador Auto Distancia Corta Corriente Antirobo Autos\n\n- Tecnología de señal de transmisión bidireccional\n- Fácil de ocultar\n- Frecuencia d...",
+    "completa": "Descripción Inmovilizador Auto Distancia Corta Corriente Antirobo Autos\n\n- Tecnología de señal de transmisión bidireccional\n- Fácil de ocultar\n- Frecuencia de trabajo: 2,4 GHz FSK/GFSK\n- Voltaje de la operación: 3V\n- Escaneo en tiempo real\n- Bajo consumo de energía\n- Incluye 2 controles\n- Incluye 2 pilas (CR2032)\n- Fácil instalación\n- Alcance de recepción efectiva: 2M\n- Incluye Manual de Instalación (En Español)\n\nEl equipo contiene 2 tarjetas de 2.4 GHz que se comunican con el módulo y al alejar"
+  },
+  "multimedia": {
+    "imagenes": [
+      {
+        "url": "https://http2.mlstatic.com/D_Q_NP_2X_941975-MLA99413414142_112025-E.webp",
+        "textoAlternativo": "Inmovilizador Auto Distancia Corta Corriente Antirobo Autos Inmovilizador 2.4 GHZ 2M",
+        "esPrincipal": true
+      }
+    ]
+  },
+  "estado": true,
+  "tags": [
+    "antirobo",
+    "auto",
+    "autos",
+    "corriente",
+    "corta",
+    "distancia",
+    "genérica",
+    "ghz",
+    "inmovilizador",
+    "marca"
+  ],
+  "variantes": [
+    {
+      "nombre": "Estándar",
+      "unidad": "unidades",
+      "precio": 19980.0,
+      "descuento": 0,
+      "sku": "INM-OTRO-VAR-225-VAR001",
+      "esPredeterminado": true
+    }
+  ],
+  "atributos": {
+    "Marca": "Genérica",
+    "Modelo": "Inmovilizador 2.4 GHZ 2M"
+  },
+  "seo": {
+    "metaTitulo": "Inmovilizador Auto Distancia Corta Corriente Antirobo Autos ",
+    "metaDescripcion": "Descripción Inmovilizador Auto Distancia Corta Corriente Antirobo Autos\n\n- Tecnología de señal de transmisión bidireccional\n- Fácil de ocultar\n- Frecuencia d...",
+    "palabrasClave": [
+      "antirobo",
+      "auto",
+      "autos",
+      "corriente",
+      "corta"
+    ]
+  },
+  "marca": "Genérica",
+  "requiereRefrigeracion": false,
+  "ratingAverage": 0
+}

@@ -1,0 +1,64 @@
+{
+  "sku": "KIT-OTRO-VAR-124",
+  "nombre": "Kit Cables Para Amplificador Betensh 1500 Watts Subwoofer RCA Rojo/Azul",
+  "slug": "kit-cables-para-amplificador-betensh-1500-watts-subwoofer-rca-rojoazul",
+  "categoria": "OTROS",
+  "subcategoria": "Varios",
+  "descripcion": {
+    "corta": "Descripción Este cable es ideal para conectar tus dispositivos de manera fácil y sencilla. Podrás transferir tu audio y video en pocos pasos.",
+    "completa": "Descripción Este cable es ideal para conectar tus dispositivos de manera fácil y sencilla. Podrás transferir tu audio y video en pocos pasos."
+  },
+  "multimedia": {
+    "imagenes": [
+      {
+        "url": "https://http2.mlstatic.com/D_Q_NP_2X_983841-MLA100003518991_112025-E.webp",
+        "textoAlternativo": "Kit Cables Para Amplificador Betensh 1500 Watts Subwoofer RCA Rojo/Azul",
+        "esPrincipal": true
+      }
+    ]
+  },
+  "estado": true,
+  "tags": [
+    "amplificador",
+    "azul",
+    "betensh",
+    "cables",
+    "kit",
+    "marca",
+    "modelo",
+    "rca",
+    "rojo",
+    "subwoofer"
+  ],
+  "variantes": [
+    {
+      "nombre": "Estándar",
+      "unidad": "unidades",
+      "precio": 7880.0,
+      "descuento": 0,
+      "sku": "KIT-OTRO-VAR-124-VAR001",
+      "esPredeterminado": true
+    }
+  ],
+  "atributos": {
+    "Marca": "Betensh",
+    "Modelo": "1500 Watts Subwoofer",
+    "Tipo de cable y adaptador": "RCA",
+    "Color": "Rojo/Azul",
+    "Largo del cable": "5 m"
+  },
+  "seo": {
+    "metaTitulo": "Kit Cables Para Amplificador Betensh 1500 Watts Subwoofer RC",
+    "metaDescripcion": "Descripción Este cable es ideal para conectar tus dispositivos de manera fácil y sencilla. Podrás transferir tu audio y video en pocos pasos.",
+    "palabrasClave": [
+      "amplificador",
+      "azul",
+      "betensh",
+      "cables",
+      "kit"
+    ]
+  },
+  "marca": "Betensh",
+  "requiereRefrigeracion": false,
+  "ratingAverage": 0
+}
